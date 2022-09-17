@@ -31,6 +31,6 @@ abstract class ConfigDumpTask: DefaultTask() {
     }
 
     companion object {
-        const val NAME = "dumpConfig"
+        const val NAME = "dumpGradleConfig"
     }
 }
