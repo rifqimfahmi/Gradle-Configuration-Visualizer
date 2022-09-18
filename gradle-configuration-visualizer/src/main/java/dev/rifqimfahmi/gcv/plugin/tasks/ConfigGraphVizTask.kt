@@ -9,10 +9,17 @@ import guru.nidi.graphviz.model.Graph
 import guru.nidi.graphviz.model.LinkSource
 import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.TaskAction
+import org.gradle.api.tasks.options.Option
 import java.util.*
-import javax.inject.Inject
 
 abstract class ConfigGraphVizTask : DefaultTask() {
+
+    private var target = ""
+
+    @Option(option = "target", description = "Specific config dependency you want to check")
+    fun setConfigTarget(target: String) {
+        this.target = target
+    }
 
     init {
         init()
