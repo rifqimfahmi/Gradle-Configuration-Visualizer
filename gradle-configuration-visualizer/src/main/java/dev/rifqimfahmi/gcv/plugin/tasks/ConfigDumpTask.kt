@@ -22,7 +22,6 @@ abstract class ConfigDumpTask: DefaultTask() {
                 it.name
             }.joinToString()
             println("Extends from: $extendsFrom")
-
         }
     }
 
