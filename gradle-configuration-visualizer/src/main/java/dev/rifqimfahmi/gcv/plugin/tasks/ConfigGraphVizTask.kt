@@ -28,7 +28,12 @@ abstract class ConfigGraphVizTask : DefaultTask() {
 
     @TaskAction
     fun dumpConfigurations() {
-        val whitelist = "debugCompileClasspath"
+        val whitelist = target
+        val fileName = if (target.isBlank()) {
+            "allConfigurations"
+        } else {
+            whitelist
+        }
         val nodes: MutableList<LinkSource> = mutableListOf()
         val configMap: MutableMap<String, Set<String>> = mutableMapOf()
 
@@ -41,8 +46,14 @@ abstract class ConfigGraphVizTask : DefaultTask() {
         }
 
         val queue: LinkedList<String> = LinkedList<String>().apply {
-            add(whitelist)
+            if (whitelist.isBlank()) {
+                addAll(configMap.keys)
+            } else {
+                add(whitelist)
+            }
         }
+
+        val visited = mutableSetOf<String>()
 
         while (queue.isNotEmpty()) {
             val target = queue.pop()
@@ -51,17 +62,21 @@ abstract class ConfigGraphVizTask : DefaultTask() {
             for (parent in parents) {
                 gNode = gNode.link(node(parent))
             }
-            queue.addAll(parents)
+            visited.add(target)
+            for (parent in parents) {
+                if (visited.contains(parent)) continue
+                queue.add(parent)
+            }
             nodes.add(gNode)
         }
 
-        val fileName = "$whitelist.svg"
+        val fileNameFormat = "$fileName.svg"
         val g: Graph = graph(whitelist).directed()
             .nodeAttr().with(Font.name("arial"))
             .linkAttr().with("class", "link-class")
             .with(nodes)
         Graphviz.fromGraph(g).render(Format.SVG)
-            .toFile(project.layout.buildDirectory.file("$FOLDER_NAME/$fileName").get().asFile)
+            .toFile(project.layout.buildDirectory.file("$FOLDER_NAME/$fileNameFormat").get().asFile)
     }
 
     companion object {
