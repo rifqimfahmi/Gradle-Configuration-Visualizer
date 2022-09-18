@@ -10,6 +10,7 @@ import guru.nidi.graphviz.model.LinkSource
 import org.gradle.api.DefaultTask
 import org.gradle.api.tasks.TaskAction
 import java.util.*
+import javax.inject.Inject
 
 abstract class ConfigGraphVizTask : DefaultTask() {
 
@@ -23,9 +24,6 @@ abstract class ConfigGraphVizTask : DefaultTask() {
         val whitelist = "debugCompileClasspath"
         val nodes: MutableList<LinkSource> = mutableListOf()
         val configMap: MutableMap<String, Set<String>> = mutableMapOf()
-        val whitelistedConfig: MutableSet<String> = mutableSetOf<String>().also {
-            it.add(whitelist)
-        }
 
         for (configuration in project.configurations) {
             val parentConfigList = mutableSetOf<String>()
@@ -41,31 +39,26 @@ abstract class ConfigGraphVizTask : DefaultTask() {
 
         while (queue.isNotEmpty()) {
             val target = queue.pop()
+            var gNode = node(target)
             val parents = configMap.getOrDefault(target, setOf())
             for (parent in parents) {
-                whitelistedConfig.add(parent)
+                gNode = gNode.link(node(parent))
             }
-        }
-
-        for (configuration in project.configurations) {
-            if (!whitelistedConfig.contains(configuration.name)) continue
-            var gNode = node(configuration.name)
-            val parents = configuration.extendsFrom
-            for (parent in parents) {
-                gNode = gNode.link(node(parent.name))
-            }
+            queue.addAll(parents)
             nodes.add(gNode)
         }
 
-        val g: Graph = graph("example1").directed()
+        val fileName = "$whitelist.svg"
+        val g: Graph = graph(whitelist).directed()
             .nodeAttr().with(Font.name("arial"))
             .linkAttr().with("class", "link-class")
             .with(nodes)
         Graphviz.fromGraph(g).render(Format.SVG)
-            .toFile(project.layout.buildDirectory.file("configVisualizer/graph2.svg").get().asFile)
+            .toFile(project.layout.buildDirectory.file("$FOLDER_NAME/$fileName").get().asFile)
     }
 
     companion object {
         const val NAME = "visualizeGradleConfig"
+        const val FOLDER_NAME = "configVisualizer"
     }
 }
