@@ -1,5 +1,7 @@
 package dev.rifqimfahmi.gcv.plugin.tasks
 
+import dev.rifqimfahmi.gcv.plugin.graph.DirectGraphNodeVisualizer
+import dev.rifqimfahmi.gcv.plugin.graph.GraphNodeVisualizer
 import guru.nidi.graphviz.attribute.Font
 import guru.nidi.graphviz.engine.Format
 import guru.nidi.graphviz.engine.Graphviz
@@ -16,6 +18,8 @@ abstract class ConfigGraphVizTask : DefaultTask() {
 
     private var target = ""
 
+    private lateinit var gnv: GraphNodeVisualizer
+
     @Option(option = "target", description = "Specific config dependency you want to check")
     fun setConfigTarget(target: String) {
         this.target = target
@@ -28,46 +32,17 @@ abstract class ConfigGraphVizTask : DefaultTask() {
 
     @TaskAction
     fun dumpConfigurations() {
+        gnv = DirectGraphNodeVisualizer()
         val whitelist = target
         val fileName = if (target.isBlank()) {
             "allConfigurations"
         } else {
             whitelist
         }
-        val nodes: MutableList<LinkSource> = mutableListOf()
-        val configMap: MutableMap<String, Set<String>> = mutableMapOf()
 
-        for (configuration in project.configurations) {
-            val parentConfigList = mutableSetOf<String>()
-            for (parent in configuration.extendsFrom) {
-                parentConfigList.add(parent.name)
-            }
-            configMap[configuration.name] = parentConfigList
-        }
-
-        val queue: LinkedList<String> = LinkedList<String>().apply {
-            if (whitelist.isBlank()) {
-                addAll(configMap.keys)
-            } else {
-                add(whitelist)
-            }
-        }
-
-        val visited = mutableSetOf<String>()
-
-        while (queue.isNotEmpty()) {
-            val target = queue.pop()
-            var gNode = node(target)
-            val parents = configMap.getOrDefault(target, setOf())
-            for (parent in parents) {
-                gNode = gNode.link(node(parent))
-            }
-            visited.add(target)
-            for (parent in parents) {
-                if (visited.contains(parent)) continue
-                queue.add(parent)
-            }
-            nodes.add(gNode)
+        val configTreeMap = gnv.generateListTree(project.configurations)
+        val nodes: List<LinkSource> = gnv.visualize(configTreeMap, target) {
+            gnv.modifyNodeName(false, this, project.configurations)
         }
 
         val fileNameFormat = "$fileName.svg"
