@@ -1,6 +1,5 @@
 package dev.rifqimfahmi.gcv.plugin.graph
 
-import org.gradle.api.artifacts.Configuration
 import org.gradle.api.artifacts.ConfigurationContainer
 
 abstract class AbstractGraphNodeVisualizer: GraphNodeVisualizer {

@@ -38,6 +38,7 @@ abstract class ConfigGraphVizTask : DefaultTask() {
 
     @TaskAction
     fun dumpConfigurations() {
+        validate()
         gnv = DirectGraphNodeVisualizer()
         val whitelist = target
         val fileName = if (target.isBlank()) {
@@ -58,6 +59,12 @@ abstract class ConfigGraphVizTask : DefaultTask() {
             .with(nodes)
         Graphviz.fromGraph(g).render(Format.SVG)
             .toFile(project.layout.buildDirectory.file("$FOLDER_NAME/$fileNameFormat").get().asFile)
+    }
+
+    private fun validate() {
+        if (target.isNotEmpty()) {
+            project.configurations.getByName(target)
+        }
     }
 
     companion object {
