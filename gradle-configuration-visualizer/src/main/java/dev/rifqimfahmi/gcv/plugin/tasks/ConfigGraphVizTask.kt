@@ -17,12 +17,18 @@ import java.util.*
 abstract class ConfigGraphVizTask : DefaultTask() {
 
     private var target = ""
+    private var showCanBeResolved = false
 
     private lateinit var gnv: GraphNodeVisualizer
 
     @Option(option = "target", description = "Specific config dependency you want to check")
     fun setConfigTarget(target: String) {
         this.target = target
+    }
+
+    @Option(option = "show-resolved", description = "Show symbol on the node wether the configuration can be resolved or not")
+    fun setShowResolved(showCanBeResolved: Boolean) {
+        this.showCanBeResolved = showCanBeResolved
     }
 
     init {
@@ -42,7 +48,7 @@ abstract class ConfigGraphVizTask : DefaultTask() {
 
         val configTreeMap = gnv.generateListTree(project.configurations)
         val nodes: List<LinkSource> = gnv.visualize(configTreeMap, target) {
-            gnv.modifyNodeName(false, this, project.configurations)
+            gnv.modifyNodeName(showCanBeResolved, this, project.configurations)
         }
 
         val fileNameFormat = "$fileName.svg"
