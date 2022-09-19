@@ -23,14 +23,4 @@ abstract class AbstractGraphNodeVisualizer: GraphNodeVisualizer {
         }
     }
 
-    internal fun getConfigName(
-        configuration: Configuration,
-        showCanBeResolved: Boolean
-    ): String {
-        return if (showCanBeResolved && configuration.isCanBeResolved) {
-            "${configuration.name} (r)"
-        } else {
-            configuration.name
-        }
-    }
 }
