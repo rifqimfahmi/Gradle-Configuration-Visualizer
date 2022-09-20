@@ -3,6 +3,8 @@ package dev.rifqimfahmi.gcv.plugin.tasks
 import dev.rifqimfahmi.gcv.plugin.graph.DirectGraphNodeVisualizer
 import dev.rifqimfahmi.gcv.plugin.graph.GraphNodeVisualizer
 import dev.rifqimfahmi.gcv.plugin.graph.ReverseGraphNodeVisualizer
+import dev.rifqimfahmi.gcv.plugin.tasks.factory.ConfigGraphHelper
+import dev.rifqimfahmi.gcv.plugin.tasks.factory.ConfigGraphHelperImpl
 import guru.nidi.graphviz.attribute.Font
 import guru.nidi.graphviz.engine.Format
 import guru.nidi.graphviz.engine.Graphviz
@@ -18,6 +20,8 @@ abstract class ConfigGraphVizTask : DefaultTask() {
     private var target = ""
     private var showCanBeResolved = false
     private var isReversed = false
+
+    private lateinit var helper: ConfigGraphHelper
 
     private lateinit var gnv: GraphNodeVisualizer
 
@@ -44,34 +48,22 @@ abstract class ConfigGraphVizTask : DefaultTask() {
     @TaskAction
     fun dumpConfigurations() {
         validate()
-        gnv = if (isReversed) {
-            ReverseGraphNodeVisualizer()
-        } else {
-            DirectGraphNodeVisualizer()
-        }
-        val whitelist = target
-        val fileName = if (target.isBlank()) {
-            "allConfigurations"
-        } else {
-            whitelist
-        }
-
+        initTask()
         val configTreeMap = gnv.generateListTree(project.configurations)
         val nodes: List<LinkSource> = gnv.visualize(configTreeMap, target) {
             gnv.modifyNodeName(showCanBeResolved, this, project.configurations)
         }
-
-        val fileNameFormat = if (isReversed) {
-            "$fileName-reversed.svg"
-        } else {
-            "$fileName.svg"
-        }
-        val g: Graph = graph(whitelist).directed()
+        val g: Graph = graph(helper.name).directed()
             .nodeAttr().with(Font.name("arial"))
             .linkAttr().with("class", "link-class")
             .with(nodes)
         Graphviz.fromGraph(g).render(Format.SVG)
-            .toFile(project.layout.buildDirectory.file("$FOLDER_NAME/$fileNameFormat").get().asFile)
+            .toFile(helper.file)
+    }
+
+    private fun initTask() {
+        helper = ConfigGraphHelperImpl(project, target, showCanBeResolved, isReversed)
+        gnv = helper.createGraphNodeVisualizer()
     }
 
     private fun validate() {
