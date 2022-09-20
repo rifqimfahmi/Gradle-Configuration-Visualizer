@@ -17,6 +17,7 @@ class ReverseGraphNodeVisualizer: AbstractGraphNodeVisualizer() {
                 dependentConfigList.add(configuration.name)
                 configMap[parent.name] = dependentConfigList
             }
+            configMap[configuration.name] = configMap.getOrDefault(configuration.name, mutableSetOf())
         }
         return configMap
     }
@@ -46,6 +47,7 @@ class ReverseGraphNodeVisualizer: AbstractGraphNodeVisualizer() {
                 val dependantNodeLink = dependantNode.link(gNode)
                 nodes.add(dependantNodeLink)
             }
+            nodes.add(gNode)
             visited.add(node)
             for (dependant in dependants) {
                 if (visited.contains(dependant)) continue
