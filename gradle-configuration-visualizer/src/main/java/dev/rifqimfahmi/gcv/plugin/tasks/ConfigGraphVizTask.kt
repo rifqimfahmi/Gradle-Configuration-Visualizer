@@ -1,8 +1,6 @@
 package dev.rifqimfahmi.gcv.plugin.tasks
 
-import dev.rifqimfahmi.gcv.plugin.graph.DirectGraphNodeVisualizer
 import dev.rifqimfahmi.gcv.plugin.graph.GraphNodeVisualizer
-import dev.rifqimfahmi.gcv.plugin.graph.ReverseGraphNodeVisualizer
 import dev.rifqimfahmi.gcv.plugin.tasks.factory.ConfigGraphHelper
 import dev.rifqimfahmi.gcv.plugin.tasks.factory.ConfigGraphHelperImpl
 import guru.nidi.graphviz.attribute.Font
@@ -30,12 +28,18 @@ abstract class ConfigGraphVizTask : DefaultTask() {
         this.target = target
     }
 
-    @Option(option = "show-resolved", description = "Show symbol on the node wether the configuration can be resolved or not")
+    @Option(
+        option = "show-resolved",
+        description = "Show symbol on the node wether the configuration can be resolved or not"
+    )
     fun setShowResolved(showCanBeResolved: Boolean) {
         this.showCanBeResolved = showCanBeResolved
     }
 
-    @Option(option = "reverse", description = "Reverse the graph to find the dependents of specified target")
+    @Option(
+        option = "reverse",
+        description = "Reverse the graph to find the dependents of specified target"
+    )
     fun setOptIsReserved(isReversed: Boolean) {
         this.isReversed = isReversed
     }
