@@ -10,15 +10,12 @@ class DirectGraphNodeVisualizer: AbstractGraphNodeVisualizer() {
     override fun generateListTree(
         configurations: ConfigurationContainer
     ): Map<String, Set<String>> {
-        val configMap: MutableMap<String, Set<String>> = mutableMapOf()
-        for (configuration in configurations) {
-            val parentConfigList = mutableSetOf<String>()
-            for (parent in configuration.extendsFrom) {
-                parentConfigList.add(parent.name)
-            }
-            configMap[configuration.name] = parentConfigList
+        return configurations.associate { config ->
+            Pair(
+                config.name,
+                config.extendsFrom.map { parentConfig -> parentConfig.name }.toSet()
+            )
         }
-        return configMap
     }
 
     override fun visualize(
