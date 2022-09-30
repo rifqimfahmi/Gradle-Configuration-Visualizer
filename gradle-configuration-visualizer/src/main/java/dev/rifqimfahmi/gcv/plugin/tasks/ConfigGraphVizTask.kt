@@ -63,6 +63,7 @@ abstract class ConfigGraphVizTask : DefaultTask() {
             .with(nodes)
         Graphviz.fromGraph(g).render(Format.SVG)
             .toFile(helper.file)
+        println("Here is your graph: ${helper.file}")
     }
 
     private fun initTask() {
