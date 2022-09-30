@@ -27,14 +27,13 @@ class DirectGraphNodeVisualizerTest {
         }
 
         val result = dGnv.generateListTree(project.configurations)
+        println(result.toString())
 
-        assertThat(result).hasSize(3)
-        assertThat(result).containsKey(config1)
-        assertThat(result).containsKey(config2)
-        assertThat(result).containsKey(config3)
-        assertThat(result[config1]).isEmpty()
-        assertThat(result[config2]).containsExactly(config1)
-        assertThat(result[config3]).containsExactly(config1, config2)
+        assertThat(result).containsExactly(
+            config1, setOf<String>(),
+            config2, setOf(config1),
+            config3, setOf(config1, config2)
+        )
     }
 
     @Test

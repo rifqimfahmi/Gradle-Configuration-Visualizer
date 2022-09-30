@@ -27,7 +27,6 @@ class ReverseGraphNodeVisualizerTest {
         }
 
         val result = dGnv.generateListTree(project.configurations)
-        println(result.toString())
 
         assertThat(result).containsExactly(
             config1, setOf(config2, config3),
