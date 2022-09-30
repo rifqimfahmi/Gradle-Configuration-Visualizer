@@ -15,7 +15,7 @@ java {
 }
 
 pluginBundle {
-    website = "rifqimfahmi.dev"
+    website = "https://rifqimfahmi.dev/"
     vcsUrl = "https://github.com/rifqimfahmi/Gradle-Configuration-Visualizer"
     tags = listOf("gradle", "configurations", "classpath", "api", "graph")
 }

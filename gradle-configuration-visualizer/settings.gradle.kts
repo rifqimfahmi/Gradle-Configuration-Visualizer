@@ -1,3 +1,4 @@
+rootProject.name = "Gradle Config Visualizer"
 pluginManagement {
     repositories {
         gradlePluginPortal()
