@@ -5,7 +5,7 @@ import dev.rifqimfahmi.gcv.plugin.tasks.ConfigGraphVizTask
 import org.gradle.api.Plugin
 import org.gradle.api.Project
 
-class GradleConfigVisualizer: Plugin<Project> {
+class GradleConfigVisualizerPlugin: Plugin<Project> {
 
     override fun apply(project: Project) {
         project.tasks.register(ConfigDumpTask.NAME, ConfigDumpTask::class.java)

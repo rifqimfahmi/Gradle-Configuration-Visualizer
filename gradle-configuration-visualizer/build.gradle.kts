@@ -13,7 +13,7 @@ gradlePlugin {
     plugins {
         create("gcvPlugin") {
             id = "dev.rifqimfahmi.gcv.plugin"
-            implementationClass = "dev.rifqimfahmi.gcv.plugin.GradleConfigVisualizer"
+            implementationClass = "dev.rifqimfahmi.gcv.plugin.GradleConfigVisualizerPlugin"
         }
     }
 }
