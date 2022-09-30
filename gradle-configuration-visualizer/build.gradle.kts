@@ -20,4 +20,11 @@ gradlePlugin {
 
 dependencies {
     implementation("guru.nidi:graphviz-java:0.18.1")
+    testImplementation("com.google.truth:truth:1.1.3")
+}
+
+tasks.test {
+    testLogging {
+        showStandardStreams = true
+    }
 }
