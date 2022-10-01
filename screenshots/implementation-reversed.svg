@@ -1,0 +1,235 @@
+<svg width="2737px" height="260px"
+ viewBox="0.00 0.00 2737.37 260.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 256.0)">
+<title>implementation</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-256 2733.37,-256 2733.37,4 -4,4"/>
+<!-- debugAndroidTestCompileClasspath -->
+<g id="node1" class="node">
+<title>debugAndroidTestCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="153.39" cy="-162" rx="153.27" ry="18"/>
+<text text-anchor="middle" x="153.39" y="-158.3" font-family="arial" font-size="14.00">debugAndroidTestCompileClasspath</text>
+</g>
+<!-- debugImplementation -->
+<g id="node2" class="node">
+<title>debugImplementation</title>
+<ellipse fill="none" stroke="black" cx="783.39" cy="-90" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="783.39" y="-86.3" font-family="arial" font-size="14.00">debugImplementation</text>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;debugImplementation -->
+<g id="edge1" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M260.61,-149.09C382.17,-135.58 578.22,-113.8 692.54,-101.09"/>
+<polygon fill="black" stroke="black" points="693.11,-104.55 702.67,-99.97 692.34,-97.59 693.11,-104.55"/>
+</g>
+<!-- implementation -->
+<g id="node3" class="node">
+<title>implementation</title>
+<ellipse fill="none" stroke="black" cx="1341.39" cy="-18" rx="71.49" ry="18"/>
+<text text-anchor="middle" x="1341.39" y="-14.3" font-family="arial" font-size="14.00">implementation</text>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;implementation -->
+<g id="edge2" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M211.91,-145.26C290.21,-124.87 433.67,-89.82 558.39,-72 812.67,-35.66 1117.09,-24.1 1259.88,-20.53"/>
+<polygon fill="black" stroke="black" points="1260.39,-24.02 1270.3,-20.28 1260.22,-17.02 1260.39,-24.02"/>
+</g>
+<!-- debugImplementation&#45;&gt;implementation -->
+<g id="edge5" class="edge link&#45;class">
+<title>debugImplementation&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M860.97,-79.27C968.93,-65.72 1163.03,-41.38 1268.44,-28.15"/>
+<polygon fill="black" stroke="black" points="1269.19,-31.58 1278.67,-26.87 1268.31,-24.64 1269.19,-31.58"/>
+</g>
+<!-- debugCompileClasspath -->
+<g id="node4" class="node">
+<title>debugCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="431.39" cy="-162" rx="106.68" ry="18"/>
+<text text-anchor="middle" x="431.39" y="-158.3" font-family="arial" font-size="14.00">debugCompileClasspath</text>
+</g>
+<!-- debugCompileClasspath&#45;&gt;debugImplementation -->
+<g id="edge3" class="edge link&#45;class">
+<title>debugCompileClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M497.59,-147.83C558.18,-135.78 647.67,-117.99 710.32,-105.53"/>
+<polygon fill="black" stroke="black" points="711.01,-108.96 720.14,-103.58 709.65,-102.1 711.01,-108.96"/>
+</g>
+<!-- debugCompileClasspath&#45;&gt;implementation -->
+<g id="edge4" class="edge link&#45;class">
+<title>debugCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M466.51,-144.97C513.62,-124.25 600.42,-88.85 678.39,-72 884.22,-27.52 1133.26,-19.52 1259.49,-18.59"/>
+<polygon fill="black" stroke="black" points="1259.86,-22.09 1269.84,-18.53 1259.82,-15.09 1259.86,-22.09"/>
+</g>
+<!-- debugRuntimeClasspath -->
+<g id="node5" class="node">
+<title>debugRuntimeClasspath</title>
+<ellipse fill="none" stroke="black" cx="1097.39" cy="-162" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="1097.39" y="-158.3" font-family="arial" font-size="14.00">debugRuntimeClasspath</text>
+</g>
+<!-- debugRuntimeClasspath&#45;&gt;debugImplementation -->
+<g id="edge6" class="edge link&#45;class">
+<title>debugRuntimeClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M1035.72,-147.25C983.1,-135.52 907.47,-118.66 852.74,-106.46"/>
+<polygon fill="black" stroke="black" points="853.3,-103 842.78,-104.24 851.78,-109.83 853.3,-103"/>
+</g>
+<!-- debugRuntimeClasspath&#45;&gt;implementation -->
+<g id="edge7" class="edge link&#45;class">
+<title>debugRuntimeClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M1125.85,-144.43C1170.47,-118.47 1256.8,-68.23 1305.57,-39.84"/>
+<polygon fill="black" stroke="black" points="1307.34,-42.87 1314.22,-34.81 1303.82,-36.81 1307.34,-42.87"/>
+</g>
+<!-- debugUnitTestCompileClasspath -->
+<g id="node6" class="node">
+<title>debugUnitTestCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="1361.39" cy="-162" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="1361.39" y="-158.3" font-family="arial" font-size="14.00">debugUnitTestCompileClasspath</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;debugImplementation -->
+<g id="edge8" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M1263.99,-149.2C1154.28,-135.92 977.52,-114.51 871.69,-101.69"/>
+<polygon fill="black" stroke="black" points="872.02,-98.21 861.68,-100.48 871.18,-105.16 872.02,-98.21"/>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;implementation -->
+<g id="edge9" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M1309.92,-145.17C1292.31,-137.02 1274.52,-125.08 1264.39,-108 1256.22,-94.24 1256.94,-86.16 1264.39,-72 1271.63,-58.23 1284.24,-47.34 1297.19,-39.1"/>
+<polygon fill="black" stroke="black" points="1299.31,-41.92 1306.15,-33.82 1295.76,-35.89 1299.31,-41.92"/>
+</g>
+<!-- implementationDependenciesMetadata -->
+<g id="node7" class="node">
+<title>implementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="1437.39" cy="-90" rx="164.37" ry="18"/>
+<text text-anchor="middle" x="1437.39" y="-86.3" font-family="arial" font-size="14.00">implementationDependenciesMetadata</text>
+</g>
+<!-- implementationDependenciesMetadata&#45;&gt;implementation -->
+<g id="edge10" class="edge link&#45;class">
+<title>implementationDependenciesMetadata&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M1414.15,-72.05C1401.46,-62.81 1385.6,-51.24 1371.93,-41.27"/>
+<polygon fill="black" stroke="black" points="1373.89,-38.37 1363.75,-35.31 1369.77,-44.03 1373.89,-38.37"/>
+</g>
+<!-- releaseCompileClasspath -->
+<g id="node8" class="node">
+<title>releaseCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="1629.39" cy="-162" rx="111.28" ry="18"/>
+<text text-anchor="middle" x="1629.39" y="-158.3" font-family="arial" font-size="14.00">releaseCompileClasspath</text>
+</g>
+<!-- releaseCompileClasspath&#45;&gt;implementation -->
+<g id="edge12" class="edge link&#45;class">
+<title>releaseCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M1630.88,-144C1631.63,-123.91 1629.53,-90.84 1610.39,-72 1583.79,-45.82 1488.87,-31.83 1419.29,-24.92"/>
+<polygon fill="black" stroke="black" points="1419.51,-21.42 1409.22,-23.95 1418.84,-28.39 1419.51,-21.42"/>
+</g>
+<!-- releaseImplementation -->
+<g id="node9" class="node">
+<title>releaseImplementation</title>
+<ellipse fill="none" stroke="black" cx="1872.39" cy="-90" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="1872.39" y="-86.3" font-family="arial" font-size="14.00">releaseImplementation</text>
+</g>
+<!-- releaseCompileClasspath&#45;&gt;releaseImplementation -->
+<g id="edge11" class="edge link&#45;class">
+<title>releaseCompileClasspath&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M1681.22,-146.07C1719.46,-135.05 1771.62,-120.03 1811.79,-108.46"/>
+<polygon fill="black" stroke="black" points="1812.83,-111.8 1821.47,-105.67 1810.89,-105.07 1812.83,-111.8"/>
+</g>
+<!-- releaseImplementation&#45;&gt;implementation -->
+<g id="edge13" class="edge link&#45;class">
+<title>releaseImplementation&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M1794.04,-78.67C1691.26,-65.12 1512.35,-41.54 1413.02,-28.44"/>
+<polygon fill="black" stroke="black" points="1413.45,-24.97 1403.07,-27.13 1412.53,-31.91 1413.45,-24.97"/>
+</g>
+<!-- releaseRuntimeClasspath -->
+<g id="node10" class="node">
+<title>releaseRuntimeClasspath</title>
+<ellipse fill="none" stroke="black" cx="2313.39" cy="-162" rx="111.58" ry="18"/>
+<text text-anchor="middle" x="2313.39" y="-158.3" font-family="arial" font-size="14.00">releaseRuntimeClasspath</text>
+</g>
+<!-- releaseRuntimeClasspath&#45;&gt;implementation -->
+<g id="edge15" class="edge link&#45;class">
+<title>releaseRuntimeClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M2266.84,-145.63C2203.32,-125.31 2085.56,-89.99 1982.39,-72 1782.84,-37.21 1544.24,-25.12 1422.12,-21.02"/>
+<polygon fill="black" stroke="black" points="1422.21,-17.52 1412.1,-20.69 1421.98,-24.51 1422.21,-17.52"/>
+</g>
+<!-- releaseRuntimeClasspath&#45;&gt;releaseImplementation -->
+<g id="edge14" class="edge link&#45;class">
+<title>releaseRuntimeClasspath&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M2236.82,-148.85C2158.17,-136.36 2036.14,-116.99 1955.26,-104.15"/>
+<polygon fill="black" stroke="black" points="1955.54,-100.66 1945.12,-102.54 1954.45,-107.57 1955.54,-100.66"/>
+</g>
+<!-- releaseUnitTestCompileClasspath -->
+<g id="node11" class="node">
+<title>releaseUnitTestCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="2586.39" cy="-162" rx="142.97" ry="18"/>
+<text text-anchor="middle" x="2586.39" y="-158.3" font-family="arial" font-size="14.00">releaseUnitTestCompileClasspath</text>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;implementation -->
+<g id="edge17" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M2515.35,-146.37C2416.64,-126.57 2232.19,-91.48 2073.39,-72 1837.5,-43.07 1556.77,-28.16 1421.76,-22.2"/>
+<polygon fill="black" stroke="black" points="1421.65,-18.69 1411.51,-21.75 1421.34,-25.69 1421.65,-18.69"/>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;releaseImplementation -->
+<g id="edge16" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M2484.21,-149.33C2467.56,-147.5 2450.5,-145.66 2434.39,-144 2272.02,-127.27 2083.05,-109.87 1970.81,-99.76"/>
+<polygon fill="black" stroke="black" points="1970.8,-96.25 1960.53,-98.84 1970.17,-103.22 1970.8,-96.25"/>
+</g>
+<!-- debugImplementationDependenciesMetadata -->
+<g id="node12" class="node">
+<title>debugImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="783.39" cy="-162" rx="189.27" ry="18"/>
+<text text-anchor="middle" x="783.39" y="-158.3" font-family="arial" font-size="14.00">debugImplementationDependenciesMetadata</text>
+</g>
+<!-- debugImplementationDependenciesMetadata&#45;&gt;debugImplementation -->
+<g id="edge18" class="edge link&#45;class">
+<title>debugImplementationDependenciesMetadata&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M783.39,-143.7C783.39,-135.98 783.39,-126.71 783.39,-118.11"/>
+<polygon fill="black" stroke="black" points="786.89,-118.1 783.39,-108.1 779.89,-118.1 786.89,-118.1"/>
+</g>
+<!-- debugRuntimeElements -->
+<g id="node13" class="node">
+<title>debugRuntimeElements</title>
+<ellipse fill="none" stroke="black" cx="832.39" cy="-234" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="832.39" y="-230.3" font-family="arial" font-size="14.00">debugRuntimeElements</text>
+</g>
+<!-- debugRuntimeElements&#45;&gt;debugImplementation -->
+<g id="edge20" class="edge link&#45;class">
+<title>debugRuntimeElements&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M740.38,-225.2C678.56,-217.83 604.93,-204.18 585.39,-180 549.65,-135.79 624.76,-112.78 692.5,-101.34"/>
+<polygon fill="black" stroke="black" points="693.12,-104.78 702.43,-99.73 692,-97.87 693.12,-104.78"/>
+</g>
+<!-- debugRuntimeElements&#45;&gt;debugRuntimeClasspath -->
+<g id="edge19" class="edge link&#45;class">
+<title>debugRuntimeElements&#45;&gt;debugRuntimeClasspath</title>
+<path fill="none" stroke="black" d="M886.97,-218.58C929.23,-207.42 987.89,-191.92 1032.54,-180.13"/>
+<polygon fill="black" stroke="black" points="1033.64,-183.46 1042.42,-177.52 1031.85,-176.69 1033.64,-183.46"/>
+</g>
+<!-- releaseImplementationDependenciesMetadata -->
+<g id="node14" class="node">
+<title>releaseImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="1990.39" cy="-162" rx="193.87" ry="18"/>
+<text text-anchor="middle" x="1990.39" y="-158.3" font-family="arial" font-size="14.00">releaseImplementationDependenciesMetadata</text>
+</g>
+<!-- releaseImplementationDependenciesMetadata&#45;&gt;releaseImplementation -->
+<g id="edge21" class="edge link&#45;class">
+<title>releaseImplementationDependenciesMetadata&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M1961.82,-144.05C1945.91,-134.61 1925.92,-122.76 1908.89,-112.65"/>
+<polygon fill="black" stroke="black" points="1910.67,-109.64 1900.28,-107.55 1907.1,-115.66 1910.67,-109.64"/>
+</g>
+<!-- releaseRuntimeElements -->
+<g id="node15" class="node">
+<title>releaseRuntimeElements</title>
+<ellipse fill="none" stroke="black" cx="2040.39" cy="-234" rx="109.68" ry="18"/>
+<text text-anchor="middle" x="2040.39" y="-230.3" font-family="arial" font-size="14.00">releaseRuntimeElements</text>
+</g>
+<!-- releaseRuntimeElements&#45;&gt;releaseImplementation -->
+<g id="edge23" class="edge link&#45;class">
+<title>releaseRuntimeElements&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M1944.16,-225.27C1881.26,-218 1807.23,-204.43 1787.39,-180 1777.3,-167.58 1779.62,-157.99 1787.39,-144 1795.07,-130.15 1808.04,-119.45 1821.57,-111.41"/>
+<polygon fill="black" stroke="black" points="1823.41,-114.39 1830.48,-106.5 1820.04,-108.26 1823.41,-114.39"/>
+</g>
+<!-- releaseRuntimeElements&#45;&gt;releaseRuntimeClasspath -->
+<g id="edge22" class="edge link&#45;class">
+<title>releaseRuntimeElements&#45;&gt;releaseRuntimeClasspath</title>
+<path fill="none" stroke="black" d="M2096.95,-218.5C2140.46,-207.34 2200.69,-191.9 2246.57,-180.13"/>
+<polygon fill="black" stroke="black" points="2247.61,-183.48 2256.42,-177.61 2245.87,-176.7 2247.61,-183.48"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,2359 @@
+<svg width="35662px" height="332px"
+ viewBox="0.00 0.00 35661.93 332.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1.0 1.0) rotate(0.0) translate(4.0 328.0)">
+<title>allConfigurations</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-328 35657.93,-328 35657.93,4 -4,4"/>
+<!-- androidApis -->
+<g id="node1" class="node">
+<title>androidApis</title>
+<ellipse fill="none" stroke="black" cx="57.19" cy="-306" rx="57.39" ry="18"/>
+<text text-anchor="middle" x="57.19" y="-302.3" font-family="arial" font-size="14.00">androidApis</text>
+</g>
+<!-- androidJacocoAnt -->
+<g id="node2" class="node">
+<title>androidJacocoAnt</title>
+<ellipse fill="none" stroke="black" cx="213.19" cy="-306" rx="81.49" ry="18"/>
+<text text-anchor="middle" x="213.19" y="-302.3" font-family="arial" font-size="14.00">androidJacocoAnt</text>
+</g>
+<!-- androidJdkImage -->
+<g id="node3" class="node">
+<title>androidJdkImage</title>
+<ellipse fill="none" stroke="black" cx="391.19" cy="-306" rx="78.79" ry="18"/>
+<text text-anchor="middle" x="391.19" y="-302.3" font-family="arial" font-size="14.00">androidJdkImage</text>
+</g>
+<!-- androidTestAnnotationProcessor -->
+<g id="node4" class="node">
+<title>androidTestAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="531.19" cy="-234" rx="137.58" ry="18"/>
+<text text-anchor="middle" x="531.19" y="-230.3" font-family="arial" font-size="14.00">androidTestAnnotationProcessor</text>
+</g>
+<!-- androidTestApi -->
+<g id="node5" class="node">
+<title>androidTestApi</title>
+<ellipse fill="none" stroke="black" cx="1358.19" cy="-18" rx="68.79" ry="18"/>
+<text text-anchor="middle" x="1358.19" y="-14.3" font-family="arial" font-size="14.00">androidTestApi</text>
+</g>
+<!-- androidTestCompileOnly -->
+<g id="node6" class="node">
+<title>androidTestCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="1418.19" cy="-90" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="1418.19" y="-86.3" font-family="arial" font-size="14.00">androidTestCompileOnly</text>
+</g>
+<!-- androidTestDebugAnnotationProcessor -->
+<g id="node7" class="node">
+<title>androidTestDebugAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="850.19" cy="-234" rx="163.27" ry="18"/>
+<text text-anchor="middle" x="850.19" y="-230.3" font-family="arial" font-size="14.00">androidTestDebugAnnotationProcessor</text>
+</g>
+<!-- androidTestDebugApi -->
+<g id="node8" class="node">
+<title>androidTestDebugApi</title>
+<ellipse fill="none" stroke="black" cx="2201.19" cy="-18" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="2201.19" y="-14.3" font-family="arial" font-size="14.00">androidTestDebugApi</text>
+</g>
+<!-- androidTestDebugCompileOnly -->
+<g id="node9" class="node">
+<title>androidTestDebugCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="1128.19" cy="-90" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="1128.19" y="-86.3" font-family="arial" font-size="14.00">androidTestDebugCompileOnly</text>
+</g>
+<!-- androidTestDebugImplementation -->
+<g id="node10" class="node">
+<title>androidTestDebugImplementation</title>
+<ellipse fill="none" stroke="black" cx="2840.19" cy="-90" rx="142.97" ry="18"/>
+<text text-anchor="middle" x="2840.19" y="-86.3" font-family="arial" font-size="14.00">androidTestDebugImplementation</text>
+</g>
+<!-- androidTestDebugIntransitiveDependenciesMetadata -->
+<g id="node11" class="node">
+<title>androidTestDebugIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="8478.19" cy="-306" rx="217.96" ry="18"/>
+<text text-anchor="middle" x="8478.19" y="-302.3" font-family="arial" font-size="14.00">androidTestDebugIntransitiveDependenciesMetadata</text>
+</g>
+<!-- androidTestDebugRuntimeOnly -->
+<g id="node12" class="node">
+<title>androidTestDebugRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="4120.19" cy="-90" rx="133.78" ry="18"/>
+<text text-anchor="middle" x="4120.19" y="-86.3" font-family="arial" font-size="14.00">androidTestDebugRuntimeOnly</text>
+</g>
+<!-- androidTestDebugWearApp -->
+<g id="node13" class="node">
+<title>androidTestDebugWearApp</title>
+<ellipse fill="none" stroke="black" cx="11452.19" cy="-306" rx="118.08" ry="18"/>
+<text text-anchor="middle" x="11452.19" y="-302.3" font-family="arial" font-size="14.00">androidTestDebugWearApp</text>
+</g>
+<!-- androidTestImplementation -->
+<g id="node14" class="node">
+<title>androidTestImplementation</title>
+<ellipse fill="none" stroke="black" cx="3287.19" cy="-90" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="3287.19" y="-86.3" font-family="arial" font-size="14.00">androidTestImplementation</text>
+</g>
+<!-- androidTestIntransitiveDependenciesMetadata -->
+<g id="node15" class="node">
+<title>androidTestIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="13090.19" cy="-306" rx="191.97" ry="18"/>
+<text text-anchor="middle" x="13090.19" y="-302.3" font-family="arial" font-size="14.00">androidTestIntransitiveDependenciesMetadata</text>
+</g>
+<!-- androidTestReleaseAnnotationProcessor -->
+<g id="node16" class="node">
+<title>androidTestReleaseAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="14124.19" cy="-306" rx="169.77" ry="18"/>
+<text text-anchor="middle" x="14124.19" y="-302.3" font-family="arial" font-size="14.00">androidTestReleaseAnnotationProcessor</text>
+</g>
+<!-- androidTestReleaseApi -->
+<g id="node17" class="node">
+<title>androidTestReleaseApi</title>
+<ellipse fill="none" stroke="black" cx="14833.19" cy="-234" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="14833.19" y="-230.3" font-family="arial" font-size="14.00">androidTestReleaseApi</text>
+</g>
+<!-- androidTestReleaseCompileOnly -->
+<g id="node18" class="node">
+<title>androidTestReleaseCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="15278.19" cy="-234" rx="139.98" ry="18"/>
+<text text-anchor="middle" x="15278.19" y="-230.3" font-family="arial" font-size="14.00">androidTestReleaseCompileOnly</text>
+</g>
+<!-- androidTestReleaseImplementation -->
+<g id="node19" class="node">
+<title>androidTestReleaseImplementation</title>
+<ellipse fill="none" stroke="black" cx="15771.19" cy="-234" rx="149.47" ry="18"/>
+<text text-anchor="middle" x="15771.19" y="-230.3" font-family="arial" font-size="14.00">androidTestReleaseImplementation</text>
+</g>
+<!-- androidTestReleaseIntransitiveDependenciesMetadata -->
+<g id="node20" class="node">
+<title>androidTestReleaseIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="16255.19" cy="-306" rx="223.66" ry="18"/>
+<text text-anchor="middle" x="16255.19" y="-302.3" font-family="arial" font-size="14.00">androidTestReleaseIntransitiveDependenciesMetadata</text>
+</g>
+<!-- androidTestReleaseRuntimeOnly -->
+<g id="node21" class="node">
+<title>androidTestReleaseRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="16730.19" cy="-234" rx="139.98" ry="18"/>
+<text text-anchor="middle" x="16730.19" y="-230.3" font-family="arial" font-size="14.00">androidTestReleaseRuntimeOnly</text>
+</g>
+<!-- androidTestReleaseWearApp -->
+<g id="node22" class="node">
+<title>androidTestReleaseWearApp</title>
+<ellipse fill="none" stroke="black" cx="17106.19" cy="-306" rx="124.58" ry="18"/>
+<text text-anchor="middle" x="17106.19" y="-302.3" font-family="arial" font-size="14.00">androidTestReleaseWearApp</text>
+</g>
+<!-- androidTestRuntimeOnly -->
+<g id="node23" class="node">
+<title>androidTestRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="4633.19" cy="-90" rx="107.78" ry="18"/>
+<text text-anchor="middle" x="4633.19" y="-86.3" font-family="arial" font-size="14.00">androidTestRuntimeOnly</text>
+</g>
+<!-- androidTestUtil -->
+<g id="node24" class="node">
+<title>androidTestUtil</title>
+<ellipse fill="none" stroke="black" cx="17318.19" cy="-306" rx="68.79" ry="18"/>
+<text text-anchor="middle" x="17318.19" y="-302.3" font-family="arial" font-size="14.00">androidTestUtil</text>
+</g>
+<!-- androidTestWearApp -->
+<g id="node25" class="node">
+<title>androidTestWearApp</title>
+<ellipse fill="none" stroke="black" cx="17498.19" cy="-306" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="17498.19" y="-302.3" font-family="arial" font-size="14.00">androidTestWearApp</text>
+</g>
+<!-- annotationProcessor -->
+<g id="node26" class="node">
+<title>annotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="17959.19" cy="-234" rx="90.98" ry="18"/>
+<text text-anchor="middle" x="17959.19" y="-230.3" font-family="arial" font-size="14.00">annotationProcessor</text>
+</g>
+<!-- api -->
+<g id="node27" class="node">
+<title>api</title>
+<ellipse fill="none" stroke="black" cx="7028.19" cy="-18" rx="27" ry="18"/>
+<text text-anchor="middle" x="7028.19" y="-14.3" font-family="arial" font-size="14.00">api</text>
+</g>
+<!-- archives -->
+<g id="node28" class="node">
+<title>archives</title>
+<ellipse fill="none" stroke="black" cx="18379.19" cy="-306" rx="43.59" ry="18"/>
+<text text-anchor="middle" x="18379.19" y="-302.3" font-family="arial" font-size="14.00">archives</text>
+</g>
+<!-- compileOnly -->
+<g id="node29" class="node">
+<title>compileOnly</title>
+<ellipse fill="none" stroke="black" cx="6330.19" cy="-90" rx="59.59" ry="18"/>
+<text text-anchor="middle" x="6330.19" y="-86.3" font-family="arial" font-size="14.00">compileOnly</text>
+</g>
+<!-- coreLibraryDesugaring -->
+<g id="node30" class="node">
+<title>coreLibraryDesugaring</title>
+<ellipse fill="none" stroke="black" cx="18540.19" cy="-306" rx="99.38" ry="18"/>
+<text text-anchor="middle" x="18540.19" y="-302.3" font-family="arial" font-size="14.00">coreLibraryDesugaring</text>
+</g>
+<!-- debugAabPublication -->
+<g id="node31" class="node">
+<title>debugAabPublication</title>
+<ellipse fill="none" stroke="black" cx="18751.19" cy="-306" rx="93.68" ry="18"/>
+<text text-anchor="middle" x="18751.19" y="-302.3" font-family="arial" font-size="14.00">debugAabPublication</text>
+</g>
+<!-- debugAndroidTestIntransitiveDependenciesMetadata -->
+<g id="node32" class="node">
+<title>debugAndroidTestIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="19080.19" cy="-306" rx="217.16" ry="18"/>
+<text text-anchor="middle" x="19080.19" y="-302.3" font-family="arial" font-size="14.00">debugAndroidTestIntransitiveDependenciesMetadata</text>
+</g>
+<!-- debugAnnotationProcessor -->
+<g id="node33" class="node">
+<title>debugAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="17734.19" cy="-234" rx="116.18" ry="18"/>
+<text text-anchor="middle" x="17734.19" y="-230.3" font-family="arial" font-size="14.00">debugAnnotationProcessor</text>
+</g>
+<!-- debugApkPublication -->
+<g id="node34" class="node">
+<title>debugApkPublication</title>
+<ellipse fill="none" stroke="black" cx="19408.19" cy="-306" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="19408.19" y="-302.3" font-family="arial" font-size="14.00">debugApkPublication</text>
+</g>
+<!-- debugIntransitiveDependenciesMetadata -->
+<g id="node35" class="node">
+<title>debugIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="19690.19" cy="-306" rx="170.87" ry="18"/>
+<text text-anchor="middle" x="19690.19" y="-302.3" font-family="arial" font-size="14.00">debugIntransitiveDependenciesMetadata</text>
+</g>
+<!-- debugReverseMetadataValues -->
+<g id="node36" class="node">
+<title>debugReverseMetadataValues</title>
+<ellipse fill="none" stroke="black" cx="20010.19" cy="-306" rx="131.08" ry="18"/>
+<text text-anchor="middle" x="20010.19" y="-302.3" font-family="arial" font-size="14.00">debugReverseMetadataValues</text>
+</g>
+<!-- debugUnitTestIntransitiveDependenciesMetadata -->
+<g id="node37" class="node">
+<title>debugUnitTestIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="20361.19" cy="-306" rx="202.26" ry="18"/>
+<text text-anchor="middle" x="20361.19" y="-302.3" font-family="arial" font-size="14.00">debugUnitTestIntransitiveDependenciesMetadata</text>
+</g>
+<!-- debugWearApp -->
+<g id="node38" class="node">
+<title>debugWearApp</title>
+<ellipse fill="none" stroke="black" cx="20653.19" cy="-234" rx="71.49" ry="18"/>
+<text text-anchor="middle" x="20653.19" y="-230.3" font-family="arial" font-size="14.00">debugWearApp</text>
+</g>
+<!-- default -->
+<g id="node39" class="node">
+<title>default</title>
+<ellipse fill="none" stroke="black" cx="21060.19" cy="-306" rx="37.09" ry="18"/>
+<text text-anchor="middle" x="21060.19" y="-302.3" font-family="arial" font-size="14.00">default</text>
+</g>
+<!-- intransitiveDependenciesMetadata -->
+<g id="node40" class="node">
+<title>intransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="21261.19" cy="-306" rx="145.67" ry="18"/>
+<text text-anchor="middle" x="21261.19" y="-302.3" font-family="arial" font-size="14.00">intransitiveDependenciesMetadata</text>
+</g>
+<!-- kotlinCompilerClasspath -->
+<g id="node41" class="node">
+<title>kotlinCompilerClasspath</title>
+<ellipse fill="none" stroke="black" cx="21531.19" cy="-306" rx="105.88" ry="18"/>
+<text text-anchor="middle" x="21531.19" y="-302.3" font-family="arial" font-size="14.00">kotlinCompilerClasspath</text>
+</g>
+<!-- kotlinCompilerPluginClasspath -->
+<g id="node42" class="node">
+<title>kotlinCompilerPluginClasspath</title>
+<ellipse fill="none" stroke="black" cx="22595.19" cy="-234" rx="129.98" ry="18"/>
+<text text-anchor="middle" x="22595.19" y="-230.3" font-family="arial" font-size="14.00">kotlinCompilerPluginClasspath</text>
+</g>
+<!-- kotlinKlibCommonizerClasspath -->
+<g id="node43" class="node">
+<title>kotlinKlibCommonizerClasspath</title>
+<ellipse fill="none" stroke="black" cx="23686.19" cy="-306" rx="135.68" ry="18"/>
+<text text-anchor="middle" x="23686.19" y="-302.3" font-family="arial" font-size="14.00">kotlinKlibCommonizerClasspath</text>
+</g>
+<!-- kotlinNativeCompilerPluginClasspath -->
+<g id="node44" class="node">
+<title>kotlinNativeCompilerPluginClasspath</title>
+<ellipse fill="none" stroke="black" cx="23995.19" cy="-306" rx="155.17" ry="18"/>
+<text text-anchor="middle" x="23995.19" y="-302.3" font-family="arial" font-size="14.00">kotlinNativeCompilerPluginClasspath</text>
+</g>
+<!-- lintChecks -->
+<g id="node45" class="node">
+<title>lintChecks</title>
+<ellipse fill="none" stroke="black" cx="24220.19" cy="-306" rx="51.19" ry="18"/>
+<text text-anchor="middle" x="24220.19" y="-302.3" font-family="arial" font-size="14.00">lintChecks</text>
+</g>
+<!-- lintPublish -->
+<g id="node46" class="node">
+<title>lintPublish</title>
+<ellipse fill="none" stroke="black" cx="24340.19" cy="-306" rx="50.89" ry="18"/>
+<text text-anchor="middle" x="24340.19" y="-302.3" font-family="arial" font-size="14.00">lintPublish</text>
+</g>
+<!-- releaseAabPublication -->
+<g id="node47" class="node">
+<title>releaseAabPublication</title>
+<ellipse fill="none" stroke="black" cx="24507.19" cy="-306" rx="98.28" ry="18"/>
+<text text-anchor="middle" x="24507.19" y="-302.3" font-family="arial" font-size="14.00">releaseAabPublication</text>
+</g>
+<!-- releaseAnnotationProcessor -->
+<g id="node48" class="node">
+<title>releaseAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="18189.19" cy="-234" rx="120.78" ry="18"/>
+<text text-anchor="middle" x="18189.19" y="-230.3" font-family="arial" font-size="14.00">releaseAnnotationProcessor</text>
+</g>
+<!-- releaseApkPublication -->
+<g id="node49" class="node">
+<title>releaseApkPublication</title>
+<ellipse fill="none" stroke="black" cx="24721.19" cy="-306" rx="97.48" ry="18"/>
+<text text-anchor="middle" x="24721.19" y="-302.3" font-family="arial" font-size="14.00">releaseApkPublication</text>
+</g>
+<!-- releaseIntransitiveDependenciesMetadata -->
+<g id="node50" class="node">
+<title>releaseIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="25011.19" cy="-306" rx="174.67" ry="18"/>
+<text text-anchor="middle" x="25011.19" y="-302.3" font-family="arial" font-size="14.00">releaseIntransitiveDependenciesMetadata</text>
+</g>
+<!-- releaseReverseMetadataValues -->
+<g id="node51" class="node">
+<title>releaseReverseMetadataValues</title>
+<ellipse fill="none" stroke="black" cx="25340.19" cy="-306" rx="135.68" ry="18"/>
+<text text-anchor="middle" x="25340.19" y="-302.3" font-family="arial" font-size="14.00">releaseReverseMetadataValues</text>
+</g>
+<!-- releaseUnitTestIntransitiveDependenciesMetadata -->
+<g id="node52" class="node">
+<title>releaseUnitTestIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="25701.19" cy="-306" rx="206.86" ry="18"/>
+<text text-anchor="middle" x="25701.19" y="-302.3" font-family="arial" font-size="14.00">releaseUnitTestIntransitiveDependenciesMetadata</text>
+</g>
+<!-- releaseWearApp -->
+<g id="node53" class="node">
+<title>releaseWearApp</title>
+<ellipse fill="none" stroke="black" cx="20928.19" cy="-234" rx="76.09" ry="18"/>
+<text text-anchor="middle" x="20928.19" y="-230.3" font-family="arial" font-size="14.00">releaseWearApp</text>
+</g>
+<!-- testDebugIntransitiveDependenciesMetadata -->
+<g id="node54" class="node">
+<title>testDebugIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="26112.19" cy="-306" rx="186.57" ry="18"/>
+<text text-anchor="middle" x="26112.19" y="-302.3" font-family="arial" font-size="14.00">testDebugIntransitiveDependenciesMetadata</text>
+</g>
+<!-- testDebugWearApp -->
+<g id="node55" class="node">
+<title>testDebugWearApp</title>
+<ellipse fill="none" stroke="black" cx="26404.19" cy="-306" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="26404.19" y="-302.3" font-family="arial" font-size="14.00">testDebugWearApp</text>
+</g>
+<!-- testFixturesAnnotationProcessor -->
+<g id="node56" class="node">
+<title>testFixturesAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="26647.19" cy="-306" rx="137.58" ry="18"/>
+<text text-anchor="middle" x="26647.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesAnnotationProcessor</text>
+</g>
+<!-- testFixturesApi -->
+<g id="node57" class="node">
+<title>testFixturesApi</title>
+<ellipse fill="none" stroke="black" cx="26864.19" cy="-162" rx="68.79" ry="18"/>
+<text text-anchor="middle" x="26864.19" y="-158.3" font-family="arial" font-size="14.00">testFixturesApi</text>
+</g>
+<!-- testFixturesCompileOnly -->
+<g id="node58" class="node">
+<title>testFixturesCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="27441.19" cy="-234" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="27441.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesCompileOnly</text>
+</g>
+<!-- testFixturesDebugAnnotationProcessor -->
+<g id="node59" class="node">
+<title>testFixturesDebugAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="27822.19" cy="-306" rx="163.27" ry="18"/>
+<text text-anchor="middle" x="27822.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesDebugAnnotationProcessor</text>
+</g>
+<!-- testFixturesDebugApi -->
+<g id="node60" class="node">
+<title>testFixturesDebugApi</title>
+<ellipse fill="none" stroke="black" cx="28064.19" cy="-162" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="28064.19" y="-158.3" font-family="arial" font-size="14.00">testFixturesDebugApi</text>
+</g>
+<!-- testFixturesDebugCompileOnly -->
+<g id="node61" class="node">
+<title>testFixturesDebugCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="28719.19" cy="-234" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="28719.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesDebugCompileOnly</text>
+</g>
+<!-- testFixturesDebugIntransitiveDependenciesMetadata -->
+<g id="node62" class="node">
+<title>testFixturesDebugIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="29181.19" cy="-306" rx="217.96" ry="18"/>
+<text text-anchor="middle" x="29181.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesDebugIntransitiveDependenciesMetadata</text>
+</g>
+<!-- testFixturesDebugRuntimeOnly -->
+<g id="node63" class="node">
+<title>testFixturesDebugRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="29644.19" cy="-234" rx="133.78" ry="18"/>
+<text text-anchor="middle" x="29644.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesDebugRuntimeOnly</text>
+</g>
+<!-- testFixturesDebugWearApp -->
+<g id="node64" class="node">
+<title>testFixturesDebugWearApp</title>
+<ellipse fill="none" stroke="black" cx="30007.19" cy="-306" rx="118.08" ry="18"/>
+<text text-anchor="middle" x="30007.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesDebugWearApp</text>
+</g>
+<!-- testFixturesIntransitiveDependenciesMetadata -->
+<g id="node65" class="node">
+<title>testFixturesIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="30335.19" cy="-306" rx="191.97" ry="18"/>
+<text text-anchor="middle" x="30335.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesIntransitiveDependenciesMetadata</text>
+</g>
+<!-- testFixturesReleaseAnnotationProcessor -->
+<g id="node66" class="node">
+<title>testFixturesReleaseAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="30714.19" cy="-306" rx="169.77" ry="18"/>
+<text text-anchor="middle" x="30714.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesReleaseAnnotationProcessor</text>
+</g>
+<!-- testFixturesReleaseApi -->
+<g id="node67" class="node">
+<title>testFixturesReleaseApi</title>
+<ellipse fill="none" stroke="black" cx="30963.19" cy="-162" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="30963.19" y="-158.3" font-family="arial" font-size="14.00">testFixturesReleaseApi</text>
+</g>
+<!-- testFixturesReleaseCompileOnly -->
+<g id="node68" class="node">
+<title>testFixturesReleaseCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="31637.19" cy="-234" rx="139.98" ry="18"/>
+<text text-anchor="middle" x="31637.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesReleaseCompileOnly</text>
+</g>
+<!-- testFixturesReleaseIntransitiveDependenciesMetadata -->
+<g id="node69" class="node">
+<title>testFixturesReleaseIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="32111.19" cy="-306" rx="223.66" ry="18"/>
+<text text-anchor="middle" x="32111.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesReleaseIntransitiveDependenciesMetadata</text>
+</g>
+<!-- testFixturesReleaseRuntimeOnly -->
+<g id="node70" class="node">
+<title>testFixturesReleaseRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="32586.19" cy="-234" rx="139.98" ry="18"/>
+<text text-anchor="middle" x="32586.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesReleaseRuntimeOnly</text>
+</g>
+<!-- testFixturesReleaseWearApp -->
+<g id="node71" class="node">
+<title>testFixturesReleaseWearApp</title>
+<ellipse fill="none" stroke="black" cx="32962.19" cy="-306" rx="124.58" ry="18"/>
+<text text-anchor="middle" x="32962.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesReleaseWearApp</text>
+</g>
+<!-- testFixturesRuntimeOnly -->
+<g id="node72" class="node">
+<title>testFixturesRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="33306.19" cy="-234" rx="107.78" ry="18"/>
+<text text-anchor="middle" x="33306.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesRuntimeOnly</text>
+</g>
+<!-- testFixturesWearApp -->
+<g id="node73" class="node">
+<title>testFixturesWearApp</title>
+<ellipse fill="none" stroke="black" cx="33618.19" cy="-306" rx="92.88" ry="18"/>
+<text text-anchor="middle" x="33618.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesWearApp</text>
+</g>
+<!-- testIntransitiveDependenciesMetadata -->
+<g id="node74" class="node">
+<title>testIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="33889.19" cy="-306" rx="160.57" ry="18"/>
+<text text-anchor="middle" x="33889.19" y="-302.3" font-family="arial" font-size="14.00">testIntransitiveDependenciesMetadata</text>
+</g>
+<!-- testReleaseIntransitiveDependenciesMetadata -->
+<g id="node75" class="node">
+<title>testReleaseIntransitiveDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="34260.19" cy="-306" rx="192.27" ry="18"/>
+<text text-anchor="middle" x="34260.19" y="-302.3" font-family="arial" font-size="14.00">testReleaseIntransitiveDependenciesMetadata</text>
+</g>
+<!-- testReleaseWearApp -->
+<g id="node76" class="node">
+<title>testReleaseWearApp</title>
+<ellipse fill="none" stroke="black" cx="34564.19" cy="-306" rx="93.68" ry="18"/>
+<text text-anchor="middle" x="34564.19" y="-302.3" font-family="arial" font-size="14.00">testReleaseWearApp</text>
+</g>
+<!-- testWearApp -->
+<g id="node77" class="node">
+<title>testWearApp</title>
+<ellipse fill="none" stroke="black" cx="34737.19" cy="-306" rx="61.99" ry="18"/>
+<text text-anchor="middle" x="34737.19" y="-302.3" font-family="arial" font-size="14.00">testWearApp</text>
+</g>
+<!-- androidTestApiDependenciesMetadata -->
+<g id="node78" class="node">
+<title>androidTestApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="815.19" cy="-90" rx="161.67" ry="18"/>
+<text text-anchor="middle" x="815.19" y="-86.3" font-family="arial" font-size="14.00">androidTestApiDependenciesMetadata</text>
+</g>
+<!-- androidTestApiDependenciesMetadata&#45;&gt;androidTestApi -->
+<g id="edge1" class="edge link&#45;class">
+<title>androidTestApiDependenciesMetadata&#45;&gt;androidTestApi</title>
+<path fill="none" stroke="black" d="M916.69,-75.92C1024.94,-61.96 1193.52,-40.23 1287.97,-28.05"/>
+<polygon fill="black" stroke="black" points="1288.53,-31.51 1298,-26.76 1287.63,-24.57 1288.53,-31.51"/>
+</g>
+<!-- androidTestCompileOnlyDependenciesMetadata -->
+<g id="node79" class="node">
+<title>androidTestCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="1646.19" cy="-162" rx="200.36" ry="18"/>
+<text text-anchor="middle" x="1646.19" y="-158.3" font-family="arial" font-size="14.00">androidTestCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- androidTestCompileOnlyDependenciesMetadata&#45;&gt;androidTestCompileOnly -->
+<g id="edge2" class="edge link&#45;class">
+<title>androidTestCompileOnlyDependenciesMetadata&#45;&gt;androidTestCompileOnly</title>
+<path fill="none" stroke="black" d="M1592.74,-144.59C1558.09,-133.95 1512.93,-120.08 1477.22,-109.12"/>
+<polygon fill="black" stroke="black" points="1478.01,-105.7 1467.42,-106.11 1475.95,-112.39 1478.01,-105.7"/>
+</g>
+<!-- androidTestDebugApiDependenciesMetadata -->
+<g id="node80" class="node">
+<title>androidTestDebugApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="2351.19" cy="-90" rx="187.67" ry="18"/>
+<text text-anchor="middle" x="2351.19" y="-86.3" font-family="arial" font-size="14.00">androidTestDebugApiDependenciesMetadata</text>
+</g>
+<!-- androidTestDebugApiDependenciesMetadata&#45;&gt;androidTestDebugApi -->
+<g id="edge3" class="edge link&#45;class">
+<title>androidTestDebugApiDependenciesMetadata&#45;&gt;androidTestDebugApi</title>
+<path fill="none" stroke="black" d="M2315.27,-72.23C2294.03,-62.32 2267,-49.71 2244.58,-39.25"/>
+<polygon fill="black" stroke="black" points="2245.83,-35.97 2235.29,-34.91 2242.87,-42.31 2245.83,-35.97"/>
+</g>
+<!-- androidTestDebugCompileOnlyDependenciesMetadata -->
+<g id="node81" class="node">
+<title>androidTestDebugCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="842.19" cy="-162" rx="226.36" ry="18"/>
+<text text-anchor="middle" x="842.19" y="-158.3" font-family="arial" font-size="14.00">androidTestDebugCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- androidTestDebugCompileOnlyDependenciesMetadata&#45;&gt;androidTestDebugCompileOnly -->
+<g id="edge4" class="edge link&#45;class">
+<title>androidTestDebugCompileOnlyDependenciesMetadata&#45;&gt;androidTestDebugCompileOnly</title>
+<path fill="none" stroke="black" d="M908.53,-144.76C952.96,-133.89 1011.4,-119.59 1056.84,-108.46"/>
+<polygon fill="black" stroke="black" points="1057.74,-111.85 1066.62,-106.07 1056.08,-105.05 1057.74,-111.85"/>
+</g>
+<!-- androidTestDebugImplementationDependenciesMetadata -->
+<g id="node82" class="node">
+<title>androidTestDebugImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="2492.19" cy="-162" rx="235.86" ry="18"/>
+<text text-anchor="middle" x="2492.19" y="-158.3" font-family="arial" font-size="14.00">androidTestDebugImplementationDependenciesMetadata</text>
+</g>
+<!-- androidTestDebugImplementationDependenciesMetadata&#45;&gt;androidTestDebugImplementation -->
+<g id="edge5" class="edge link&#45;class">
+<title>androidTestDebugImplementationDependenciesMetadata&#45;&gt;androidTestDebugImplementation</title>
+<path fill="none" stroke="black" d="M2571.6,-145.03C2627.23,-133.84 2701.41,-118.92 2757.71,-107.59"/>
+<polygon fill="black" stroke="black" points="2758.54,-110.99 2767.65,-105.59 2757.16,-104.13 2758.54,-110.99"/>
+</g>
+<!-- androidTestDebugRuntimeOnlyDependenciesMetadata -->
+<g id="node83" class="node">
+<title>androidTestDebugRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="3865.19" cy="-162" rx="226.66" ry="18"/>
+<text text-anchor="middle" x="3865.19" y="-158.3" font-family="arial" font-size="14.00">androidTestDebugRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- androidTestDebugRuntimeOnlyDependenciesMetadata&#45;&gt;androidTestDebugRuntimeOnly -->
+<g id="edge6" class="edge link&#45;class">
+<title>androidTestDebugRuntimeOnlyDependenciesMetadata&#45;&gt;androidTestDebugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M3924.98,-144.59C3963.74,-133.95 4014.26,-120.08 4054.19,-109.12"/>
+<polygon fill="black" stroke="black" points="4055.13,-112.49 4063.84,-106.47 4053.27,-105.74 4055.13,-112.49"/>
+</g>
+<!-- androidTestImplementationDependenciesMetadata -->
+<g id="node84" class="node">
+<title>androidTestImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="3372.19" cy="-162" rx="209.86" ry="18"/>
+<text text-anchor="middle" x="3372.19" y="-158.3" font-family="arial" font-size="14.00">androidTestImplementationDependenciesMetadata</text>
+</g>
+<!-- androidTestImplementationDependenciesMetadata&#45;&gt;androidTestImplementation -->
+<g id="edge7" class="edge link&#45;class">
+<title>androidTestImplementationDependenciesMetadata&#45;&gt;androidTestImplementation</title>
+<path fill="none" stroke="black" d="M3351.62,-144.05C3340.76,-135.11 3327.27,-124.01 3315.45,-114.27"/>
+<polygon fill="black" stroke="black" points="3317.53,-111.44 3307.58,-107.79 3313.08,-116.85 3317.53,-111.44"/>
+</g>
+<!-- androidTestReleaseApiDependenciesMetadata -->
+<g id="node85" class="node">
+<title>androidTestReleaseApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="14833.19" cy="-306" rx="194.17" ry="18"/>
+<text text-anchor="middle" x="14833.19" y="-302.3" font-family="arial" font-size="14.00">androidTestReleaseApiDependenciesMetadata</text>
+</g>
+<!-- androidTestReleaseApiDependenciesMetadata&#45;&gt;androidTestReleaseApi -->
+<g id="edge8" class="edge link&#45;class">
+<title>androidTestReleaseApiDependenciesMetadata&#45;&gt;androidTestReleaseApi</title>
+<path fill="none" stroke="black" d="M14833.19,-287.7C14833.19,-279.98 14833.19,-270.71 14833.19,-262.11"/>
+<polygon fill="black" stroke="black" points="14836.7,-262.1 14833.19,-252.1 14829.7,-262.1 14836.7,-262.1"/>
+</g>
+<!-- androidTestReleaseCompileOnlyDependenciesMetadata -->
+<g id="node86" class="node">
+<title>androidTestReleaseCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="15278.19" cy="-306" rx="232.86" ry="18"/>
+<text text-anchor="middle" x="15278.19" y="-302.3" font-family="arial" font-size="14.00">androidTestReleaseCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- androidTestReleaseCompileOnlyDependenciesMetadata&#45;&gt;androidTestReleaseCompileOnly -->
+<g id="edge9" class="edge link&#45;class">
+<title>androidTestReleaseCompileOnlyDependenciesMetadata&#45;&gt;androidTestReleaseCompileOnly</title>
+<path fill="none" stroke="black" d="M15278.19,-287.7C15278.19,-279.98 15278.19,-270.71 15278.19,-262.11"/>
+<polygon fill="black" stroke="black" points="15281.7,-262.1 15278.19,-252.1 15274.7,-262.1 15281.7,-262.1"/>
+</g>
+<!-- androidTestReleaseImplementationDependenciesMetadata -->
+<g id="node87" class="node">
+<title>androidTestReleaseImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="15771.19" cy="-306" rx="242.36" ry="18"/>
+<text text-anchor="middle" x="15771.19" y="-302.3" font-family="arial" font-size="14.00">androidTestReleaseImplementationDependenciesMetadata</text>
+</g>
+<!-- androidTestReleaseImplementationDependenciesMetadata&#45;&gt;androidTestReleaseImplementation -->
+<g id="edge10" class="edge link&#45;class">
+<title>androidTestReleaseImplementationDependenciesMetadata&#45;&gt;androidTestReleaseImplementation</title>
+<path fill="none" stroke="black" d="M15771.19,-287.7C15771.19,-279.98 15771.19,-270.71 15771.19,-262.11"/>
+<polygon fill="black" stroke="black" points="15774.7,-262.1 15771.19,-252.1 15767.7,-262.1 15774.7,-262.1"/>
+</g>
+<!-- androidTestReleaseRuntimeOnlyDependenciesMetadata -->
+<g id="node88" class="node">
+<title>androidTestReleaseRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="16730.19" cy="-306" rx="233.16" ry="18"/>
+<text text-anchor="middle" x="16730.19" y="-302.3" font-family="arial" font-size="14.00">androidTestReleaseRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- androidTestReleaseRuntimeOnlyDependenciesMetadata&#45;&gt;androidTestReleaseRuntimeOnly -->
+<g id="edge11" class="edge link&#45;class">
+<title>androidTestReleaseRuntimeOnlyDependenciesMetadata&#45;&gt;androidTestReleaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M16730.19,-287.7C16730.19,-279.98 16730.19,-270.71 16730.19,-262.11"/>
+<polygon fill="black" stroke="black" points="16733.7,-262.1 16730.19,-252.1 16726.7,-262.1 16733.7,-262.1"/>
+</g>
+<!-- androidTestRuntimeOnlyDependenciesMetadata -->
+<g id="node89" class="node">
+<title>androidTestRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="4633.19" cy="-162" rx="200.66" ry="18"/>
+<text text-anchor="middle" x="4633.19" y="-158.3" font-family="arial" font-size="14.00">androidTestRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- androidTestRuntimeOnlyDependenciesMetadata&#45;&gt;androidTestRuntimeOnly -->
+<g id="edge12" class="edge link&#45;class">
+<title>androidTestRuntimeOnlyDependenciesMetadata&#45;&gt;androidTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M4633.19,-143.7C4633.19,-135.98 4633.19,-126.71 4633.19,-118.11"/>
+<polygon fill="black" stroke="black" points="4636.7,-118.1 4633.19,-108.1 4629.7,-118.1 4636.7,-118.1"/>
+</g>
+<!-- apiDependenciesMetadata -->
+<g id="node90" class="node">
+<title>apiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="7394.19" cy="-90" rx="115.88" ry="18"/>
+<text text-anchor="middle" x="7394.19" y="-86.3" font-family="arial" font-size="14.00">apiDependenciesMetadata</text>
+</g>
+<!-- apiDependenciesMetadata&#45;&gt;api -->
+<g id="edge13" class="edge link&#45;class">
+<title>apiDependenciesMetadata&#45;&gt;api</title>
+<path fill="none" stroke="black" d="M7324.06,-75.59C7246.32,-60.72 7124.01,-37.32 7063.92,-25.83"/>
+<polygon fill="black" stroke="black" points="7064.28,-22.34 7053.8,-23.9 7062.96,-29.21 7064.28,-22.34"/>
+</g>
+<!-- compileOnlyDependenciesMetadata -->
+<g id="node91" class="node">
+<title>compileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="6630.19" cy="-162" rx="153.27" ry="18"/>
+<text text-anchor="middle" x="6630.19" y="-158.3" font-family="arial" font-size="14.00">compileOnlyDependenciesMetadata</text>
+</g>
+<!-- compileOnlyDependenciesMetadata&#45;&gt;compileOnly -->
+<g id="edge14" class="edge link&#45;class">
+<title>compileOnlyDependenciesMetadata&#45;&gt;compileOnly</title>
+<path fill="none" stroke="black" d="M6564.36,-145.64C6510.84,-133.15 6436.18,-115.73 6385.66,-103.94"/>
+<polygon fill="black" stroke="black" points="6386.43,-100.53 6375.89,-101.66 6384.84,-107.34 6386.43,-100.53"/>
+</g>
+<!-- debugAndroidTestAnnotationProcessorClasspath -->
+<g id="node92" class="node">
+<title>debugAndroidTestAnnotationProcessorClasspath</title>
+<ellipse fill="none" stroke="black" cx="690.19" cy="-306" rx="202.26" ry="18"/>
+<text text-anchor="middle" x="690.19" y="-302.3" font-family="arial" font-size="14.00">debugAndroidTestAnnotationProcessorClasspath</text>
+</g>
+<!-- debugAndroidTestAnnotationProcessorClasspath&#45;&gt;androidTestAnnotationProcessor -->
+<g id="edge16" class="edge link&#45;class">
+<title>debugAndroidTestAnnotationProcessorClasspath&#45;&gt;androidTestAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M652.11,-288.23C629.73,-278.38 601.26,-265.85 577.57,-255.42"/>
+<polygon fill="black" stroke="black" points="578.98,-252.21 568.42,-251.39 576.16,-258.62 578.98,-252.21"/>
+</g>
+<!-- debugAndroidTestAnnotationProcessorClasspath&#45;&gt;androidTestDebugAnnotationProcessor -->
+<g id="edge15" class="edge link&#45;class">
+<title>debugAndroidTestAnnotationProcessorClasspath&#45;&gt;androidTestDebugAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M728.52,-288.23C750.88,-278.45 779.27,-266.03 803,-255.65"/>
+<polygon fill="black" stroke="black" points="804.42,-258.84 812.18,-251.63 801.62,-252.43 804.42,-258.84"/>
+</g>
+<!-- debugAndroidTestApi -->
+<g id="node93" class="node">
+<title>debugAndroidTestApi</title>
+<ellipse fill="none" stroke="black" cx="2051.19" cy="-90" rx="94.48" ry="18"/>
+<text text-anchor="middle" x="2051.19" y="-86.3" font-family="arial" font-size="14.00">debugAndroidTestApi</text>
+</g>
+<!-- debugAndroidTestApi&#45;&gt;androidTestApi -->
+<g id="edge17" class="edge link&#45;class">
+<title>debugAndroidTestApi&#45;&gt;androidTestApi</title>
+<path fill="none" stroke="black" d="M1970,-80.8C1833.94,-67.05 1561.98,-39.58 1431.43,-26.4"/>
+<polygon fill="black" stroke="black" points="1431.44,-22.88 1421.14,-25.36 1430.74,-29.85 1431.44,-22.88"/>
+</g>
+<!-- debugAndroidTestApi&#45;&gt;androidTestDebugApi -->
+<g id="edge18" class="edge link&#45;class">
+<title>debugAndroidTestApi&#45;&gt;androidTestDebugApi</title>
+<path fill="none" stroke="black" d="M2085.23,-73.12C2106.81,-63.05 2134.91,-49.93 2158.04,-39.14"/>
+<polygon fill="black" stroke="black" points="2159.71,-42.22 2167.29,-34.82 2156.75,-35.88 2159.71,-42.22"/>
+</g>
+<!-- debugAndroidTestApiDependenciesMetadata -->
+<g id="node94" class="node">
+<title>debugAndroidTestApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="2051.19" cy="-162" rx="187.37" ry="18"/>
+<text text-anchor="middle" x="2051.19" y="-158.3" font-family="arial" font-size="14.00">debugAndroidTestApiDependenciesMetadata</text>
+</g>
+<!-- debugAndroidTestApiDependenciesMetadata&#45;&gt;debugAndroidTestApi -->
+<g id="edge19" class="edge link&#45;class">
+<title>debugAndroidTestApiDependenciesMetadata&#45;&gt;debugAndroidTestApi</title>
+<path fill="none" stroke="black" d="M2051.19,-143.7C2051.19,-135.98 2051.19,-126.71 2051.19,-118.11"/>
+<polygon fill="black" stroke="black" points="2054.7,-118.1 2051.19,-108.1 2047.7,-118.1 2054.7,-118.1"/>
+</g>
+<!-- debugAndroidTestCompileClasspath -->
+<g id="node95" class="node">
+<title>debugAndroidTestCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="2756.19" cy="-234" rx="153.27" ry="18"/>
+<text text-anchor="middle" x="2756.19" y="-230.3" font-family="arial" font-size="14.00">debugAndroidTestCompileClasspath</text>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;androidTestCompileOnly -->
+<g id="edge22" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;androidTestCompileOnly</title>
+<path fill="none" stroke="black" d="M2603.92,-231.83C2266.3,-228.57 1481.14,-217.04 1437.19,-180 1419.68,-165.24 1415.91,-138.66 1415.93,-118.38"/>
+<polygon fill="black" stroke="black" points="1419.44,-118.27 1416.26,-108.16 1412.44,-118.05 1419.44,-118.27"/>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;androidTestDebugCompileOnly -->
+<g id="edge20" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;androidTestDebugCompileOnly</title>
+<path fill="none" stroke="black" d="M2604.95,-230.88C2203.69,-224.89 1140.92,-206.57 1115.19,-180 1099.42,-163.71 1105.73,-137.26 1114.14,-117.42"/>
+<polygon fill="black" stroke="black" points="1117.34,-118.83 1118.35,-108.28 1110.99,-115.9 1117.34,-118.83"/>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;androidTestDebugImplementation -->
+<g id="edge21" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;androidTestDebugImplementation</title>
+<path fill="none" stroke="black" d="M2757.86,-215.76C2760.33,-196.92 2766.27,-166.44 2780.19,-144 2787.19,-132.72 2797.31,-122.49 2807.26,-114.08"/>
+<polygon fill="black" stroke="black" points="2809.53,-116.74 2815.13,-107.75 2805.15,-111.29 2809.53,-116.74"/>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;androidTestImplementation -->
+<g id="edge23" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;androidTestImplementation</title>
+<path fill="none" stroke="black" d="M2764.98,-215.65C2777.19,-192.28 2799.33,-152.62 2813.19,-144 2843.03,-125.45 3041.61,-108.2 3172.09,-98.68"/>
+<polygon fill="black" stroke="black" points="3172.43,-102.17 3182.15,-97.96 3171.92,-95.19 3172.43,-102.17"/>
+</g>
+<!-- debugImplementation -->
+<g id="node96" class="node">
+<title>debugImplementation</title>
+<ellipse fill="none" stroke="black" cx="5512.19" cy="-162" rx="96.38" ry="18"/>
+<text text-anchor="middle" x="5512.19" y="-158.3" font-family="arial" font-size="14.00">debugImplementation</text>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;debugImplementation -->
+<g id="edge24" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M2860.43,-220.73C2879.93,-218.83 2900.17,-217.13 2919.19,-216 3470.06,-183.35 4852.3,-226.25 5402.19,-180 5412.81,-179.11 5423.95,-177.81 5434.91,-176.33"/>
+<polygon fill="black" stroke="black" points="5435.48,-179.78 5444.89,-174.91 5434.5,-172.85 5435.48,-179.78"/>
+</g>
+<!-- implementation -->
+<g id="node97" class="node">
+<title>implementation</title>
+<ellipse fill="none" stroke="black" cx="6849.19" cy="-90" rx="71.49" ry="18"/>
+<text text-anchor="middle" x="6849.19" y="-86.3" font-family="arial" font-size="14.00">implementation</text>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;implementation -->
+<g id="edge25" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M2860.43,-220.73C2879.93,-218.83 2900.17,-217.13 2919.19,-216 3055.08,-207.93 5243.11,-231.32 5369.19,-180 5390.74,-171.23 5385.74,-153 5407.19,-144 5508.9,-101.32 6288.98,-112.08 6399.19,-108 6528.59,-103.21 6678.9,-97.5 6768.91,-94.07"/>
+<polygon fill="black" stroke="black" points="6769.19,-97.56 6779.04,-93.68 6768.92,-90.57 6769.19,-97.56"/>
+</g>
+<!-- debugAndroidTestCompileOnly -->
+<g id="node98" class="node">
+<title>debugAndroidTestCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="1257.19" cy="-162" rx="132.68" ry="18"/>
+<text text-anchor="middle" x="1257.19" y="-158.3" font-family="arial" font-size="14.00">debugAndroidTestCompileOnly</text>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;debugAndroidTestCompileOnly -->
+<g id="edge26" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;debugAndroidTestCompileOnly</title>
+<path fill="none" stroke="black" d="M2605.17,-230.82C2355.09,-226.37 1839.37,-213.64 1404.19,-180 1390.04,-178.91 1375.15,-177.49 1360.5,-175.95"/>
+<polygon fill="black" stroke="black" points="1360.73,-172.45 1350.41,-174.86 1359.98,-179.41 1360.73,-172.45"/>
+</g>
+<!-- debugAndroidTestImplementation -->
+<g id="node99" class="node">
+<title>debugAndroidTestImplementation</title>
+<ellipse fill="none" stroke="black" cx="2964.19" cy="-162" rx="142.17" ry="18"/>
+<text text-anchor="middle" x="2964.19" y="-158.3" font-family="arial" font-size="14.00">debugAndroidTestImplementation</text>
+</g>
+<!-- debugAndroidTestCompileClasspath&#45;&gt;debugAndroidTestImplementation -->
+<g id="edge27" class="edge link&#45;class">
+<title>debugAndroidTestCompileClasspath&#45;&gt;debugAndroidTestImplementation</title>
+<path fill="none" stroke="black" d="M2804.18,-216.85C2834.73,-206.57 2874.47,-193.19 2906.71,-182.35"/>
+<polygon fill="black" stroke="black" points="2908.09,-185.57 2916.46,-179.07 2905.86,-178.94 2908.09,-185.57"/>
+</g>
+<!-- debugImplementation&#45;&gt;implementation -->
+<g id="edge29" class="edge link&#45;class">
+<title>debugImplementation&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M5588.16,-150.91C5609.79,-148.33 5633.39,-145.78 5655.19,-144 5765.35,-135.02 6519.1,-104.28 6768.94,-94.22"/>
+<polygon fill="black" stroke="black" points="6769.18,-97.71 6779.03,-93.81 6768.9,-90.72 6769.18,-97.71"/>
+</g>
+<!-- debugApi -->
+<g id="node100" class="node">
+<title>debugApi</title>
+<ellipse fill="none" stroke="black" cx="5365.19" cy="-90" rx="48.19" ry="18"/>
+<text text-anchor="middle" x="5365.19" y="-86.3" font-family="arial" font-size="14.00">debugApi</text>
+</g>
+<!-- debugImplementation&#45;&gt;debugApi -->
+<g id="edge28" class="edge link&#45;class">
+<title>debugImplementation&#45;&gt;debugApi</title>
+<path fill="none" stroke="black" d="M5478.84,-145.12C5456.35,-134.41 5426.64,-120.26 5403.23,-109.11"/>
+<polygon fill="black" stroke="black" points="5404.49,-105.83 5393.96,-104.7 5401.48,-112.15 5404.49,-105.83"/>
+</g>
+<!-- implementation&#45;&gt;api -->
+<g id="edge30" class="edge link&#45;class">
+<title>implementation&#45;&gt;api</title>
+<path fill="none" stroke="black" d="M6886.28,-74.5C6918.72,-61.81 6965.33,-43.58 6996.17,-31.53"/>
+<polygon fill="black" stroke="black" points="6997.55,-34.74 7005.59,-27.84 6995,-28.22 6997.55,-34.74"/>
+</g>
+<!-- debugAndroidTestCompileOnly&#45;&gt;androidTestCompileOnly -->
+<g id="edge31" class="edge link&#45;class">
+<title>debugAndroidTestCompileOnly&#45;&gt;androidTestCompileOnly</title>
+<path fill="none" stroke="black" d="M1294.94,-144.59C1318,-134.56 1347.65,-121.67 1372.09,-111.05"/>
+<polygon fill="black" stroke="black" points="1373.74,-114.14 1381.52,-106.95 1370.95,-107.72 1373.74,-114.14"/>
+</g>
+<!-- debugAndroidTestCompileOnly&#45;&gt;androidTestDebugCompileOnly -->
+<g id="edge32" class="edge link&#45;class">
+<title>debugAndroidTestCompileOnly&#45;&gt;androidTestDebugCompileOnly</title>
+<path fill="none" stroke="black" d="M1226.62,-144.41C1209.08,-134.89 1186.85,-122.83 1167.96,-112.58"/>
+<polygon fill="black" stroke="black" points="1169.45,-109.41 1158.99,-107.71 1166.11,-115.56 1169.45,-109.41"/>
+</g>
+<!-- debugAndroidTestImplementation&#45;&gt;androidTestDebugImplementation -->
+<g id="edge35" class="edge link&#45;class">
+<title>debugAndroidTestImplementation&#45;&gt;androidTestDebugImplementation</title>
+<path fill="none" stroke="black" d="M2934.49,-144.23C2917.78,-134.8 2896.71,-122.9 2878.73,-112.76"/>
+<polygon fill="black" stroke="black" points="2880.08,-109.5 2869.65,-107.63 2876.64,-115.59 2880.08,-109.5"/>
+</g>
+<!-- debugAndroidTestImplementation&#45;&gt;androidTestImplementation -->
+<g id="edge34" class="edge link&#45;class">
+<title>debugAndroidTestImplementation&#45;&gt;androidTestImplementation</title>
+<path fill="none" stroke="black" d="M3032.69,-146.15C3085.43,-134.73 3158.24,-118.95 3212.47,-107.19"/>
+<polygon fill="black" stroke="black" points="3213.34,-110.59 3222.37,-105.05 3211.86,-103.75 3213.34,-110.59"/>
+</g>
+<!-- debugAndroidTestImplementation&#45;&gt;debugAndroidTestApi -->
+<g id="edge33" class="edge link&#45;class">
+<title>debugAndroidTestImplementation&#45;&gt;debugAndroidTestApi</title>
+<path fill="none" stroke="black" d="M2846.4,-151.88C2811.27,-149.25 2772.68,-146.42 2737.19,-144 2478.19,-126.31 2412.15,-137.18 2154.19,-108 2145.49,-107.02 2136.41,-105.8 2127.39,-104.47"/>
+<polygon fill="black" stroke="black" points="2127.68,-100.97 2117.27,-102.93 2126.63,-107.89 2127.68,-100.97"/>
+</g>
+<!-- debugApi&#45;&gt;api -->
+<g id="edge49" class="edge link&#45;class">
+<title>debugApi&#45;&gt;api</title>
+<path fill="none" stroke="black" d="M5412.73,-87C5657.43,-76.7 6772.15,-29.78 6990.89,-20.57"/>
+<polygon fill="black" stroke="black" points="6991.35,-24.05 7001.19,-20.14 6991.05,-17.06 6991.35,-24.05"/>
+</g>
+<!-- debugAndroidTestCompileOnlyDependenciesMetadata -->
+<g id="node101" class="node">
+<title>debugAndroidTestCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="1257.19" cy="-234" rx="225.56" ry="18"/>
+<text text-anchor="middle" x="1257.19" y="-230.3" font-family="arial" font-size="14.00">debugAndroidTestCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- debugAndroidTestCompileOnlyDependenciesMetadata&#45;&gt;debugAndroidTestCompileOnly -->
+<g id="edge36" class="edge link&#45;class">
+<title>debugAndroidTestCompileOnlyDependenciesMetadata&#45;&gt;debugAndroidTestCompileOnly</title>
+<path fill="none" stroke="black" d="M1257.19,-215.7C1257.19,-207.98 1257.19,-198.71 1257.19,-190.11"/>
+<polygon fill="black" stroke="black" points="1260.7,-190.1 1257.19,-180.1 1253.7,-190.1 1260.7,-190.1"/>
+</g>
+<!-- debugAndroidTestImplementationDependenciesMetadata -->
+<g id="node102" class="node">
+<title>debugAndroidTestImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="3163.19" cy="-234" rx="235.06" ry="18"/>
+<text text-anchor="middle" x="3163.19" y="-230.3" font-family="arial" font-size="14.00">debugAndroidTestImplementationDependenciesMetadata</text>
+</g>
+<!-- debugAndroidTestImplementationDependenciesMetadata&#45;&gt;debugAndroidTestImplementation -->
+<g id="edge37" class="edge link&#45;class">
+<title>debugAndroidTestImplementationDependenciesMetadata&#45;&gt;debugAndroidTestImplementation</title>
+<path fill="none" stroke="black" d="M3115.78,-216.32C3086.84,-206.14 3049.71,-193.08 3019.44,-182.43"/>
+<polygon fill="black" stroke="black" points="3020.47,-179.08 3009.87,-179.07 3018.15,-185.69 3020.47,-179.08"/>
+</g>
+<!-- debugAndroidTestRuntimeClasspath -->
+<g id="node103" class="node">
+<title>debugAndroidTestRuntimeClasspath</title>
+<ellipse fill="none" stroke="black" cx="3746.19" cy="-234" rx="153.27" ry="18"/>
+<text text-anchor="middle" x="3746.19" y="-230.3" font-family="arial" font-size="14.00">debugAndroidTestRuntimeClasspath</text>
+</g>
+<!-- debugAndroidTestRuntimeClasspath&#45;&gt;androidTestDebugImplementation -->
+<g id="edge39" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeClasspath&#45;&gt;androidTestDebugImplementation</title>
+<path fill="none" stroke="black" d="M3610.35,-225.57C3448.21,-215.97 3193.77,-198.3 3153.19,-180 3131.99,-170.43 3135.89,-154.63 3115.19,-144 3071.38,-121.5 3019.19,-108.51 2972.1,-101.02"/>
+<polygon fill="black" stroke="black" points="2972.55,-97.55 2962.14,-99.51 2971.5,-104.47 2972.55,-97.55"/>
+</g>
+<!-- debugAndroidTestRuntimeClasspath&#45;&gt;androidTestDebugRuntimeOnly -->
+<g id="edge38" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeClasspath&#45;&gt;androidTestDebugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M3890.49,-227.84C3974.93,-221.77 4070.77,-208.59 4101.19,-180 4117.79,-164.41 4121.72,-138.17 4121.99,-118.21"/>
+<polygon fill="black" stroke="black" points="4125.49,-118.1 4121.83,-108.16 4118.49,-118.21 4125.49,-118.1"/>
+</g>
+<!-- debugAndroidTestRuntimeClasspath&#45;&gt;androidTestImplementation -->
+<g id="edge41" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeClasspath&#45;&gt;androidTestImplementation</title>
+<path fill="none" stroke="black" d="M3701.3,-216.77C3678.72,-207.61 3651.5,-194.99 3629.19,-180 3609.89,-167.02 3611.98,-154.44 3591.19,-144 3535.42,-115.98 3467.45,-102.49 3409.93,-96.1"/>
+<polygon fill="black" stroke="black" points="3410,-92.59 3399.69,-95.03 3409.27,-99.55 3410,-92.59"/>
+</g>
+<!-- debugAndroidTestRuntimeClasspath&#45;&gt;androidTestRuntimeOnly -->
+<g id="edge40" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeClasspath&#45;&gt;androidTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M3879.84,-225.1C3931.77,-222.11 3991.75,-218.77 4046.19,-216 4090.46,-213.75 4812.57,-212.04 4843.19,-180 4884.35,-136.94 4804.63,-113.76 4731.88,-101.96"/>
+<polygon fill="black" stroke="black" points="4732.1,-98.45 4721.68,-100.37 4731.02,-105.36 4732.1,-98.45"/>
+</g>
+<!-- debugAndroidTestRuntimeClasspath&#45;&gt;debugAndroidTestImplementation -->
+<g id="edge43" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeClasspath&#45;&gt;debugAndroidTestImplementation</title>
+<path fill="none" stroke="black" d="M3622,-223.37C3495.63,-213.37 3294.17,-196.84 3120.19,-180 3106.2,-178.65 3091.52,-177.15 3076.98,-175.62"/>
+<polygon fill="black" stroke="black" points="3077.27,-172.13 3066.95,-174.55 3076.53,-179.09 3077.27,-172.13"/>
+</g>
+<!-- debugAndroidTestRuntimeOnly -->
+<g id="node104" class="node">
+<title>debugAndroidTestRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="4281.19" cy="-162" rx="133.48" ry="18"/>
+<text text-anchor="middle" x="4281.19" y="-158.3" font-family="arial" font-size="14.00">debugAndroidTestRuntimeOnly</text>
+</g>
+<!-- debugAndroidTestRuntimeClasspath&#45;&gt;debugAndroidTestRuntimeOnly -->
+<g id="edge42" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeClasspath&#45;&gt;debugAndroidTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M3844.32,-220.16C3939.3,-207.73 4082.68,-188.97 4179.01,-176.37"/>
+<polygon fill="black" stroke="black" points="4179.59,-179.82 4189.05,-175.06 4178.68,-172.88 4179.59,-179.82"/>
+</g>
+<!-- debugAndroidTestRuntimeOnly&#45;&gt;androidTestDebugRuntimeOnly -->
+<g id="edge45" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeOnly&#45;&gt;androidTestDebugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M4243.45,-144.59C4220.64,-134.67 4191.38,-121.95 4167.09,-111.39"/>
+<polygon fill="black" stroke="black" points="4168.27,-108.09 4157.71,-107.31 4165.48,-114.51 4168.27,-108.09"/>
+</g>
+<!-- debugAndroidTestRuntimeOnly&#45;&gt;androidTestRuntimeOnly -->
+<g id="edge44" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeOnly&#45;&gt;androidTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M4352.85,-146.75C4412.17,-134.95 4496.23,-118.24 4556.81,-106.19"/>
+<polygon fill="black" stroke="black" points="4557.57,-109.61 4566.7,-104.22 4556.21,-102.74 4557.57,-109.61"/>
+</g>
+<!-- debugAndroidTestRuntimeOnlyDependenciesMetadata -->
+<g id="node105" class="node">
+<title>debugAndroidTestRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="4281.19" cy="-234" rx="226.36" ry="18"/>
+<text text-anchor="middle" x="4281.19" y="-230.3" font-family="arial" font-size="14.00">debugAndroidTestRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- debugAndroidTestRuntimeOnlyDependenciesMetadata&#45;&gt;debugAndroidTestRuntimeOnly -->
+<g id="edge46" class="edge link&#45;class">
+<title>debugAndroidTestRuntimeOnlyDependenciesMetadata&#45;&gt;debugAndroidTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M4281.19,-215.7C4281.19,-207.98 4281.19,-198.71 4281.19,-190.11"/>
+<polygon fill="black" stroke="black" points="4284.7,-190.1 4281.19,-180.1 4277.7,-190.1 4284.7,-190.1"/>
+</g>
+<!-- debugAnnotationProcessorClasspath -->
+<g id="node106" class="node">
+<title>debugAnnotationProcessorClasspath</title>
+<ellipse fill="none" stroke="black" cx="17764.19" cy="-306" rx="155.17" ry="18"/>
+<text text-anchor="middle" x="17764.19" y="-302.3" font-family="arial" font-size="14.00">debugAnnotationProcessorClasspath</text>
+</g>
+<!-- debugAnnotationProcessorClasspath&#45;&gt;annotationProcessor -->
+<g id="edge48" class="edge link&#45;class">
+<title>debugAnnotationProcessorClasspath&#45;&gt;annotationProcessor</title>
+<path fill="none" stroke="black" d="M17809.42,-288.76C17838.76,-278.23 17877.07,-264.48 17907.6,-253.52"/>
+<polygon fill="black" stroke="black" points="17908.98,-256.74 17917.21,-250.07 17906.62,-250.16 17908.98,-256.74"/>
+</g>
+<!-- debugAnnotationProcessorClasspath&#45;&gt;debugAnnotationProcessor -->
+<g id="edge47" class="edge link&#45;class">
+<title>debugAnnotationProcessorClasspath&#45;&gt;debugAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M17756.78,-287.7C17753.4,-279.81 17749.33,-270.3 17745.57,-261.55"/>
+<polygon fill="black" stroke="black" points="17748.68,-259.92 17741.53,-252.1 17742.25,-262.67 17748.68,-259.92"/>
+</g>
+<!-- debugApiDependenciesMetadata -->
+<g id="node107" class="node">
+<title>debugApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="5219.19" cy="-162" rx="141.07" ry="18"/>
+<text text-anchor="middle" x="5219.19" y="-158.3" font-family="arial" font-size="14.00">debugApiDependenciesMetadata</text>
+</g>
+<!-- debugApiDependenciesMetadata&#45;&gt;debugApi -->
+<g id="edge50" class="edge link&#45;class">
+<title>debugApiDependenciesMetadata&#45;&gt;debugApi</title>
+<path fill="none" stroke="black" d="M5253.79,-144.41C5276.03,-133.75 5304.91,-119.91 5327.69,-108.98"/>
+<polygon fill="black" stroke="black" points="5329.22,-112.13 5336.73,-104.65 5326.19,-105.82 5329.22,-112.13"/>
+</g>
+<!-- debugApiElements -->
+<g id="node108" class="node">
+<title>debugApiElements</title>
+<ellipse fill="none" stroke="black" cx="4975.19" cy="-162" rx="85.29" ry="18"/>
+<text text-anchor="middle" x="4975.19" y="-158.3" font-family="arial" font-size="14.00">debugApiElements</text>
+</g>
+<!-- debugApiElements&#45;&gt;api -->
+<g id="edge52" class="edge link&#45;class">
+<title>debugApiElements&#45;&gt;api</title>
+<path fill="none" stroke="black" d="M5017.38,-146.36C5079.95,-125.41 5201.48,-87.69 5308.19,-72 5649.17,-21.87 6772.62,-19.05 6991.17,-18.98"/>
+<polygon fill="black" stroke="black" points="6991.17,-22.48 7001.17,-18.98 6991.17,-15.48 6991.17,-22.48"/>
+</g>
+<!-- debugApiElements&#45;&gt;debugApi -->
+<g id="edge51" class="edge link&#45;class">
+<title>debugApiElements&#45;&gt;debugApi</title>
+<path fill="none" stroke="black" d="M5037.64,-149.69C5048.17,-147.79 5058.99,-145.84 5069.19,-144 5154.44,-128.66 5253.51,-110.94 5312.69,-100.37"/>
+<polygon fill="black" stroke="black" points="5313.32,-103.82 5322.55,-98.61 5312.09,-96.93 5313.32,-103.82"/>
+</g>
+<!-- debugCompileClasspath -->
+<g id="node109" class="node">
+<title>debugCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="5492.19" cy="-234" rx="106.68" ry="18"/>
+<text text-anchor="middle" x="5492.19" y="-230.3" font-family="arial" font-size="14.00">debugCompileClasspath</text>
+</g>
+<!-- debugCompileClasspath&#45;&gt;compileOnly -->
+<g id="edge55" class="edge link&#45;class">
+<title>debugCompileClasspath&#45;&gt;compileOnly</title>
+<path fill="none" stroke="black" d="M5539.01,-217.7C5563.38,-208.63 5593.04,-195.82 5617.19,-180 5636.66,-167.26 5633.94,-153.45 5655.19,-144 5761.96,-96.53 6109.99,-90.82 6260.16,-90.65"/>
+<polygon fill="black" stroke="black" points="6260.2,-94.15 6270.2,-90.64 6260.2,-87.15 6260.2,-94.15"/>
+</g>
+<!-- debugCompileClasspath&#45;&gt;debugImplementation -->
+<g id="edge54" class="edge link&#45;class">
+<title>debugCompileClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M5497.14,-215.7C5499.37,-207.9 5502.05,-198.51 5504.53,-189.83"/>
+<polygon fill="black" stroke="black" points="5507.93,-190.68 5507.31,-180.1 5501.2,-188.76 5507.93,-190.68"/>
+</g>
+<!-- debugCompileClasspath&#45;&gt;implementation -->
+<g id="edge56" class="edge link&#45;class">
+<title>debugCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M5566.96,-221.1C5580.65,-219.19 5594.83,-217.39 5608.19,-216 5737.52,-202.56 6072.95,-231.83 6192.19,-180 6213.53,-170.73 6208.97,-153.53 6230.19,-144 6324.07,-101.87 6621.85,-93.1 6767.45,-91.36"/>
+<polygon fill="black" stroke="black" points="6767.7,-94.86 6777.67,-91.25 6767.63,-87.86 6767.7,-94.86"/>
+</g>
+<!-- debugCompileOnly -->
+<g id="node110" class="node">
+<title>debugCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="5750.19" cy="-162" rx="86.38" ry="18"/>
+<text text-anchor="middle" x="5750.19" y="-158.3" font-family="arial" font-size="14.00">debugCompileOnly</text>
+</g>
+<!-- debugCompileClasspath&#45;&gt;debugCompileOnly -->
+<g id="edge53" class="edge link&#45;class">
+<title>debugCompileClasspath&#45;&gt;debugCompileOnly</title>
+<path fill="none" stroke="black" d="M5545.97,-218.41C5587.89,-207.04 5646.11,-191.24 5689.67,-179.42"/>
+<polygon fill="black" stroke="black" points="5690.83,-182.73 5699.56,-176.74 5689,-175.98 5690.83,-182.73"/>
+</g>
+<!-- debugCompileOnly&#45;&gt;compileOnly -->
+<g id="edge57" class="edge link&#45;class">
+<title>debugCompileOnly&#45;&gt;compileOnly</title>
+<path fill="none" stroke="black" d="M5812.07,-149.42C5823.4,-147.48 5835.14,-145.58 5846.19,-144 5994.6,-122.76 6169.67,-105.51 6263.24,-96.92"/>
+<polygon fill="black" stroke="black" points="6263.77,-100.38 6273.41,-95.99 6263.13,-93.41 6263.77,-100.38"/>
+</g>
+<!-- debugCompileOnlyDependenciesMetadata -->
+<g id="node111" class="node">
+<title>debugCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="5796.19" cy="-234" rx="179.27" ry="18"/>
+<text text-anchor="middle" x="5796.19" y="-230.3" font-family="arial" font-size="14.00">debugCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- debugCompileOnlyDependenciesMetadata&#45;&gt;debugCompileOnly -->
+<g id="edge58" class="edge link&#45;class">
+<title>debugCompileOnlyDependenciesMetadata&#45;&gt;debugCompileOnly</title>
+<path fill="none" stroke="black" d="M5784.82,-215.7C5779.48,-207.56 5772.99,-197.69 5767.08,-188.7"/>
+<polygon fill="black" stroke="black" points="5769.85,-186.54 5761.43,-180.1 5764,-190.38 5769.85,-186.54"/>
+</g>
+<!-- debugImplementationDependenciesMetadata -->
+<g id="node112" class="node">
+<title>debugImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="5178.19" cy="-234" rx="189.27" ry="18"/>
+<text text-anchor="middle" x="5178.19" y="-230.3" font-family="arial" font-size="14.00">debugImplementationDependenciesMetadata</text>
+</g>
+<!-- debugImplementationDependenciesMetadata&#45;&gt;debugImplementation -->
+<g id="edge59" class="edge link&#45;class">
+<title>debugImplementationDependenciesMetadata&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M5252.74,-217.38C5308.84,-205.62 5385.29,-189.6 5440.65,-177.99"/>
+<polygon fill="black" stroke="black" points="5441.67,-181.36 5450.74,-175.88 5440.23,-174.51 5441.67,-181.36"/>
+</g>
+<!-- debugRuntimeClasspath -->
+<g id="node113" class="node">
+<title>debugRuntimeClasspath</title>
+<ellipse fill="none" stroke="black" cx="6726.19" cy="-234" rx="107.48" ry="18"/>
+<text text-anchor="middle" x="6726.19" y="-230.3" font-family="arial" font-size="14.00">debugRuntimeClasspath</text>
+</g>
+<!-- debugRuntimeClasspath&#45;&gt;debugImplementation -->
+<g id="edge61" class="edge link&#45;class">
+<title>debugRuntimeClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M6652.08,-220.92C6638.19,-219.01 6623.77,-217.25 6610.19,-216 6187.23,-177.15 6078.65,-213.1 5655.19,-180 5636.6,-178.55 5616.7,-176.5 5597.84,-174.32"/>
+<polygon fill="black" stroke="black" points="5598.12,-170.83 5587.78,-173.14 5597.3,-177.78 5598.12,-170.83"/>
+</g>
+<!-- debugRuntimeClasspath&#45;&gt;implementation -->
+<g id="edge63" class="edge link&#45;class">
+<title>debugRuntimeClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M6772.29,-217.67C6791.15,-209.27 6811.67,-197.02 6825.19,-180 6839.16,-162.43 6845.02,-137.39 6847.48,-118.35"/>
+<polygon fill="black" stroke="black" points="6850.98,-118.51 6848.54,-108.2 6844.02,-117.79 6850.98,-118.51"/>
+</g>
+<!-- debugRuntimeOnly -->
+<g id="node114" class="node">
+<title>debugRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="7002.19" cy="-162" rx="87.18" ry="18"/>
+<text text-anchor="middle" x="7002.19" y="-158.3" font-family="arial" font-size="14.00">debugRuntimeOnly</text>
+</g>
+<!-- debugRuntimeClasspath&#45;&gt;debugRuntimeOnly -->
+<g id="edge60" class="edge link&#45;class">
+<title>debugRuntimeClasspath&#45;&gt;debugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M6782.71,-218.67C6828.36,-207.09 6892.53,-190.81 6939.7,-178.85"/>
+<polygon fill="black" stroke="black" points="6940.66,-182.22 6949.49,-176.37 6938.94,-175.43 6940.66,-182.22"/>
+</g>
+<!-- runtimeOnly -->
+<g id="node115" class="node">
+<title>runtimeOnly</title>
+<ellipse fill="none" stroke="black" cx="7685.19" cy="-90" rx="59.29" ry="18"/>
+<text text-anchor="middle" x="7685.19" y="-86.3" font-family="arial" font-size="14.00">runtimeOnly</text>
+</g>
+<!-- debugRuntimeClasspath&#45;&gt;runtimeOnly -->
+<g id="edge62" class="edge link&#45;class">
+<title>debugRuntimeClasspath&#45;&gt;runtimeOnly</title>
+<path fill="none" stroke="black" d="M6766.44,-217.25C6790.56,-207.38 6821.6,-193.93 6848.19,-180 6875.07,-165.92 6877.27,-153.17 6906.19,-144 7036.27,-102.75 7383.18,-118.95 7519.19,-108 7552.66,-105.3 7589.85,-101.57 7620.53,-98.28"/>
+<polygon fill="black" stroke="black" points="7621.1,-101.74 7630.67,-97.19 7620.35,-94.78 7621.1,-101.74"/>
+</g>
+<!-- debugRuntimeOnly&#45;&gt;runtimeOnly -->
+<g id="edge64" class="edge link&#45;class">
+<title>debugRuntimeOnly&#45;&gt;runtimeOnly</title>
+<path fill="none" stroke="black" d="M7063.78,-149.25C7075.19,-147.31 7087.03,-145.46 7098.19,-144 7284.4,-119.6 7332.22,-125.57 7519.19,-108 7552.49,-104.87 7589.52,-101.11 7620.14,-97.92"/>
+<polygon fill="black" stroke="black" points="7620.68,-101.38 7630.26,-96.86 7619.95,-94.42 7620.68,-101.38"/>
+</g>
+<!-- debugRuntimeElements -->
+<g id="node116" class="node">
+<title>debugRuntimeElements</title>
+<ellipse fill="none" stroke="black" cx="6726.19" cy="-306" rx="105.08" ry="18"/>
+<text text-anchor="middle" x="6726.19" y="-302.3" font-family="arial" font-size="14.00">debugRuntimeElements</text>
+</g>
+<!-- debugRuntimeElements&#45;&gt;debugImplementation -->
+<g id="edge66" class="edge link&#45;class">
+<title>debugRuntimeElements&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M6621.55,-303.77C6249.15,-299.16 5008.9,-281.59 4980.19,-252 4969.05,-240.52 4969.37,-227.78 4980.19,-216 5012.03,-181.34 5355.47,-185.6 5402.19,-180 5412.05,-178.82 5422.38,-177.43 5432.6,-175.96"/>
+<polygon fill="black" stroke="black" points="5433.37,-179.38 5442.76,-174.47 5432.36,-172.46 5433.37,-179.38"/>
+</g>
+<!-- debugRuntimeElements&#45;&gt;debugRuntimeClasspath -->
+<g id="edge65" class="edge link&#45;class">
+<title>debugRuntimeElements&#45;&gt;debugRuntimeClasspath</title>
+<path fill="none" stroke="black" d="M6726.19,-287.7C6726.19,-279.98 6726.19,-270.71 6726.19,-262.11"/>
+<polygon fill="black" stroke="black" points="6729.7,-262.1 6726.19,-252.1 6722.7,-262.1 6729.7,-262.1"/>
+</g>
+<!-- debugRuntimeElements&#45;&gt;debugRuntimeOnly -->
+<g id="edge67" class="edge link&#45;class">
+<title>debugRuntimeElements&#45;&gt;debugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M6768.76,-289.5C6791.51,-280.27 6819.43,-267.35 6842.19,-252 6861.48,-238.99 6860.79,-228.83 6880.19,-216 6901.34,-202.02 6926.78,-190.29 6948.94,-181.44"/>
+<polygon fill="black" stroke="black" points="6950.49,-184.6 6958.54,-177.71 6947.95,-178.07 6950.49,-184.6"/>
+</g>
+<!-- debugRuntimeOnlyDependenciesMetadata -->
+<g id="node117" class="node">
+<title>debugRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="7069.19" cy="-234" rx="180.07" ry="18"/>
+<text text-anchor="middle" x="7069.19" y="-230.3" font-family="arial" font-size="14.00">debugRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- debugRuntimeOnlyDependenciesMetadata&#45;&gt;debugRuntimeOnly -->
+<g id="edge68" class="edge link&#45;class">
+<title>debugRuntimeOnlyDependenciesMetadata&#45;&gt;debugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M7052.98,-216.05C7044.66,-207.37 7034.4,-196.64 7025.28,-187.11"/>
+<polygon fill="black" stroke="black" points="7027.71,-184.59 7018.26,-179.79 7022.65,-189.43 7027.71,-184.59"/>
+</g>
+<!-- debugUnitTestAnnotationProcessorClasspath -->
+<g id="node118" class="node">
+<title>debugUnitTestAnnotationProcessorClasspath</title>
+<ellipse fill="none" stroke="black" cx="35004.19" cy="-306" rx="187.37" ry="18"/>
+<text text-anchor="middle" x="35004.19" y="-302.3" font-family="arial" font-size="14.00">debugUnitTestAnnotationProcessorClasspath</text>
+</g>
+<!-- testDebugAnnotationProcessor -->
+<g id="node119" class="node">
+<title>testDebugAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="34973.19" cy="-234" rx="131.88" ry="18"/>
+<text text-anchor="middle" x="34973.19" y="-230.3" font-family="arial" font-size="14.00">testDebugAnnotationProcessor</text>
+</g>
+<!-- debugUnitTestAnnotationProcessorClasspath&#45;&gt;testDebugAnnotationProcessor -->
+<g id="edge69" class="edge link&#45;class">
+<title>debugUnitTestAnnotationProcessorClasspath&#45;&gt;testDebugAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M34996.53,-287.7C34993,-279.73 34988.74,-270.1 34984.83,-261.26"/>
+<polygon fill="black" stroke="black" points="34988.02,-259.83 34980.77,-252.1 34981.62,-262.67 34988.02,-259.83"/>
+</g>
+<!-- testAnnotationProcessor -->
+<g id="node120" class="node">
+<title>testAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="35230.19" cy="-234" rx="106.68" ry="18"/>
+<text text-anchor="middle" x="35230.19" y="-230.3" font-family="arial" font-size="14.00">testAnnotationProcessor</text>
+</g>
+<!-- debugUnitTestAnnotationProcessorClasspath&#45;&gt;testAnnotationProcessor -->
+<g id="edge70" class="edge link&#45;class">
+<title>debugUnitTestAnnotationProcessorClasspath&#45;&gt;testAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M35056.9,-288.68C35091.35,-278 35136.39,-264.06 35171.91,-253.05"/>
+<polygon fill="black" stroke="black" points="35173.14,-256.34 35181.66,-250.03 35171.07,-249.65 35173.14,-256.34"/>
+</g>
+<!-- debugUnitTestApi -->
+<g id="node121" class="node">
+<title>debugUnitTestApi</title>
+<ellipse fill="none" stroke="black" cx="12220.19" cy="-90" rx="79.09" ry="18"/>
+<text text-anchor="middle" x="12220.19" y="-86.3" font-family="arial" font-size="14.00">debugUnitTestApi</text>
+</g>
+<!-- testApi -->
+<g id="node122" class="node">
+<title>testApi</title>
+<ellipse fill="none" stroke="black" cx="11141.19" cy="-18" rx="37.89" ry="18"/>
+<text text-anchor="middle" x="11141.19" y="-14.3" font-family="arial" font-size="14.00">testApi</text>
+</g>
+<!-- debugUnitTestApi&#45;&gt;testApi -->
+<g id="edge71" class="edge link&#45;class">
+<title>debugUnitTestApi&#45;&gt;testApi</title>
+<path fill="none" stroke="black" d="M12143.54,-85.18C11931.02,-74.54 11344.24,-44.76 11257.19,-36 11233.7,-33.64 11207.68,-29.92 11186.24,-26.57"/>
+<polygon fill="black" stroke="black" points="11186.54,-23.07 11176.12,-24.96 11185.44,-29.99 11186.54,-23.07"/>
+</g>
+<!-- testDebugApi -->
+<g id="node123" class="node">
+<title>testDebugApi</title>
+<ellipse fill="none" stroke="black" cx="13205.19" cy="-18" rx="63.89" ry="18"/>
+<text text-anchor="middle" x="13205.19" y="-14.3" font-family="arial" font-size="14.00">testDebugApi</text>
+</g>
+<!-- debugUnitTestApi&#45;&gt;testDebugApi -->
+<g id="edge72" class="edge link&#45;class">
+<title>debugUnitTestApi&#45;&gt;testDebugApi</title>
+<path fill="none" stroke="black" d="M12294.63,-83.71C12478.74,-70.63 12953.54,-36.88 13134.08,-24.05"/>
+<polygon fill="black" stroke="black" points="13134.53,-27.53 13144.26,-23.33 13134.04,-20.55 13134.53,-27.53"/>
+</g>
+<!-- debugUnitTestApiDependenciesMetadata -->
+<g id="node124" class="node">
+<title>debugUnitTestApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="12493.19" cy="-162" rx="172.77" ry="18"/>
+<text text-anchor="middle" x="12493.19" y="-158.3" font-family="arial" font-size="14.00">debugUnitTestApiDependenciesMetadata</text>
+</g>
+<!-- debugUnitTestApiDependenciesMetadata&#45;&gt;debugUnitTestApi -->
+<g id="edge73" class="edge link&#45;class">
+<title>debugUnitTestApiDependenciesMetadata&#45;&gt;debugUnitTestApi</title>
+<path fill="none" stroke="black" d="M12431.25,-145.12C12386.2,-133.57 12325.53,-118.01 12280.8,-106.54"/>
+<polygon fill="black" stroke="black" points="12281.49,-103.1 12270.93,-104.01 12279.75,-109.88 12281.49,-103.1"/>
+</g>
+<!-- debugUnitTestCompileClasspath -->
+<g id="node125" class="node">
+<title>debugUnitTestCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="9217.19" cy="-234" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="9217.19" y="-230.3" font-family="arial" font-size="14.00">debugUnitTestCompileClasspath</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;debugImplementation -->
+<g id="edge78" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;debugImplementation</title>
+<path fill="none" stroke="black" d="M9123.37,-220.74C9105.42,-218.81 9086.75,-217.1 9069.19,-216 7554.74,-121.29 7169.46,-277.71 5655.19,-180 5636.37,-178.79 5616.23,-176.81 5597.17,-174.63"/>
+<polygon fill="black" stroke="black" points="5597.35,-171.13 5587.01,-173.44 5596.54,-178.08 5597.35,-171.13"/>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;implementation -->
+<g id="edge79" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M9121.77,-220.87C9104.3,-218.98 9086.22,-217.25 9069.19,-216 8944.8,-206.88 8063.73,-224.47 7947.19,-180 7923.91,-171.11 7927.41,-153.07 7904.19,-144 7825.76,-113.37 7231.29,-112.4 7147.19,-108 7072.84,-104.11 6988.07,-99.23 6928,-95.7"/>
+<polygon fill="black" stroke="black" points="6928.02,-92.19 6917.83,-95.1 6927.61,-99.18 6928.02,-92.19"/>
+</g>
+<!-- testDebugCompileOnly -->
+<g id="node126" class="node">
+<title>testDebugCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="8925.19" cy="-90" rx="102.08" ry="18"/>
+<text text-anchor="middle" x="8925.19" y="-86.3" font-family="arial" font-size="14.00">testDebugCompileOnly</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;testDebugCompileOnly -->
+<g id="edge74" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;testDebugCompileOnly</title>
+<path fill="none" stroke="black" d="M9126.21,-220.39C9052,-209.29 8957.35,-192.92 8944.19,-180 8928.02,-164.12 8924.01,-138.1 8923.6,-118.28"/>
+<polygon fill="black" stroke="black" points="8927.11,-118.04 8923.7,-108.01 8920.11,-117.98 8927.11,-118.04"/>
+</g>
+<!-- testDebugImplementation -->
+<g id="node127" class="node">
+<title>testDebugImplementation</title>
+<ellipse fill="none" stroke="black" cx="10836.19" cy="-90" rx="111.58" ry="18"/>
+<text text-anchor="middle" x="10836.19" y="-86.3" font-family="arial" font-size="14.00">testDebugImplementation</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;testDebugImplementation -->
+<g id="edge75" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;testDebugImplementation</title>
+<path fill="none" stroke="black" d="M9342.17,-226.14C9401.04,-222.96 9472.22,-219.19 9536.19,-216 9708.83,-207.4 10145.48,-221.82 10313.19,-180 10349.46,-170.96 10353.23,-154.19 10389.19,-144 10529.87,-104.15 10571.13,-126.26 10716.19,-108 10725.98,-106.77 10736.21,-105.42 10746.38,-104.03"/>
+<polygon fill="black" stroke="black" points="10747.09,-107.47 10756.52,-102.64 10746.14,-100.53 10747.09,-107.47"/>
+</g>
+<!-- testCompileOnly -->
+<g id="node128" class="node">
+<title>testCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="9414.19" cy="-90" rx="76.09" ry="18"/>
+<text text-anchor="middle" x="9414.19" y="-86.3" font-family="arial" font-size="14.00">testCompileOnly</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;testCompileOnly -->
+<g id="edge76" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;testCompileOnly</title>
+<path fill="none" stroke="black" d="M9216.01,-215.94C9215.6,-196.12 9218.08,-163.61 9236.19,-144 9260.59,-117.59 9297.5,-104.14 9331.4,-97.36"/>
+<polygon fill="black" stroke="black" points="9332.12,-100.78 9341.33,-95.54 9330.86,-93.9 9332.12,-100.78"/>
+</g>
+<!-- testImplementation -->
+<g id="node129" class="node">
+<title>testImplementation</title>
+<ellipse fill="none" stroke="black" cx="11765.19" cy="-90" rx="85.59" ry="18"/>
+<text text-anchor="middle" x="11765.19" y="-86.3" font-family="arial" font-size="14.00">testImplementation</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;testImplementation -->
+<g id="edge77" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;testImplementation</title>
+<path fill="none" stroke="black" d="M9339.85,-225.55C9399.15,-222.18 9471.35,-218.42 9536.19,-216 9630.1,-212.5 11141.59,-218.75 11227.19,-180 11246.97,-171.05 11240.81,-153.77 11260.19,-144 11269.44,-139.34 11537.08,-112.98 11678.89,-99.27"/>
+<polygon fill="black" stroke="black" points="11679.26,-102.76 11688.87,-98.31 11678.58,-95.79 11679.26,-102.76"/>
+</g>
+<!-- debugUnitTestCompileOnly -->
+<g id="node130" class="node">
+<title>debugUnitTestCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="9071.19" cy="-162" rx="118.08" ry="18"/>
+<text text-anchor="middle" x="9071.19" y="-158.3" font-family="arial" font-size="14.00">debugUnitTestCompileOnly</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;debugUnitTestCompileOnly -->
+<g id="edge80" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;debugUnitTestCompileOnly</title>
+<path fill="none" stroke="black" d="M9182.59,-216.41C9162.16,-206.61 9136.1,-194.12 9114.33,-183.68"/>
+<polygon fill="black" stroke="black" points="9115.82,-180.52 9105.29,-179.35 9112.8,-186.83 9115.82,-180.52"/>
+</g>
+<!-- debugUnitTestImplementation -->
+<g id="node131" class="node">
+<title>debugUnitTestImplementation</title>
+<ellipse fill="none" stroke="black" cx="11440.19" cy="-162" rx="128.08" ry="18"/>
+<text text-anchor="middle" x="11440.19" y="-158.3" font-family="arial" font-size="14.00">debugUnitTestImplementation</text>
+</g>
+<!-- debugUnitTestCompileClasspath&#45;&gt;debugUnitTestImplementation -->
+<g id="edge81" class="edge link&#45;class">
+<title>debugUnitTestCompileClasspath&#45;&gt;debugUnitTestImplementation</title>
+<path fill="none" stroke="black" d="M9339.47,-225.56C9398.84,-222.18 9471.21,-218.41 9536.19,-216 10302.06,-187.6 10495.07,-224.06 11260.19,-180 11283.36,-178.67 11308.17,-176.68 11331.72,-174.54"/>
+<polygon fill="black" stroke="black" points="11332.1,-178.02 11341.73,-173.61 11331.45,-171.05 11332.1,-178.02"/>
+</g>
+<!-- debugUnitTestCompileOnly&#45;&gt;testDebugCompileOnly -->
+<g id="edge83" class="edge link&#45;class">
+<title>debugUnitTestCompileOnly&#45;&gt;testDebugCompileOnly</title>
+<path fill="none" stroke="black" d="M9036.96,-144.59C9016.31,-134.69 8989.83,-121.99 8967.83,-111.44"/>
+<polygon fill="black" stroke="black" points="8969.24,-108.23 8958.71,-107.07 8966.21,-114.55 8969.24,-108.23"/>
+</g>
+<!-- debugUnitTestCompileOnly&#45;&gt;testCompileOnly -->
+<g id="edge82" class="edge link&#45;class">
+<title>debugUnitTestCompileOnly&#45;&gt;testCompileOnly</title>
+<path fill="none" stroke="black" d="M9138.96,-147.17C9199.77,-134.76 9288.46,-116.66 9348.6,-104.39"/>
+<polygon fill="black" stroke="black" points="9349.64,-107.75 9358.74,-102.32 9348.24,-100.89 9349.64,-107.75"/>
+</g>
+<!-- debugUnitTestImplementation&#45;&gt;debugUnitTestApi -->
+<g id="edge84" class="edge link&#45;class">
+<title>debugUnitTestImplementation&#45;&gt;debugUnitTestApi</title>
+<path fill="none" stroke="black" d="M11530.78,-149.23C11546.25,-147.37 11562.18,-145.55 11577.19,-144 11776.87,-123.39 12012.09,-105.66 12135.24,-96.88"/>
+<polygon fill="black" stroke="black" points="12135.63,-100.36 12145.36,-96.16 12135.13,-93.38 12135.63,-100.36"/>
+</g>
+<!-- debugUnitTestImplementation&#45;&gt;testDebugImplementation -->
+<g id="edge86" class="edge link&#45;class">
+<title>debugUnitTestImplementation&#45;&gt;testDebugImplementation</title>
+<path fill="none" stroke="black" d="M11344.82,-149.95C11232.69,-136.95 11047.54,-115.49 10934.25,-102.36"/>
+<polygon fill="black" stroke="black" points="10934.53,-98.87 10924.19,-101.2 10933.73,-105.83 10934.53,-98.87"/>
+</g>
+<!-- debugUnitTestImplementation&#45;&gt;testImplementation -->
+<g id="edge85" class="edge link&#45;class">
+<title>debugUnitTestImplementation&#45;&gt;testImplementation</title>
+<path fill="none" stroke="black" d="M11507.14,-146.58C11562.88,-134.57 11641.9,-117.56 11697.77,-105.52"/>
+<polygon fill="black" stroke="black" points="11698.54,-108.94 11707.58,-103.41 11697.06,-102.09 11698.54,-108.94"/>
+</g>
+<!-- debugUnitTestCompileOnlyDependenciesMetadata -->
+<g id="node132" class="node">
+<title>debugUnitTestCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="8849.19" cy="-234" rx="211.46" ry="18"/>
+<text text-anchor="middle" x="8849.19" y="-230.3" font-family="arial" font-size="14.00">debugUnitTestCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- debugUnitTestCompileOnlyDependenciesMetadata&#45;&gt;debugUnitTestCompileOnly -->
+<g id="edge87" class="edge link&#45;class">
+<title>debugUnitTestCompileOnlyDependenciesMetadata&#45;&gt;debugUnitTestCompileOnly</title>
+<path fill="none" stroke="black" d="M8901.52,-216.5C8934.78,-206.01 8977.89,-192.42 9012.33,-181.56"/>
+<polygon fill="black" stroke="black" points="9013.77,-184.78 9022.26,-178.43 9011.67,-178.1 9013.77,-184.78"/>
+</g>
+<!-- debugUnitTestImplementationDependenciesMetadata -->
+<g id="node133" class="node">
+<title>debugUnitTestImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="11440.19" cy="-234" rx="220.96" ry="18"/>
+<text text-anchor="middle" x="11440.19" y="-230.3" font-family="arial" font-size="14.00">debugUnitTestImplementationDependenciesMetadata</text>
+</g>
+<!-- debugUnitTestImplementationDependenciesMetadata&#45;&gt;debugUnitTestImplementation -->
+<g id="edge88" class="edge link&#45;class">
+<title>debugUnitTestImplementationDependenciesMetadata&#45;&gt;debugUnitTestImplementation</title>
+<path fill="none" stroke="black" d="M11440.19,-215.7C11440.19,-207.98 11440.19,-198.71 11440.19,-190.11"/>
+<polygon fill="black" stroke="black" points="11443.7,-190.1 11440.19,-180.1 11436.7,-190.1 11443.7,-190.1"/>
+</g>
+<!-- debugUnitTestRuntimeClasspath -->
+<g id="node134" class="node">
+<title>debugUnitTestRuntimeClasspath</title>
+<ellipse fill="none" stroke="black" cx="12586.19" cy="-234" rx="139.18" ry="18"/>
+<text text-anchor="middle" x="12586.19" y="-230.3" font-family="arial" font-size="14.00">debugUnitTestRuntimeClasspath</text>
+</g>
+<!-- debugUnitTestRuntimeClasspath&#45;&gt;testDebugImplementation -->
+<g id="edge90" class="edge link&#45;class">
+<title>debugUnitTestRuntimeClasspath&#45;&gt;testDebugImplementation</title>
+<path fill="none" stroke="black" d="M12469.19,-224.23C12425.3,-221.21 12374.98,-218.07 12329.19,-216 12288.28,-214.15 10886.72,-206.15 10855.19,-180 10837.57,-165.38 10833.81,-138.78 10833.87,-118.46"/>
+<polygon fill="black" stroke="black" points="10837.37,-118.33 10834.21,-108.22 10830.38,-118.09 10837.37,-118.33"/>
+</g>
+<!-- debugUnitTestRuntimeClasspath&#45;&gt;testImplementation -->
+<g id="edge92" class="edge link&#45;class">
+<title>debugUnitTestRuntimeClasspath&#45;&gt;testImplementation</title>
+<path fill="none" stroke="black" d="M12459.97,-226.3C12402.42,-219.52 12334.69,-206.16 12278.19,-180 12255.58,-169.53 12258.11,-153.81 12235.19,-144 12169.46,-115.85 11975.61,-101.47 11858.4,-95.15"/>
+<polygon fill="black" stroke="black" points="11858.53,-91.66 11848.36,-94.62 11858.16,-98.65 11858.53,-91.66"/>
+</g>
+<!-- debugUnitTestRuntimeClasspath&#45;&gt;debugUnitTestImplementation -->
+<g id="edge94" class="edge link&#45;class">
+<title>debugUnitTestRuntimeClasspath&#45;&gt;debugUnitTestImplementation</title>
+<path fill="none" stroke="black" d="M12466.91,-224.66C12423.55,-221.74 12374.17,-218.56 12329.19,-216 11995.13,-196.96 11910.57,-208.62 11577.19,-180 11564.85,-178.94 11551.91,-177.62 11539.11,-176.18"/>
+<polygon fill="black" stroke="black" points="11539.23,-172.67 11528.9,-175 11538.43,-179.62 11539.23,-172.67"/>
+</g>
+<!-- testDebugRuntimeOnly -->
+<g id="node135" class="node">
+<title>testDebugRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="12918.19" cy="-90" rx="102.88" ry="18"/>
+<text text-anchor="middle" x="12918.19" y="-86.3" font-family="arial" font-size="14.00">testDebugRuntimeOnly</text>
+</g>
+<!-- debugUnitTestRuntimeClasspath&#45;&gt;testDebugRuntimeOnly -->
+<g id="edge89" class="edge link&#45;class">
+<title>debugUnitTestRuntimeClasspath&#45;&gt;testDebugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M12617.76,-216.46C12635.28,-206.73 12657.13,-193.67 12675.19,-180 12693.75,-165.96 12692.84,-155.27 12713.19,-144 12748.92,-124.22 12792.23,-111.63 12829.83,-103.71"/>
+<polygon fill="black" stroke="black" points="12830.65,-107.11 12839.76,-101.7 12829.26,-100.25 12830.65,-107.11"/>
+</g>
+<!-- testRuntimeOnly -->
+<g id="node136" class="node">
+<title>testRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="13939.19" cy="-90" rx="76.89" ry="18"/>
+<text text-anchor="middle" x="13939.19" y="-86.3" font-family="arial" font-size="14.00">testRuntimeOnly</text>
+</g>
+<!-- debugUnitTestRuntimeClasspath&#45;&gt;testRuntimeOnly -->
+<g id="edge91" class="edge link&#45;class">
+<title>debugUnitTestRuntimeClasspath&#45;&gt;testRuntimeOnly</title>
+<path fill="none" stroke="black" d="M12717.86,-228.15C13040.13,-216.21 13843.38,-185.89 13856.19,-180 13885.25,-166.64 13908.97,-137.96 13923.5,-116.75"/>
+<polygon fill="black" stroke="black" points="13926.56,-118.46 13929.15,-108.18 13920.72,-114.6 13926.56,-118.46"/>
+</g>
+<!-- debugUnitTestRuntimeOnly -->
+<g id="node137" class="node">
+<title>debugUnitTestRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="13288.19" cy="-162" rx="118.08" ry="18"/>
+<text text-anchor="middle" x="13288.19" y="-158.3" font-family="arial" font-size="14.00">debugUnitTestRuntimeOnly</text>
+</g>
+<!-- debugUnitTestRuntimeClasspath&#45;&gt;debugUnitTestRuntimeOnly -->
+<g id="edge93" class="edge link&#45;class">
+<title>debugUnitTestRuntimeClasspath&#45;&gt;debugUnitTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M12699.87,-223.62C12815,-213.84 12998.15,-197.52 13156.19,-180 13167.95,-178.7 13180.27,-177.24 13192.48,-175.73"/>
+<polygon fill="black" stroke="black" points="13193.19,-179.17 13202.69,-174.46 13192.33,-172.22 13193.19,-179.17"/>
+</g>
+<!-- debugUnitTestRuntimeOnly&#45;&gt;testDebugRuntimeOnly -->
+<g id="edge96" class="edge link&#45;class">
+<title>debugUnitTestRuntimeOnly&#45;&gt;testDebugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M13217.29,-147.59C13153.62,-135.54 13060.37,-117.9 12994.96,-105.52"/>
+<polygon fill="black" stroke="black" points="12995.6,-102.08 12985.12,-103.66 12994.29,-108.96 12995.6,-102.08"/>
+</g>
+<!-- debugUnitTestRuntimeOnly&#45;&gt;testRuntimeOnly -->
+<g id="edge95" class="edge link&#45;class">
+<title>debugUnitTestRuntimeOnly&#45;&gt;testRuntimeOnly</title>
+<path fill="none" stroke="black" d="M13372.84,-149.38C13387.29,-147.51 13402.17,-145.64 13416.19,-144 13572.78,-125.67 13756.19,-107.95 13858.92,-98.35"/>
+<polygon fill="black" stroke="black" points="13859.27,-101.84 13868.91,-97.42 13858.63,-94.87 13859.27,-101.84"/>
+</g>
+<!-- debugUnitTestRuntimeOnlyDependenciesMetadata -->
+<g id="node138" class="node">
+<title>debugUnitTestRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="13288.19" cy="-234" rx="211.76" ry="18"/>
+<text text-anchor="middle" x="13288.19" y="-230.3" font-family="arial" font-size="14.00">debugUnitTestRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- debugUnitTestRuntimeOnlyDependenciesMetadata&#45;&gt;debugUnitTestRuntimeOnly -->
+<g id="edge97" class="edge link&#45;class">
+<title>debugUnitTestRuntimeOnlyDependenciesMetadata&#45;&gt;debugUnitTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M13288.19,-215.7C13288.19,-207.98 13288.19,-198.71 13288.19,-190.11"/>
+<polygon fill="black" stroke="black" points="13291.7,-190.1 13288.19,-180.1 13284.7,-190.1 13291.7,-190.1"/>
+</g>
+<!-- debugWearBundling -->
+<g id="node139" class="node">
+<title>debugWearBundling</title>
+<ellipse fill="none" stroke="black" cx="20671.19" cy="-306" rx="90.18" ry="18"/>
+<text text-anchor="middle" x="20671.19" y="-302.3" font-family="arial" font-size="14.00">debugWearBundling</text>
+</g>
+<!-- debugWearBundling&#45;&gt;debugWearApp -->
+<g id="edge98" class="edge link&#45;class">
+<title>debugWearBundling&#45;&gt;debugWearApp</title>
+<path fill="none" stroke="black" d="M20666.75,-287.7C20664.74,-279.9 20662.33,-270.51 20660.09,-261.83"/>
+<polygon fill="black" stroke="black" points="20663.47,-260.92 20657.59,-252.1 20656.69,-262.66 20663.47,-260.92"/>
+</g>
+<!-- wearApp -->
+<g id="node140" class="node">
+<title>wearApp</title>
+<ellipse fill="none" stroke="black" cx="20788.19" cy="-234" rx="45.49" ry="18"/>
+<text text-anchor="middle" x="20788.19" y="-230.3" font-family="arial" font-size="14.00">wearApp</text>
+</g>
+<!-- debugWearBundling&#45;&gt;wearApp -->
+<g id="edge99" class="edge link&#45;class">
+<title>debugWearBundling&#45;&gt;wearApp</title>
+<path fill="none" stroke="black" d="M20698.33,-288.76C20715.23,-278.65 20737.09,-265.57 20755.02,-254.85"/>
+<polygon fill="black" stroke="black" points="20757.2,-257.62 20763.99,-249.48 20753.61,-251.61 20757.2,-257.62"/>
+</g>
+<!-- implementationDependenciesMetadata -->
+<g id="node141" class="node">
+<title>implementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="6019.19" cy="-162" rx="164.37" ry="18"/>
+<text text-anchor="middle" x="6019.19" y="-158.3" font-family="arial" font-size="14.00">implementationDependenciesMetadata</text>
+</g>
+<!-- implementationDependenciesMetadata&#45;&gt;implementation -->
+<g id="edge100" class="edge link&#45;class">
+<title>implementationDependenciesMetadata&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M6137.42,-149.47C6157.37,-147.6 6177.87,-145.71 6197.19,-144 6404.61,-125.67 6649.36,-106.41 6771.57,-96.95"/>
+<polygon fill="black" stroke="black" points="6771.89,-100.44 6781.59,-96.18 6771.35,-93.46 6771.89,-100.44"/>
+</g>
+<!-- kotlinCompilerPluginClasspathDebug -->
+<g id="node142" class="node">
+<title>kotlinCompilerPluginClasspathDebug</title>
+<ellipse fill="none" stroke="black" cx="21811.19" cy="-306" rx="155.97" ry="18"/>
+<text text-anchor="middle" x="21811.19" y="-302.3" font-family="arial" font-size="14.00">kotlinCompilerPluginClasspathDebug</text>
+</g>
+<!-- kotlinCompilerPluginClasspathDebug&#45;&gt;kotlinCompilerPluginClasspath -->
+<g id="edge101" class="edge link&#45;class">
+<title>kotlinCompilerPluginClasspathDebug&#45;&gt;kotlinCompilerPluginClasspath</title>
+<path fill="none" stroke="black" d="M21922.11,-293.31C21940.18,-291.48 21958.71,-289.65 21976.19,-288 22149.71,-271.63 22350.79,-254.81 22475.51,-244.63"/>
+<polygon fill="black" stroke="black" points="22476.16,-248.09 22485.84,-243.79 22475.59,-241.11 22476.16,-248.09"/>
+</g>
+<!-- kotlinCompilerPluginClasspathDebugAndroidTest -->
+<g id="node143" class="node">
+<title>kotlinCompilerPluginClasspathDebugAndroidTest</title>
+<ellipse fill="none" stroke="black" cx="22187.19" cy="-306" rx="202.26" ry="18"/>
+<text text-anchor="middle" x="22187.19" y="-302.3" font-family="arial" font-size="14.00">kotlinCompilerPluginClasspathDebugAndroidTest</text>
+</g>
+<!-- kotlinCompilerPluginClasspathDebugAndroidTest&#45;&gt;kotlinCompilerPluginClasspath -->
+<g id="edge102" class="edge link&#45;class">
+<title>kotlinCompilerPluginClasspathDebugAndroidTest&#45;&gt;kotlinCompilerPluginClasspath</title>
+<path fill="none" stroke="black" d="M22275.72,-289.81C22344.19,-278.06 22438.53,-261.88 22506.93,-250.14"/>
+<polygon fill="black" stroke="black" points="22507.56,-253.59 22516.83,-248.45 22506.38,-246.69 22507.56,-253.59"/>
+</g>
+<!-- kotlinCompilerPluginClasspathDebugUnitTest -->
+<g id="node144" class="node">
+<title>kotlinCompilerPluginClasspathDebugUnitTest</title>
+<ellipse fill="none" stroke="black" cx="22595.19" cy="-306" rx="187.67" ry="18"/>
+<text text-anchor="middle" x="22595.19" y="-302.3" font-family="arial" font-size="14.00">kotlinCompilerPluginClasspathDebugUnitTest</text>
+</g>
+<!-- kotlinCompilerPluginClasspathDebugUnitTest&#45;&gt;kotlinCompilerPluginClasspath -->
+<g id="edge103" class="edge link&#45;class">
+<title>kotlinCompilerPluginClasspathDebugUnitTest&#45;&gt;kotlinCompilerPluginClasspath</title>
+<path fill="none" stroke="black" d="M22595.19,-287.7C22595.19,-279.98 22595.19,-270.71 22595.19,-262.11"/>
+<polygon fill="black" stroke="black" points="22598.7,-262.1 22595.19,-252.1 22591.7,-262.1 22598.7,-262.1"/>
+</g>
+<!-- kotlinCompilerPluginClasspathRelease -->
+<g id="node145" class="node">
+<title>kotlinCompilerPluginClasspathRelease</title>
+<ellipse fill="none" stroke="black" cx="22963.19" cy="-306" rx="162.47" ry="18"/>
+<text text-anchor="middle" x="22963.19" y="-302.3" font-family="arial" font-size="14.00">kotlinCompilerPluginClasspathRelease</text>
+</g>
+<!-- kotlinCompilerPluginClasspathRelease&#45;&gt;kotlinCompilerPluginClasspath -->
+<g id="edge104" class="edge link&#45;class">
+<title>kotlinCompilerPluginClasspathRelease&#45;&gt;kotlinCompilerPluginClasspath</title>
+<path fill="none" stroke="black" d="M22885.15,-290.15C22824.5,-278.62 22740.53,-262.65 22678.57,-250.86"/>
+<polygon fill="black" stroke="black" points="22678.91,-247.36 22668.43,-248.93 22677.6,-254.24 22678.91,-247.36"/>
+</g>
+<!-- kotlinCompilerPluginClasspathReleaseUnitTest -->
+<g id="node146" class="node">
+<title>kotlinCompilerPluginClasspathReleaseUnitTest</title>
+<ellipse fill="none" stroke="black" cx="23338.19" cy="-306" rx="194.17" ry="18"/>
+<text text-anchor="middle" x="23338.19" y="-302.3" font-family="arial" font-size="14.00">kotlinCompilerPluginClasspathReleaseUnitTest</text>
+</g>
+<!-- kotlinCompilerPluginClasspathReleaseUnitTest&#45;&gt;kotlinCompilerPluginClasspath -->
+<g id="edge105" class="edge link&#45;class">
+<title>kotlinCompilerPluginClasspathReleaseUnitTest&#45;&gt;kotlinCompilerPluginClasspath</title>
+<path fill="none" stroke="black" d="M23207.07,-292.65C23065.98,-279.35 22843.82,-258.42 22709.57,-245.78"/>
+<polygon fill="black" stroke="black" points="22709.55,-242.26 22699.26,-244.8 22708.89,-249.23 22709.55,-242.26"/>
+</g>
+<!-- releaseAnnotationProcessorClasspath -->
+<g id="node147" class="node">
+<title>releaseAnnotationProcessorClasspath</title>
+<ellipse fill="none" stroke="black" cx="18158.19" cy="-306" rx="159.77" ry="18"/>
+<text text-anchor="middle" x="18158.19" y="-302.3" font-family="arial" font-size="14.00">releaseAnnotationProcessorClasspath</text>
+</g>
+<!-- releaseAnnotationProcessorClasspath&#45;&gt;annotationProcessor -->
+<g id="edge107" class="edge link&#45;class">
+<title>releaseAnnotationProcessorClasspath&#45;&gt;annotationProcessor</title>
+<path fill="none" stroke="black" d="M18112.04,-288.76C18081.99,-278.2 18042.74,-264.39 18011.53,-253.41"/>
+<polygon fill="black" stroke="black" points="18012.3,-249.97 18001.7,-249.95 18009.97,-256.57 18012.3,-249.97"/>
+</g>
+<!-- releaseAnnotationProcessorClasspath&#45;&gt;releaseAnnotationProcessor -->
+<g id="edge106" class="edge link&#45;class">
+<title>releaseAnnotationProcessorClasspath&#45;&gt;releaseAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M18165.86,-287.7C18169.39,-279.73 18173.65,-270.1 18177.56,-261.26"/>
+<polygon fill="black" stroke="black" points="18180.77,-262.67 18181.62,-252.1 18174.37,-259.83 18180.77,-262.67"/>
+</g>
+<!-- releaseApi -->
+<g id="node148" class="node">
+<title>releaseApi</title>
+<ellipse fill="none" stroke="black" cx="7208.19" cy="-90" rx="51.99" ry="18"/>
+<text text-anchor="middle" x="7208.19" y="-86.3" font-family="arial" font-size="14.00">releaseApi</text>
+</g>
+<!-- releaseApi&#45;&gt;api -->
+<g id="edge108" class="edge link&#45;class">
+<title>releaseApi&#45;&gt;api</title>
+<path fill="none" stroke="black" d="M7174.76,-76C7142.05,-63.28 7092.58,-44.04 7060.33,-31.5"/>
+<polygon fill="black" stroke="black" points="7061.49,-28.19 7050.91,-27.83 7058.96,-34.72 7061.49,-28.19"/>
+</g>
+<!-- releaseApiDependenciesMetadata -->
+<g id="node149" class="node">
+<title>releaseApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="7511.19" cy="-162" rx="145.67" ry="18"/>
+<text text-anchor="middle" x="7511.19" y="-158.3" font-family="arial" font-size="14.00">releaseApiDependenciesMetadata</text>
+</g>
+<!-- releaseApiDependenciesMetadata&#45;&gt;releaseApi -->
+<g id="edge109" class="edge link&#45;class">
+<title>releaseApiDependenciesMetadata&#45;&gt;releaseApi</title>
+<path fill="none" stroke="black" d="M7439.21,-146.34C7390.95,-136.24 7326.06,-122.14 7269.19,-108 7265.11,-106.99 7260.89,-105.89 7256.66,-104.77"/>
+<polygon fill="black" stroke="black" points="7257.4,-101.35 7246.83,-102.12 7255.57,-108.11 7257.4,-101.35"/>
+</g>
+<!-- releaseApiElements -->
+<g id="node150" class="node">
+<title>releaseApiElements</title>
+<ellipse fill="none" stroke="black" cx="8400.19" cy="-162" rx="89.08" ry="18"/>
+<text text-anchor="middle" x="8400.19" y="-158.3" font-family="arial" font-size="14.00">releaseApiElements</text>
+</g>
+<!-- releaseApiElements&#45;&gt;api -->
+<g id="edge111" class="edge link&#45;class">
+<title>releaseApiElements&#45;&gt;api</title>
+<path fill="none" stroke="black" d="M8335.94,-149.46C8324.71,-147.56 8313.12,-145.66 8302.19,-144 8058.91,-106.96 7998.01,-96.98 7753.19,-72 7490.4,-45.18 7172.67,-26.79 7065.52,-20.97"/>
+<polygon fill="black" stroke="black" points="7065.41,-17.46 7055.24,-20.41 7065.03,-24.45 7065.41,-17.46"/>
+</g>
+<!-- releaseApiElements&#45;&gt;releaseApi -->
+<g id="edge110" class="edge link&#45;class">
+<title>releaseApiElements&#45;&gt;releaseApi</title>
+<path fill="none" stroke="black" d="M8338.42,-148.96C8326.45,-147 8313.96,-145.22 8302.19,-144 7845.25,-96.63 7723.2,-178.16 7269.19,-108 7264.49,-107.27 7259.62,-106.3 7254.79,-105.2"/>
+<polygon fill="black" stroke="black" points="7255.53,-101.77 7244.98,-102.76 7253.85,-108.57 7255.53,-101.77"/>
+</g>
+<!-- releaseCompileClasspath -->
+<g id="node151" class="node">
+<title>releaseCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="6490.19" cy="-234" rx="111.28" ry="18"/>
+<text text-anchor="middle" x="6490.19" y="-230.3" font-family="arial" font-size="14.00">releaseCompileClasspath</text>
+</g>
+<!-- releaseCompileClasspath&#45;&gt;compileOnly -->
+<g id="edge114" class="edge link&#45;class">
+<title>releaseCompileClasspath&#45;&gt;compileOnly</title>
+<path fill="none" stroke="black" d="M6481.87,-215.75C6471.82,-196.34 6453.33,-164.81 6430.19,-144 6414.07,-129.5 6393.27,-117.65 6374.81,-108.86"/>
+<polygon fill="black" stroke="black" points="6376.24,-105.67 6365.69,-104.67 6373.32,-112.03 6376.24,-105.67"/>
+</g>
+<!-- releaseCompileClasspath&#45;&gt;implementation -->
+<g id="edge115" class="edge link&#45;class">
+<title>releaseCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M6567.5,-221.02C6653.84,-207.4 6782.82,-186.24 6792.19,-180 6814.64,-165.06 6830.1,-137.94 6839.2,-117.55"/>
+<polygon fill="black" stroke="black" points="6842.49,-118.74 6843.15,-108.17 6836.04,-116.02 6842.49,-118.74"/>
+</g>
+<!-- releaseCompileOnly -->
+<g id="node152" class="node">
+<title>releaseCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="6330.19" cy="-162" rx="90.98" ry="18"/>
+<text text-anchor="middle" x="6330.19" y="-158.3" font-family="arial" font-size="14.00">releaseCompileOnly</text>
+</g>
+<!-- releaseCompileClasspath&#45;&gt;releaseCompileOnly -->
+<g id="edge112" class="edge link&#45;class">
+<title>releaseCompileClasspath&#45;&gt;releaseCompileOnly</title>
+<path fill="none" stroke="black" d="M6453.49,-216.94C6430.17,-206.74 6399.84,-193.47 6375.09,-182.64"/>
+<polygon fill="black" stroke="black" points="6376.47,-179.42 6365.91,-178.62 6373.66,-185.84 6376.47,-179.42"/>
+</g>
+<!-- releaseImplementation -->
+<g id="node153" class="node">
+<title>releaseImplementation</title>
+<ellipse fill="none" stroke="black" cx="7208.19" cy="-162" rx="100.98" ry="18"/>
+<text text-anchor="middle" x="7208.19" y="-158.3" font-family="arial" font-size="14.00">releaseImplementation</text>
+</g>
+<!-- releaseCompileClasspath&#45;&gt;releaseImplementation -->
+<g id="edge113" class="edge link&#45;class">
+<title>releaseCompileClasspath&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M6568.21,-221.17C6582.17,-219.28 6596.6,-217.46 6610.19,-216 6826.43,-192.73 6882.12,-204.63 7098.19,-180 7107.6,-178.93 7117.43,-177.64 7127.19,-176.27"/>
+<polygon fill="black" stroke="black" points="7127.9,-179.7 7137.3,-174.81 7126.9,-172.77 7127.9,-179.7"/>
+</g>
+<!-- releaseCompileOnly&#45;&gt;compileOnly -->
+<g id="edge116" class="edge link&#45;class">
+<title>releaseCompileOnly&#45;&gt;compileOnly</title>
+<path fill="none" stroke="black" d="M6330.19,-143.7C6330.19,-135.98 6330.19,-126.71 6330.19,-118.11"/>
+<polygon fill="black" stroke="black" points="6333.7,-118.1 6330.19,-108.1 6326.7,-118.1 6333.7,-118.1"/>
+</g>
+<!-- releaseImplementation&#45;&gt;implementation -->
+<g id="edge118" class="edge link&#45;class">
+<title>releaseImplementation&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M7142.77,-148.24C7077.78,-135.57 6978.74,-116.26 6913.99,-103.63"/>
+<polygon fill="black" stroke="black" points="6914.38,-100.14 6903.9,-101.67 6913.04,-107.02 6914.38,-100.14"/>
+</g>
+<!-- releaseImplementation&#45;&gt;releaseApi -->
+<g id="edge117" class="edge link&#45;class">
+<title>releaseImplementation&#45;&gt;releaseApi</title>
+<path fill="none" stroke="black" d="M7208.19,-143.7C7208.19,-135.98 7208.19,-126.71 7208.19,-118.11"/>
+<polygon fill="black" stroke="black" points="7211.7,-118.1 7208.19,-108.1 7204.7,-118.1 7211.7,-118.1"/>
+</g>
+<!-- releaseCompileOnlyDependenciesMetadata -->
+<g id="node154" class="node">
+<title>releaseCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="6177.19" cy="-234" rx="183.87" ry="18"/>
+<text text-anchor="middle" x="6177.19" y="-230.3" font-family="arial" font-size="14.00">releaseCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- releaseCompileOnlyDependenciesMetadata&#45;&gt;releaseCompileOnly -->
+<g id="edge119" class="edge link&#45;class">
+<title>releaseCompileOnlyDependenciesMetadata&#45;&gt;releaseCompileOnly</title>
+<path fill="none" stroke="black" d="M6213.84,-216.23C6235.68,-206.24 6263.52,-193.51 6286.49,-182.99"/>
+<polygon fill="black" stroke="black" points="6288.05,-186.13 6295.68,-178.79 6285.13,-179.77 6288.05,-186.13"/>
+</g>
+<!-- releaseImplementationDependenciesMetadata -->
+<g id="node155" class="node">
+<title>releaseImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="7461.19" cy="-234" rx="193.87" ry="18"/>
+<text text-anchor="middle" x="7461.19" y="-230.3" font-family="arial" font-size="14.00">releaseImplementationDependenciesMetadata</text>
+</g>
+<!-- releaseImplementationDependenciesMetadata&#45;&gt;releaseImplementation -->
+<g id="edge120" class="edge link&#45;class">
+<title>releaseImplementationDependenciesMetadata&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M7402.52,-216.76C7362.87,-205.8 7310.6,-191.33 7270.26,-180.17"/>
+<polygon fill="black" stroke="black" points="7271.11,-176.78 7260.54,-177.48 7269.24,-183.52 7271.11,-176.78"/>
+</g>
+<!-- releaseRuntimeClasspath -->
+<g id="node156" class="node">
+<title>releaseRuntimeClasspath</title>
+<ellipse fill="none" stroke="black" cx="7823.19" cy="-234" rx="111.58" ry="18"/>
+<text text-anchor="middle" x="7823.19" y="-230.3" font-family="arial" font-size="14.00">releaseRuntimeClasspath</text>
+</g>
+<!-- releaseRuntimeClasspath&#45;&gt;implementation -->
+<g id="edge124" class="edge link&#45;class">
+<title>releaseRuntimeClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M7741.57,-221.64C7726.81,-219.68 7711.55,-217.73 7697.19,-216 7545.89,-197.81 7494.61,-243.78 7356.19,-180 7335.07,-170.26 7339.29,-153.81 7318.19,-144 7251.12,-112.8 7045.37,-99.24 6929.92,-93.97"/>
+<polygon fill="black" stroke="black" points="6929.86,-90.46 6919.72,-93.51 6929.55,-97.45 6929.86,-90.46"/>
+</g>
+<!-- releaseRuntimeClasspath&#45;&gt;runtimeOnly -->
+<g id="edge123" class="edge link&#45;class">
+<title>releaseRuntimeClasspath&#45;&gt;runtimeOnly</title>
+<path fill="none" stroke="black" d="M7763.44,-218.69C7741.85,-210.68 7719.15,-198.45 7704.19,-180 7690.16,-162.68 7685.82,-137.42 7684.76,-118.23"/>
+<polygon fill="black" stroke="black" points="7688.25,-117.9 7684.46,-108.01 7681.25,-118.11 7688.25,-117.9"/>
+</g>
+<!-- releaseRuntimeClasspath&#45;&gt;releaseImplementation -->
+<g id="edge122" class="edge link&#45;class">
+<title>releaseRuntimeClasspath&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M7741.92,-221.57C7727.05,-219.61 7711.67,-217.67 7697.19,-216 7531.31,-196.83 7488.96,-200.22 7323.19,-180 7312.95,-178.75 7302.2,-177.32 7291.57,-175.83"/>
+<polygon fill="black" stroke="black" points="7291.82,-172.34 7281.43,-174.4 7290.84,-179.27 7291.82,-172.34"/>
+</g>
+<!-- releaseRuntimeOnly -->
+<g id="node157" class="node">
+<title>releaseRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="7804.19" cy="-162" rx="90.98" ry="18"/>
+<text text-anchor="middle" x="7804.19" y="-158.3" font-family="arial" font-size="14.00">releaseRuntimeOnly</text>
+</g>
+<!-- releaseRuntimeClasspath&#45;&gt;releaseRuntimeOnly -->
+<g id="edge121" class="edge link&#45;class">
+<title>releaseRuntimeClasspath&#45;&gt;releaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M7818.5,-215.7C7816.38,-207.9 7813.83,-198.51 7811.48,-189.83"/>
+<polygon fill="black" stroke="black" points="7814.83,-188.84 7808.84,-180.1 7808.08,-190.67 7814.83,-188.84"/>
+</g>
+<!-- releaseRuntimeOnly&#45;&gt;runtimeOnly -->
+<g id="edge125" class="edge link&#45;class">
+<title>releaseRuntimeOnly&#45;&gt;runtimeOnly</title>
+<path fill="none" stroke="black" d="M7776.59,-144.76C7759.87,-134.93 7738.38,-122.28 7720.44,-111.73"/>
+<polygon fill="black" stroke="black" points="7721.81,-108.48 7711.42,-106.43 7718.27,-114.51 7721.81,-108.48"/>
+</g>
+<!-- releaseRuntimeElements -->
+<g id="node158" class="node">
+<title>releaseRuntimeElements</title>
+<ellipse fill="none" stroke="black" cx="7823.19" cy="-306" rx="109.68" ry="18"/>
+<text text-anchor="middle" x="7823.19" y="-302.3" font-family="arial" font-size="14.00">releaseRuntimeElements</text>
+</g>
+<!-- releaseRuntimeElements&#45;&gt;releaseImplementation -->
+<g id="edge127" class="edge link&#45;class">
+<title>releaseRuntimeElements&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M7778.19,-289.57C7754.55,-280.44 7725.7,-267.59 7702.19,-252 7682.81,-239.14 7685.32,-225.74 7664.19,-216 7525.78,-152.22 7474.39,-199.15 7323.19,-180 7313.03,-178.71 7302.37,-177.27 7291.82,-175.78"/>
+<polygon fill="black" stroke="black" points="7292.15,-172.29 7281.75,-174.34 7291.16,-179.22 7292.15,-172.29"/>
+</g>
+<!-- releaseRuntimeElements&#45;&gt;releaseRuntimeClasspath -->
+<g id="edge126" class="edge link&#45;class">
+<title>releaseRuntimeElements&#45;&gt;releaseRuntimeClasspath</title>
+<path fill="none" stroke="black" d="M7823.19,-287.7C7823.19,-279.98 7823.19,-270.71 7823.19,-262.11"/>
+<polygon fill="black" stroke="black" points="7826.7,-262.1 7823.19,-252.1 7819.7,-262.1 7826.7,-262.1"/>
+</g>
+<!-- releaseRuntimeElements&#45;&gt;releaseRuntimeOnly -->
+<g id="edge128" class="edge link&#45;class">
+<title>releaseRuntimeElements&#45;&gt;releaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M7929.47,-301.36C8070.49,-295.43 8304.84,-281.25 8331.19,-252 8341.91,-240.11 8342.02,-227.78 8331.19,-216 8299.36,-181.34 7955.9,-185.76 7909.19,-180 7899.81,-178.84 7889.98,-177.47 7880.25,-176.01"/>
+<polygon fill="black" stroke="black" points="7880.6,-172.52 7870.18,-174.46 7879.53,-179.44 7880.6,-172.52"/>
+</g>
+<!-- releaseRuntimeOnlyDependenciesMetadata -->
+<g id="node159" class="node">
+<title>releaseRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="8137.19" cy="-234" rx="184.67" ry="18"/>
+<text text-anchor="middle" x="8137.19" y="-230.3" font-family="arial" font-size="14.00">releaseRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- releaseRuntimeOnlyDependenciesMetadata&#45;&gt;releaseRuntimeOnly -->
+<g id="edge129" class="edge link&#45;class">
+<title>releaseRuntimeOnlyDependenciesMetadata&#45;&gt;releaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M8063.29,-217.46C8006.83,-205.6 7929.54,-189.35 7874.1,-177.69"/>
+<polygon fill="black" stroke="black" points="7874.52,-174.21 7864.01,-175.57 7873.08,-181.06 7874.52,-174.21"/>
+</g>
+<!-- releaseUnitTestAnnotationProcessorClasspath -->
+<g id="node160" class="node">
+<title>releaseUnitTestAnnotationProcessorClasspath</title>
+<ellipse fill="none" stroke="black" cx="35462.19" cy="-306" rx="191.97" ry="18"/>
+<text text-anchor="middle" x="35462.19" y="-302.3" font-family="arial" font-size="14.00">releaseUnitTestAnnotationProcessorClasspath</text>
+</g>
+<!-- releaseUnitTestAnnotationProcessorClasspath&#45;&gt;testAnnotationProcessor -->
+<g id="edge131" class="edge link&#45;class">
+<title>releaseUnitTestAnnotationProcessorClasspath&#45;&gt;testAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M35408.09,-288.68C35372.72,-278 35326.5,-264.06 35290.03,-253.05"/>
+<polygon fill="black" stroke="black" points="35290.6,-249.57 35280.02,-250.03 35288.58,-256.27 35290.6,-249.57"/>
+</g>
+<!-- testReleaseAnnotationProcessor -->
+<g id="node161" class="node">
+<title>testReleaseAnnotationProcessor</title>
+<ellipse fill="none" stroke="black" cx="35493.19" cy="-234" rx="138.38" ry="18"/>
+<text text-anchor="middle" x="35493.19" y="-230.3" font-family="arial" font-size="14.00">testReleaseAnnotationProcessor</text>
+</g>
+<!-- releaseUnitTestAnnotationProcessorClasspath&#45;&gt;testReleaseAnnotationProcessor -->
+<g id="edge130" class="edge link&#45;class">
+<title>releaseUnitTestAnnotationProcessorClasspath&#45;&gt;testReleaseAnnotationProcessor</title>
+<path fill="none" stroke="black" d="M35469.86,-287.7C35473.39,-279.73 35477.65,-270.1 35481.56,-261.26"/>
+<polygon fill="black" stroke="black" points="35484.77,-262.67 35485.62,-252.1 35478.37,-259.83 35484.77,-262.67"/>
+</g>
+<!-- releaseUnitTestApi -->
+<g id="node162" class="node">
+<title>releaseUnitTestApi</title>
+<ellipse fill="none" stroke="black" cx="11141.19" cy="-90" rx="83.69" ry="18"/>
+<text text-anchor="middle" x="11141.19" y="-86.3" font-family="arial" font-size="14.00">releaseUnitTestApi</text>
+</g>
+<!-- releaseUnitTestApi&#45;&gt;testApi -->
+<g id="edge132" class="edge link&#45;class">
+<title>releaseUnitTestApi&#45;&gt;testApi</title>
+<path fill="none" stroke="black" d="M11141.19,-71.7C11141.19,-63.98 11141.19,-54.71 11141.19,-46.11"/>
+<polygon fill="black" stroke="black" points="11144.7,-46.1 11141.19,-36.1 11137.7,-46.1 11144.7,-46.1"/>
+</g>
+<!-- testReleaseApi -->
+<g id="node163" class="node">
+<title>testReleaseApi</title>
+<ellipse fill="none" stroke="black" cx="11336.19" cy="-18" rx="69.59" ry="18"/>
+<text text-anchor="middle" x="11336.19" y="-14.3" font-family="arial" font-size="14.00">testReleaseApi</text>
+</g>
+<!-- releaseUnitTestApi&#45;&gt;testReleaseApi -->
+<g id="edge133" class="edge link&#45;class">
+<title>releaseUnitTestApi&#45;&gt;testReleaseApi</title>
+<path fill="none" stroke="black" d="M11182.55,-74.15C11213.25,-63.13 11255.21,-48.07 11287.53,-36.47"/>
+<polygon fill="black" stroke="black" points="11288.99,-39.66 11297.22,-32.99 11286.63,-33.07 11288.99,-39.66"/>
+</g>
+<!-- releaseUnitTestApiDependenciesMetadata -->
+<g id="node164" class="node">
+<title>releaseUnitTestApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="11041.19" cy="-162" rx="176.57" ry="18"/>
+<text text-anchor="middle" x="11041.19" y="-158.3" font-family="arial" font-size="14.00">releaseUnitTestApiDependenciesMetadata</text>
+</g>
+<!-- releaseUnitTestApiDependenciesMetadata&#45;&gt;releaseUnitTestApi -->
+<g id="edge134" class="edge link&#45;class">
+<title>releaseUnitTestApiDependenciesMetadata&#45;&gt;releaseUnitTestApi</title>
+<path fill="none" stroke="black" d="M11065.4,-144.05C11078.61,-134.81 11095.13,-123.24 11109.38,-113.27"/>
+<polygon fill="black" stroke="black" points="11111.71,-115.91 11117.9,-107.31 11107.7,-110.17 11111.71,-115.91"/>
+</g>
+<!-- releaseUnitTestCompileClasspath -->
+<g id="node165" class="node">
+<title>releaseUnitTestCompileClasspath</title>
+<ellipse fill="none" stroke="black" cx="10235.19" cy="-234" rx="142.97" ry="18"/>
+<text text-anchor="middle" x="10235.19" y="-230.3" font-family="arial" font-size="14.00">releaseUnitTestCompileClasspath</text>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;implementation -->
+<g id="edge140" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;implementation</title>
+<path fill="none" stroke="black" d="M10117.47,-223.74C10076,-220.81 10029.05,-217.85 9986.19,-216 9874.84,-211.2 8083.9,-220.86 7980.19,-180 7957.94,-171.23 7962.32,-153.07 7940.19,-144 7858.59,-110.54 7235.28,-112.51 7147.19,-108 7072.83,-104.19 6988.07,-99.3 6928,-95.75"/>
+<polygon fill="black" stroke="black" points="6928.02,-92.24 6917.83,-95.14 6927.61,-99.23 6928.02,-92.24"/>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;testCompileOnly -->
+<g id="edge137" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;testCompileOnly</title>
+<path fill="none" stroke="black" d="M10114.03,-224.44C9943.76,-212.11 9651.89,-189.76 9630.19,-180 9608.98,-170.45 9612.34,-155.64 9592.19,-144 9558.78,-124.69 9517.7,-111.86 9483.43,-103.66"/>
+<polygon fill="black" stroke="black" points="9484.03,-100.2 9473.5,-101.36 9482.45,-107.02 9484.03,-100.2"/>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;testImplementation -->
+<g id="edge138" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;testImplementation</title>
+<path fill="none" stroke="black" d="M10375.82,-230.67C10637.52,-225.62 11180.12,-211.46 11260.19,-180 11283.39,-170.89 11280.29,-153.83 11303.19,-144 11320.21,-136.69 11550.28,-112.62 11679.18,-99.58"/>
+<polygon fill="black" stroke="black" points="11679.82,-103.03 11689.42,-98.55 11679.12,-96.07 11679.82,-103.03"/>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;releaseImplementation -->
+<g id="edge139" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;releaseImplementation</title>
+<path fill="none" stroke="black" d="M10117.78,-223.66C10076.24,-220.71 10029.16,-217.76 9986.19,-216 8818.18,-168.17 8522.8,-254.79 7356.19,-180 7336.74,-178.75 7315.92,-176.77 7296.21,-174.58"/>
+<polygon fill="black" stroke="black" points="7296.36,-171.08 7286.02,-173.43 7295.57,-178.03 7296.36,-171.08"/>
+</g>
+<!-- testReleaseCompileOnly -->
+<g id="node166" class="node">
+<title>testReleaseCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="10103.19" cy="-90" rx="108.58" ry="18"/>
+<text text-anchor="middle" x="10103.19" y="-86.3" font-family="arial" font-size="14.00">testReleaseCompileOnly</text>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;testReleaseCompileOnly -->
+<g id="edge135" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;testReleaseCompileOnly</title>
+<path fill="none" stroke="black" d="M10274.14,-216.48C10289.18,-207.94 10304.77,-195.92 10313.19,-180 10320.68,-165.86 10323.03,-156.62 10313.19,-144 10298.39,-124.99 10245.77,-111.73 10196.91,-103.23"/>
+<polygon fill="black" stroke="black" points="10197.32,-99.75 10186.88,-101.54 10196.16,-106.65 10197.32,-99.75"/>
+</g>
+<!-- testReleaseImplementation -->
+<g id="node167" class="node">
+<title>testReleaseImplementation</title>
+<ellipse fill="none" stroke="black" cx="13396.19" cy="-90" rx="118.08" ry="18"/>
+<text text-anchor="middle" x="13396.19" y="-86.3" font-family="arial" font-size="14.00">testReleaseImplementation</text>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;testReleaseImplementation -->
+<g id="edge136" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;testReleaseImplementation</title>
+<path fill="none" stroke="black" d="M10375.74,-230.5C10953.97,-220.23 13119.17,-181.65 13123.19,-180 13144.73,-171.19 13140.67,-154.95 13161.19,-144 13200.91,-122.81 13248.76,-110.07 13290.9,-102.42"/>
+<polygon fill="black" stroke="black" points="13291.66,-105.84 13300.91,-100.68 13290.46,-98.95 13291.66,-105.84"/>
+</g>
+<!-- releaseUnitTestCompileOnly -->
+<g id="node168" class="node">
+<title>releaseUnitTestCompileOnly</title>
+<ellipse fill="none" stroke="black" cx="9761.19" cy="-162" rx="122.38" ry="18"/>
+<text text-anchor="middle" x="9761.19" y="-158.3" font-family="arial" font-size="14.00">releaseUnitTestCompileOnly</text>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;releaseUnitTestCompileOnly -->
+<g id="edge141" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;releaseUnitTestCompileOnly</title>
+<path fill="none" stroke="black" d="M10146.32,-219.87C10062.99,-207.57 9938.87,-189.24 9854.22,-176.74"/>
+<polygon fill="black" stroke="black" points="9854.5,-173.24 9844.1,-175.24 9853.48,-180.17 9854.5,-173.24"/>
+</g>
+<!-- releaseUnitTestImplementation -->
+<g id="node169" class="node">
+<title>releaseUnitTestImplementation</title>
+<ellipse fill="none" stroke="black" cx="12094.19" cy="-162" rx="131.88" ry="18"/>
+<text text-anchor="middle" x="12094.19" y="-158.3" font-family="arial" font-size="14.00">releaseUnitTestImplementation</text>
+</g>
+<!-- releaseUnitTestCompileClasspath&#45;&gt;releaseUnitTestImplementation -->
+<g id="edge142" class="edge link&#45;class">
+<title>releaseUnitTestCompileClasspath&#45;&gt;releaseUnitTestImplementation</title>
+<path fill="none" stroke="black" d="M10375.3,-230.29C10728.32,-223.2 11647.92,-203.07 11953.19,-180 11966.22,-179.02 11979.9,-177.71 11993.4,-176.26"/>
+<polygon fill="black" stroke="black" points="11994.12,-179.7 12003.67,-175.12 11993.35,-172.74 11994.12,-179.7"/>
+</g>
+<!-- releaseUnitTestCompileOnly&#45;&gt;testCompileOnly -->
+<g id="edge143" class="edge link&#45;class">
+<title>releaseUnitTestCompileOnly&#45;&gt;testCompileOnly</title>
+<path fill="none" stroke="black" d="M9692.22,-147.09C9630.53,-134.64 9540.73,-116.53 9480.02,-104.28"/>
+<polygon fill="black" stroke="black" points="9480.66,-100.84 9470.16,-102.29 9479.27,-107.7 9480.66,-100.84"/>
+</g>
+<!-- releaseUnitTestCompileOnly&#45;&gt;testReleaseCompileOnly -->
+<g id="edge144" class="edge link&#45;class">
+<title>releaseUnitTestCompileOnly&#45;&gt;testReleaseCompileOnly</title>
+<path fill="none" stroke="black" d="M9829.58,-147C9886.89,-135.27 9968.6,-118.55 10027.79,-106.43"/>
+<polygon fill="black" stroke="black" points="10028.73,-109.81 10037.83,-104.38 10027.33,-102.96 10028.73,-109.81"/>
+</g>
+<!-- releaseUnitTestImplementation&#45;&gt;testImplementation -->
+<g id="edge146" class="edge link&#45;class">
+<title>releaseUnitTestImplementation&#45;&gt;testImplementation</title>
+<path fill="none" stroke="black" d="M12026.03,-146.5C11969.47,-134.46 11889.47,-117.44 11833.02,-105.43"/>
+<polygon fill="black" stroke="black" points="11833.62,-101.98 11823.11,-103.32 11832.17,-108.83 11833.62,-101.98"/>
+</g>
+<!-- releaseUnitTestImplementation&#45;&gt;releaseUnitTestApi -->
+<g id="edge145" class="edge link&#45;class">
+<title>releaseUnitTestImplementation&#45;&gt;releaseUnitTestApi</title>
+<path fill="none" stroke="black" d="M12002.52,-149C11986.11,-147.13 11969.16,-145.36 11953.19,-144 11634.39,-116.83 11552.02,-144.85 11234.19,-108 11226.31,-107.09 11218.09,-105.91 11209.94,-104.61"/>
+<polygon fill="black" stroke="black" points="11210.5,-101.15 11200.06,-102.96 11209.35,-108.06 11210.5,-101.15"/>
+</g>
+<!-- releaseUnitTestImplementation&#45;&gt;testReleaseImplementation -->
+<g id="edge147" class="edge link&#45;class">
+<title>releaseUnitTestImplementation&#45;&gt;testReleaseImplementation</title>
+<path fill="none" stroke="black" d="M12203.15,-151.83C12237.69,-149.1 12276.03,-146.24 12311.19,-144 12405.05,-138.03 13011.31,-109.19 13274.53,-96.74"/>
+<polygon fill="black" stroke="black" points="13275.07,-100.22 13284.9,-96.25 13274.74,-93.23 13275.07,-100.22"/>
+</g>
+<!-- releaseUnitTestCompileOnlyDependenciesMetadata -->
+<g id="node170" class="node">
+<title>releaseUnitTestCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="9761.19" cy="-234" rx="215.56" ry="18"/>
+<text text-anchor="middle" x="9761.19" y="-230.3" font-family="arial" font-size="14.00">releaseUnitTestCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- releaseUnitTestCompileOnlyDependenciesMetadata&#45;&gt;releaseUnitTestCompileOnly -->
+<g id="edge148" class="edge link&#45;class">
+<title>releaseUnitTestCompileOnlyDependenciesMetadata&#45;&gt;releaseUnitTestCompileOnly</title>
+<path fill="none" stroke="black" d="M9761.19,-215.7C9761.19,-207.98 9761.19,-198.71 9761.19,-190.11"/>
+<polygon fill="black" stroke="black" points="9764.7,-190.1 9761.19,-180.1 9757.7,-190.1 9764.7,-190.1"/>
+</g>
+<!-- releaseUnitTestImplementationDependenciesMetadata -->
+<g id="node171" class="node">
+<title>releaseUnitTestImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="12094.19" cy="-234" rx="225.56" ry="18"/>
+<text text-anchor="middle" x="12094.19" y="-230.3" font-family="arial" font-size="14.00">releaseUnitTestImplementationDependenciesMetadata</text>
+</g>
+<!-- releaseUnitTestImplementationDependenciesMetadata&#45;&gt;releaseUnitTestImplementation -->
+<g id="edge149" class="edge link&#45;class">
+<title>releaseUnitTestImplementationDependenciesMetadata&#45;&gt;releaseUnitTestImplementation</title>
+<path fill="none" stroke="black" d="M12094.19,-215.7C12094.19,-207.98 12094.19,-198.71 12094.19,-190.11"/>
+<polygon fill="black" stroke="black" points="12097.7,-190.1 12094.19,-180.1 12090.7,-190.1 12097.7,-190.1"/>
+</g>
+<!-- releaseUnitTestRuntimeClasspath -->
+<g id="node172" class="node">
+<title>releaseUnitTestRuntimeClasspath</title>
+<ellipse fill="none" stroke="black" cx="13998.19" cy="-234" rx="143.77" ry="18"/>
+<text text-anchor="middle" x="13998.19" y="-230.3" font-family="arial" font-size="14.00">releaseUnitTestRuntimeClasspath</text>
+</g>
+<!-- releaseUnitTestRuntimeClasspath&#45;&gt;testImplementation -->
+<g id="edge153" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeClasspath&#45;&gt;testImplementation</title>
+<path fill="none" stroke="black" d="M13862.24,-228.1C13764.13,-224.61 13628.48,-219.87 13509.19,-216 13376.09,-211.69 12434.8,-229.57 12311.19,-180 12289,-171.1 12293.05,-153.72 12271.19,-144 12199.74,-112.21 11985.03,-99.04 11859.44,-93.94"/>
+<polygon fill="black" stroke="black" points="11859.57,-90.44 11849.44,-93.55 11859.29,-97.44 11859.57,-90.44"/>
+</g>
+<!-- releaseUnitTestRuntimeClasspath&#45;&gt;testRuntimeOnly -->
+<g id="edge152" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeClasspath&#45;&gt;testRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14138.81,-230.31C14236.86,-223.44 14341.63,-202.86 14290.19,-144 14250.95,-99.08 14083.03,-117.85 14024.19,-108 14017.86,-106.94 14011.28,-105.76 14004.71,-104.53"/>
+<polygon fill="black" stroke="black" points="14004.91,-101.01 13994.43,-102.57 14003.59,-107.88 14004.91,-101.01"/>
+</g>
+<!-- releaseUnitTestRuntimeClasspath&#45;&gt;testReleaseImplementation -->
+<g id="edge151" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeClasspath&#45;&gt;testReleaseImplementation</title>
+<path fill="none" stroke="black" d="M13977.62,-215.89C13951.29,-195.04 13903.42,-160.56 13856.19,-144 13794.98,-122.53 13628.15,-107.07 13513.18,-98.57"/>
+<polygon fill="black" stroke="black" points="13513.14,-95.06 13502.92,-97.82 13512.63,-102.04 13513.14,-95.06"/>
+</g>
+<!-- releaseUnitTestRuntimeClasspath&#45;&gt;releaseUnitTestImplementation -->
+<g id="edge155" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeClasspath&#45;&gt;releaseUnitTestImplementation</title>
+<path fill="none" stroke="black" d="M13862.5,-228.08C13764.37,-224.57 13628.59,-219.82 13509.19,-216 12962.13,-198.49 12824.53,-213.19 12278.19,-180 12254.8,-178.58 12229.77,-176.58 12205.95,-174.46"/>
+<polygon fill="black" stroke="black" points="12206.09,-170.96 12195.82,-173.54 12205.46,-177.93 12206.09,-170.96"/>
+</g>
+<!-- testReleaseRuntimeOnly -->
+<g id="node173" class="node">
+<title>testReleaseRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="14498.19" cy="-90" rx="108.58" ry="18"/>
+<text text-anchor="middle" x="14498.19" y="-86.3" font-family="arial" font-size="14.00">testReleaseRuntimeOnly</text>
+</g>
+<!-- releaseUnitTestRuntimeClasspath&#45;&gt;testReleaseRuntimeOnly -->
+<g id="edge150" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeClasspath&#45;&gt;testReleaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14119.09,-224.23C14178.51,-217.02 14250.26,-203.89 14311.19,-180 14338.39,-169.34 14340.29,-157.51 14366.19,-144 14391.03,-131.05 14419.78,-119.17 14444.09,-109.95"/>
+<polygon fill="black" stroke="black" points="14445.38,-113.21 14453.52,-106.43 14442.93,-106.65 14445.38,-113.21"/>
+</g>
+<!-- releaseUnitTestRuntimeOnly -->
+<g id="node174" class="node">
+<title>releaseUnitTestRuntimeOnly</title>
+<ellipse fill="none" stroke="black" cx="14498.19" cy="-162" rx="122.68" ry="18"/>
+<text text-anchor="middle" x="14498.19" y="-158.3" font-family="arial" font-size="14.00">releaseUnitTestRuntimeOnly</text>
+</g>
+<!-- releaseUnitTestRuntimeClasspath&#45;&gt;releaseUnitTestRuntimeOnly -->
+<g id="edge154" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeClasspath&#45;&gt;releaseUnitTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14090.19,-220.12C14178.96,-207.69 14312.74,-188.96 14402.67,-176.37"/>
+<polygon fill="black" stroke="black" points="14403.18,-179.84 14412.6,-174.98 14402.21,-172.9 14403.18,-179.84"/>
+</g>
+<!-- releaseUnitTestRuntimeOnly&#45;&gt;testRuntimeOnly -->
+<g id="edge156" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeOnly&#45;&gt;testRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14400.29,-151.06C14283.24,-138.99 14094.36,-118.92 14024.19,-108 14017.6,-106.97 14010.74,-105.79 14003.9,-104.54"/>
+<polygon fill="black" stroke="black" points="14004.41,-101.08 13993.94,-102.67 14003.12,-107.96 14004.41,-101.08"/>
+</g>
+<!-- releaseUnitTestRuntimeOnly&#45;&gt;testReleaseRuntimeOnly -->
+<g id="edge157" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeOnly&#45;&gt;testReleaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14498.19,-143.7C14498.19,-135.98 14498.19,-126.71 14498.19,-118.11"/>
+<polygon fill="black" stroke="black" points="14501.7,-118.1 14498.19,-108.1 14494.7,-118.1 14501.7,-118.1"/>
+</g>
+<!-- releaseUnitTestRuntimeOnlyDependenciesMetadata -->
+<g id="node175" class="node">
+<title>releaseUnitTestRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="14498.19" cy="-234" rx="215.56" ry="18"/>
+<text text-anchor="middle" x="14498.19" y="-230.3" font-family="arial" font-size="14.00">releaseUnitTestRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- releaseUnitTestRuntimeOnlyDependenciesMetadata&#45;&gt;releaseUnitTestRuntimeOnly -->
+<g id="edge158" class="edge link&#45;class">
+<title>releaseUnitTestRuntimeOnlyDependenciesMetadata&#45;&gt;releaseUnitTestRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14498.19,-215.7C14498.19,-207.98 14498.19,-198.71 14498.19,-190.11"/>
+<polygon fill="black" stroke="black" points="14501.7,-190.1 14498.19,-180.1 14494.7,-190.1 14501.7,-190.1"/>
+</g>
+<!-- releaseWearBundling -->
+<g id="node176" class="node">
+<title>releaseWearBundling</title>
+<ellipse fill="none" stroke="black" cx="20910.19" cy="-306" rx="94.78" ry="18"/>
+<text text-anchor="middle" x="20910.19" y="-302.3" font-family="arial" font-size="14.00">releaseWearBundling</text>
+</g>
+<!-- releaseWearBundling&#45;&gt;releaseWearApp -->
+<g id="edge159" class="edge link&#45;class">
+<title>releaseWearBundling&#45;&gt;releaseWearApp</title>
+<path fill="none" stroke="black" d="M20914.64,-287.7C20916.65,-279.9 20919.06,-270.51 20921.3,-261.83"/>
+<polygon fill="black" stroke="black" points="20924.7,-262.66 20923.8,-252.1 20917.92,-260.92 20924.7,-262.66"/>
+</g>
+<!-- releaseWearBundling&#45;&gt;wearApp -->
+<g id="edge160" class="edge link&#45;class">
+<title>releaseWearBundling&#45;&gt;wearApp</title>
+<path fill="none" stroke="black" d="M20881.9,-288.76C20863.99,-278.49 20840.75,-265.15 20821.89,-254.33"/>
+<polygon fill="black" stroke="black" points="20823.45,-251.19 20813.03,-249.25 20819.96,-257.26 20823.45,-251.19"/>
+</g>
+<!-- runtimeOnlyDependenciesMetadata -->
+<g id="node177" class="node">
+<title>runtimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="8141.19" cy="-162" rx="152.17" ry="18"/>
+<text text-anchor="middle" x="8141.19" y="-158.3" font-family="arial" font-size="14.00">runtimeOnlyDependenciesMetadata</text>
+</g>
+<!-- runtimeOnlyDependenciesMetadata&#45;&gt;runtimeOnly -->
+<g id="edge161" class="edge link&#45;class">
+<title>runtimeOnlyDependenciesMetadata&#45;&gt;runtimeOnly</title>
+<path fill="none" stroke="black" d="M8052.46,-147.38C7962.58,-133.58 7825.88,-112.6 7747.08,-100.5"/>
+<polygon fill="black" stroke="black" points="7747.24,-96.98 7736.82,-98.93 7746.18,-103.9 7747.24,-96.98"/>
+</g>
+<!-- testApiDependenciesMetadata -->
+<g id="node178" class="node">
+<title>testApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="10576.19" cy="-90" rx="130.78" ry="18"/>
+<text text-anchor="middle" x="10576.19" y="-86.3" font-family="arial" font-size="14.00">testApiDependenciesMetadata</text>
+</g>
+<!-- testApiDependenciesMetadata&#45;&gt;testApi -->
+<g id="edge162" class="edge link&#45;class">
+<title>testApiDependenciesMetadata&#45;&gt;testApi</title>
+<path fill="none" stroke="black" d="M10669.81,-77.4C10792.26,-62.23 11002.09,-36.23 11094.81,-24.75"/>
+<polygon fill="black" stroke="black" points="11095.51,-28.19 11105,-23.48 11094.65,-21.24 11095.51,-28.19"/>
+</g>
+<!-- testCompileOnlyDependenciesMetadata -->
+<g id="node179" class="node">
+<title>testCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="9414.19" cy="-162" rx="168.97" ry="18"/>
+<text text-anchor="middle" x="9414.19" y="-158.3" font-family="arial" font-size="14.00">testCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- testCompileOnlyDependenciesMetadata&#45;&gt;testCompileOnly -->
+<g id="edge163" class="edge link&#45;class">
+<title>testCompileOnlyDependenciesMetadata&#45;&gt;testCompileOnly</title>
+<path fill="none" stroke="black" d="M9414.19,-143.7C9414.19,-135.98 9414.19,-126.71 9414.19,-118.11"/>
+<polygon fill="black" stroke="black" points="9417.7,-118.1 9414.19,-108.1 9410.7,-118.1 9417.7,-118.1"/>
+</g>
+<!-- testDebugApiDependenciesMetadata -->
+<g id="node180" class="node">
+<title>testDebugApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="14190.19" cy="-90" rx="156.77" ry="18"/>
+<text text-anchor="middle" x="14190.19" y="-86.3" font-family="arial" font-size="14.00">testDebugApiDependenciesMetadata</text>
+</g>
+<!-- testDebugApiDependenciesMetadata&#45;&gt;testDebugApi -->
+<g id="edge164" class="edge link&#45;class">
+<title>testDebugApiDependenciesMetadata&#45;&gt;testDebugApi</title>
+<path fill="none" stroke="black" d="M14080.64,-77.12C14062.14,-75.29 14043.13,-73.5 14025.19,-72 13749.38,-48.89 13420.63,-30.36 13277.62,-22.75"/>
+<polygon fill="black" stroke="black" points="13277.4,-19.24 13267.23,-22.2 13277.03,-26.23 13277.4,-19.24"/>
+</g>
+<!-- testDebugCompileOnlyDependenciesMetadata -->
+<g id="node181" class="node">
+<title>testDebugCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="8702.19" cy="-162" rx="194.97" ry="18"/>
+<text text-anchor="middle" x="8702.19" y="-158.3" font-family="arial" font-size="14.00">testDebugCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- testDebugCompileOnlyDependenciesMetadata&#45;&gt;testDebugCompileOnly -->
+<g id="edge165" class="edge link&#45;class">
+<title>testDebugCompileOnlyDependenciesMetadata&#45;&gt;testDebugCompileOnly</title>
+<path fill="none" stroke="black" d="M8754.48,-144.59C8788.49,-133.91 8832.85,-119.99 8867.82,-109.01"/>
+<polygon fill="black" stroke="black" points="8868.93,-112.33 8877.42,-106 8866.83,-105.65 8868.93,-112.33"/>
+</g>
+<!-- testDebugImplementationDependenciesMetadata -->
+<g id="node182" class="node">
+<title>testDebugImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="10603.19" cy="-162" rx="204.96" ry="18"/>
+<text text-anchor="middle" x="10603.19" y="-158.3" font-family="arial" font-size="14.00">testDebugImplementationDependenciesMetadata</text>
+</g>
+<!-- testDebugImplementationDependenciesMetadata&#45;&gt;testDebugImplementation -->
+<g id="edge166" class="edge link&#45;class">
+<title>testDebugImplementationDependenciesMetadata&#45;&gt;testDebugImplementation</title>
+<path fill="none" stroke="black" d="M10657.82,-144.59C10693.23,-133.95 10739.38,-120.08 10775.87,-109.12"/>
+<polygon fill="black" stroke="black" points="10777.32,-112.34 10785.89,-106.11 10775.3,-105.64 10777.32,-112.34"/>
+</g>
+<!-- testDebugRuntimeOnlyDependenciesMetadata -->
+<g id="node183" class="node">
+<title>testDebugRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="12918.19" cy="-162" rx="195.77" ry="18"/>
+<text text-anchor="middle" x="12918.19" y="-158.3" font-family="arial" font-size="14.00">testDebugRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- testDebugRuntimeOnlyDependenciesMetadata&#45;&gt;testDebugRuntimeOnly -->
+<g id="edge167" class="edge link&#45;class">
+<title>testDebugRuntimeOnlyDependenciesMetadata&#45;&gt;testDebugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M12918.19,-143.7C12918.19,-135.98 12918.19,-126.71 12918.19,-118.11"/>
+<polygon fill="black" stroke="black" points="12921.7,-118.1 12918.19,-108.1 12914.7,-118.1 12921.7,-118.1"/>
+</g>
+<!-- testFixturesApiDependenciesMetadata -->
+<g id="node184" class="node">
+<title>testFixturesApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="26716.19" cy="-234" rx="161.67" ry="18"/>
+<text text-anchor="middle" x="26716.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesApiDependenciesMetadata</text>
+</g>
+<!-- testFixturesApiDependenciesMetadata&#45;&gt;testFixturesApi -->
+<g id="edge168" class="edge link&#45;class">
+<title>testFixturesApiDependenciesMetadata&#45;&gt;testFixturesApi</title>
+<path fill="none" stroke="black" d="M26751.27,-216.41C26772.81,-206.22 26800.5,-193.12 26823.07,-182.45"/>
+<polygon fill="black" stroke="black" points="26824.86,-185.48 26832.4,-178.04 26821.86,-179.15 26824.86,-185.48"/>
+</g>
+<!-- testFixturesCompileOnlyDependenciesMetadata -->
+<g id="node185" class="node">
+<title>testFixturesCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="27441.19" cy="-306" rx="200.36" ry="18"/>
+<text text-anchor="middle" x="27441.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- testFixturesCompileOnlyDependenciesMetadata&#45;&gt;testFixturesCompileOnly -->
+<g id="edge169" class="edge link&#45;class">
+<title>testFixturesCompileOnlyDependenciesMetadata&#45;&gt;testFixturesCompileOnly</title>
+<path fill="none" stroke="black" d="M27441.19,-287.7C27441.19,-279.98 27441.19,-270.71 27441.19,-262.11"/>
+<polygon fill="black" stroke="black" points="27444.7,-262.1 27441.19,-252.1 27437.7,-262.1 27444.7,-262.1"/>
+</g>
+<!-- testFixturesDebugApiDependenciesMetadata -->
+<g id="node186" class="node">
+<title>testFixturesDebugApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="27890.19" cy="-234" rx="187.67" ry="18"/>
+<text text-anchor="middle" x="27890.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesDebugApiDependenciesMetadata</text>
+</g>
+<!-- testFixturesDebugApiDependenciesMetadata&#45;&gt;testFixturesDebugApi -->
+<g id="edge170" class="edge link&#45;class">
+<title>testFixturesDebugApiDependenciesMetadata&#45;&gt;testFixturesDebugApi</title>
+<path fill="none" stroke="black" d="M27931.43,-216.41C27956.85,-206.18 27989.56,-193.03 28016.14,-182.33"/>
+<polygon fill="black" stroke="black" points="28017.67,-185.49 28025.64,-178.51 28015.06,-179 28017.67,-185.49"/>
+</g>
+<!-- testFixturesDebugCompileOnlyDependenciesMetadata -->
+<g id="node187" class="node">
+<title>testFixturesDebugCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="28719.19" cy="-306" rx="226.36" ry="18"/>
+<text text-anchor="middle" x="28719.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesDebugCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- testFixturesDebugCompileOnlyDependenciesMetadata&#45;&gt;testFixturesDebugCompileOnly -->
+<g id="edge171" class="edge link&#45;class">
+<title>testFixturesDebugCompileOnlyDependenciesMetadata&#45;&gt;testFixturesDebugCompileOnly</title>
+<path fill="none" stroke="black" d="M28719.19,-287.7C28719.19,-279.98 28719.19,-270.71 28719.19,-262.11"/>
+<polygon fill="black" stroke="black" points="28722.7,-262.1 28719.19,-252.1 28715.7,-262.1 28722.7,-262.1"/>
+</g>
+<!-- testFixturesDebugImplementation -->
+<g id="node188" class="node">
+<title>testFixturesDebugImplementation</title>
+<ellipse fill="none" stroke="black" cx="28239.19" cy="-234" rx="142.97" ry="18"/>
+<text text-anchor="middle" x="28239.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesDebugImplementation</text>
+</g>
+<!-- testFixturesDebugImplementation&#45;&gt;testFixturesDebugApi -->
+<g id="edge172" class="edge link&#45;class">
+<title>testFixturesDebugImplementation&#45;&gt;testFixturesDebugApi</title>
+<path fill="none" stroke="black" d="M28198.17,-216.59C28172.52,-206.33 28139.38,-193.07 28112.47,-182.31"/>
+<polygon fill="black" stroke="black" points="28113.45,-178.93 28102.87,-178.47 28110.85,-185.43 28113.45,-178.93"/>
+</g>
+<!-- testFixturesDebugImplementationDependenciesMetadata -->
+<g id="node189" class="node">
+<title>testFixturesDebugImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="28239.19" cy="-306" rx="235.86" ry="18"/>
+<text text-anchor="middle" x="28239.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesDebugImplementationDependenciesMetadata</text>
+</g>
+<!-- testFixturesDebugImplementationDependenciesMetadata&#45;&gt;testFixturesDebugImplementation -->
+<g id="edge173" class="edge link&#45;class">
+<title>testFixturesDebugImplementationDependenciesMetadata&#45;&gt;testFixturesDebugImplementation</title>
+<path fill="none" stroke="black" d="M28239.19,-287.7C28239.19,-279.98 28239.19,-270.71 28239.19,-262.11"/>
+<polygon fill="black" stroke="black" points="28242.7,-262.1 28239.19,-252.1 28235.7,-262.1 28242.7,-262.1"/>
+</g>
+<!-- testFixturesDebugRuntimeOnlyDependenciesMetadata -->
+<g id="node190" class="node">
+<title>testFixturesDebugRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="29644.19" cy="-306" rx="226.66" ry="18"/>
+<text text-anchor="middle" x="29644.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesDebugRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- testFixturesDebugRuntimeOnlyDependenciesMetadata&#45;&gt;testFixturesDebugRuntimeOnly -->
+<g id="edge174" class="edge link&#45;class">
+<title>testFixturesDebugRuntimeOnlyDependenciesMetadata&#45;&gt;testFixturesDebugRuntimeOnly</title>
+<path fill="none" stroke="black" d="M29644.19,-287.7C29644.19,-279.98 29644.19,-270.71 29644.19,-262.11"/>
+<polygon fill="black" stroke="black" points="29647.7,-262.1 29644.19,-252.1 29640.7,-262.1 29647.7,-262.1"/>
+</g>
+<!-- testFixturesImplementation -->
+<g id="node191" class="node">
+<title>testFixturesImplementation</title>
+<ellipse fill="none" stroke="black" cx="27013.19" cy="-234" rx="116.98" ry="18"/>
+<text text-anchor="middle" x="27013.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesImplementation</text>
+</g>
+<!-- testFixturesImplementation&#45;&gt;testFixturesApi -->
+<g id="edge175" class="edge link&#45;class">
+<title>testFixturesImplementation&#45;&gt;testFixturesApi</title>
+<path fill="none" stroke="black" d="M26978.64,-216.76C26956.8,-206.51 26928.46,-193.19 26905.45,-182.38"/>
+<polygon fill="black" stroke="black" points="26906.81,-179.15 26896.27,-178.07 26903.84,-185.49 26906.81,-179.15"/>
+</g>
+<!-- testFixturesImplementationDependenciesMetadata -->
+<g id="node192" class="node">
+<title>testFixturesImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="27013.19" cy="-306" rx="209.86" ry="18"/>
+<text text-anchor="middle" x="27013.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesImplementationDependenciesMetadata</text>
+</g>
+<!-- testFixturesImplementationDependenciesMetadata&#45;&gt;testFixturesImplementation -->
+<g id="edge176" class="edge link&#45;class">
+<title>testFixturesImplementationDependenciesMetadata&#45;&gt;testFixturesImplementation</title>
+<path fill="none" stroke="black" d="M27013.19,-287.7C27013.19,-279.98 27013.19,-270.71 27013.19,-262.11"/>
+<polygon fill="black" stroke="black" points="27016.7,-262.1 27013.19,-252.1 27009.7,-262.1 27016.7,-262.1"/>
+</g>
+<!-- testFixturesReleaseApiDependenciesMetadata -->
+<g id="node193" class="node">
+<title>testFixturesReleaseApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="30782.19" cy="-234" rx="194.17" ry="18"/>
+<text text-anchor="middle" x="30782.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesReleaseApiDependenciesMetadata</text>
+</g>
+<!-- testFixturesReleaseApiDependenciesMetadata&#45;&gt;testFixturesReleaseApi -->
+<g id="edge177" class="edge link&#45;class">
+<title>testFixturesReleaseApiDependenciesMetadata&#45;&gt;testFixturesReleaseApi</title>
+<path fill="none" stroke="black" d="M30825.09,-216.41C30851.55,-206.18 30885.61,-193 30913.28,-182.3"/>
+<polygon fill="black" stroke="black" points="30914.72,-185.5 30922.78,-178.63 30912.19,-178.97 30914.72,-185.5"/>
+</g>
+<!-- testFixturesReleaseCompileOnlyDependenciesMetadata -->
+<g id="node194" class="node">
+<title>testFixturesReleaseCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="31637.19" cy="-306" rx="232.86" ry="18"/>
+<text text-anchor="middle" x="31637.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesReleaseCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- testFixturesReleaseCompileOnlyDependenciesMetadata&#45;&gt;testFixturesReleaseCompileOnly -->
+<g id="edge178" class="edge link&#45;class">
+<title>testFixturesReleaseCompileOnlyDependenciesMetadata&#45;&gt;testFixturesReleaseCompileOnly</title>
+<path fill="none" stroke="black" d="M31637.19,-287.7C31637.19,-279.98 31637.19,-270.71 31637.19,-262.11"/>
+<polygon fill="black" stroke="black" points="31640.7,-262.1 31637.19,-252.1 31633.7,-262.1 31640.7,-262.1"/>
+</g>
+<!-- testFixturesReleaseImplementation -->
+<g id="node195" class="node">
+<title>testFixturesReleaseImplementation</title>
+<ellipse fill="none" stroke="black" cx="31144.19" cy="-234" rx="149.47" ry="18"/>
+<text text-anchor="middle" x="31144.19" y="-230.3" font-family="arial" font-size="14.00">testFixturesReleaseImplementation</text>
+</g>
+<!-- testFixturesReleaseImplementation&#45;&gt;testFixturesReleaseApi -->
+<g id="edge179" class="edge link&#45;class">
+<title>testFixturesReleaseImplementation&#45;&gt;testFixturesReleaseApi</title>
+<path fill="none" stroke="black" d="M31101.76,-216.59C31075.21,-206.32 31040.9,-193.05 31013.06,-182.28"/>
+<polygon fill="black" stroke="black" points="31014.09,-178.93 31003.5,-178.59 31011.57,-185.46 31014.09,-178.93"/>
+</g>
+<!-- testFixturesReleaseImplementationDependenciesMetadata -->
+<g id="node196" class="node">
+<title>testFixturesReleaseImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="31144.19" cy="-306" rx="242.36" ry="18"/>
+<text text-anchor="middle" x="31144.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesReleaseImplementationDependenciesMetadata</text>
+</g>
+<!-- testFixturesReleaseImplementationDependenciesMetadata&#45;&gt;testFixturesReleaseImplementation -->
+<g id="edge180" class="edge link&#45;class">
+<title>testFixturesReleaseImplementationDependenciesMetadata&#45;&gt;testFixturesReleaseImplementation</title>
+<path fill="none" stroke="black" d="M31144.19,-287.7C31144.19,-279.98 31144.19,-270.71 31144.19,-262.11"/>
+<polygon fill="black" stroke="black" points="31147.7,-262.1 31144.19,-252.1 31140.7,-262.1 31147.7,-262.1"/>
+</g>
+<!-- testFixturesReleaseRuntimeOnlyDependenciesMetadata -->
+<g id="node197" class="node">
+<title>testFixturesReleaseRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="32586.19" cy="-306" rx="233.16" ry="18"/>
+<text text-anchor="middle" x="32586.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesReleaseRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- testFixturesReleaseRuntimeOnlyDependenciesMetadata&#45;&gt;testFixturesReleaseRuntimeOnly -->
+<g id="edge181" class="edge link&#45;class">
+<title>testFixturesReleaseRuntimeOnlyDependenciesMetadata&#45;&gt;testFixturesReleaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M32586.19,-287.7C32586.19,-279.98 32586.19,-270.71 32586.19,-262.11"/>
+<polygon fill="black" stroke="black" points="32589.7,-262.1 32586.19,-252.1 32582.7,-262.1 32589.7,-262.1"/>
+</g>
+<!-- testFixturesRuntimeOnlyDependenciesMetadata -->
+<g id="node198" class="node">
+<title>testFixturesRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="33306.19" cy="-306" rx="200.66" ry="18"/>
+<text text-anchor="middle" x="33306.19" y="-302.3" font-family="arial" font-size="14.00">testFixturesRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- testFixturesRuntimeOnlyDependenciesMetadata&#45;&gt;testFixturesRuntimeOnly -->
+<g id="edge182" class="edge link&#45;class">
+<title>testFixturesRuntimeOnlyDependenciesMetadata&#45;&gt;testFixturesRuntimeOnly</title>
+<path fill="none" stroke="black" d="M33306.19,-287.7C33306.19,-279.98 33306.19,-270.71 33306.19,-262.11"/>
+<polygon fill="black" stroke="black" points="33309.7,-262.1 33306.19,-252.1 33302.7,-262.1 33309.7,-262.1"/>
+</g>
+<!-- testImplementationDependenciesMetadata -->
+<g id="node199" class="node">
+<title>testImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="11765.19" cy="-162" rx="178.97" ry="18"/>
+<text text-anchor="middle" x="11765.19" y="-158.3" font-family="arial" font-size="14.00">testImplementationDependenciesMetadata</text>
+</g>
+<!-- testImplementationDependenciesMetadata&#45;&gt;testImplementation -->
+<g id="edge183" class="edge link&#45;class">
+<title>testImplementationDependenciesMetadata&#45;&gt;testImplementation</title>
+<path fill="none" stroke="black" d="M11765.19,-143.7C11765.19,-135.98 11765.19,-126.71 11765.19,-118.11"/>
+<polygon fill="black" stroke="black" points="11768.7,-118.1 11765.19,-108.1 11761.7,-118.1 11768.7,-118.1"/>
+</g>
+<!-- testReleaseApiDependenciesMetadata -->
+<g id="node200" class="node">
+<title>testReleaseApiDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="11406.19" cy="-90" rx="163.27" ry="18"/>
+<text text-anchor="middle" x="11406.19" y="-86.3" font-family="arial" font-size="14.00">testReleaseApiDependenciesMetadata</text>
+</g>
+<!-- testReleaseApiDependenciesMetadata&#45;&gt;testReleaseApi -->
+<g id="edge184" class="edge link&#45;class">
+<title>testReleaseApiDependenciesMetadata&#45;&gt;testReleaseApi</title>
+<path fill="none" stroke="black" d="M11389.25,-72.05C11380.57,-63.37 11369.84,-52.64 11360.31,-43.11"/>
+<polygon fill="black" stroke="black" points="11362.53,-40.39 11352.98,-35.79 11357.58,-45.33 11362.53,-40.39"/>
+</g>
+<!-- testReleaseCompileOnlyDependenciesMetadata -->
+<g id="node201" class="node">
+<title>testReleaseCompileOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="10103.19" cy="-162" rx="201.46" ry="18"/>
+<text text-anchor="middle" x="10103.19" y="-158.3" font-family="arial" font-size="14.00">testReleaseCompileOnlyDependenciesMetadata</text>
+</g>
+<!-- testReleaseCompileOnlyDependenciesMetadata&#45;&gt;testReleaseCompileOnly -->
+<g id="edge185" class="edge link&#45;class">
+<title>testReleaseCompileOnlyDependenciesMetadata&#45;&gt;testReleaseCompileOnly</title>
+<path fill="none" stroke="black" d="M10103.19,-143.7C10103.19,-135.98 10103.19,-126.71 10103.19,-118.11"/>
+<polygon fill="black" stroke="black" points="10106.7,-118.1 10103.19,-108.1 10099.7,-118.1 10106.7,-118.1"/>
+</g>
+<!-- testReleaseImplementationDependenciesMetadata -->
+<g id="node202" class="node">
+<title>testReleaseImplementationDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="13636.19" cy="-162" rx="211.46" ry="18"/>
+<text text-anchor="middle" x="13636.19" y="-158.3" font-family="arial" font-size="14.00">testReleaseImplementationDependenciesMetadata</text>
+</g>
+<!-- testReleaseImplementationDependenciesMetadata&#45;&gt;testReleaseImplementation -->
+<g id="edge186" class="edge link&#45;class">
+<title>testReleaseImplementationDependenciesMetadata&#45;&gt;testReleaseImplementation</title>
+<path fill="none" stroke="black" d="M13579.93,-144.59C13543.42,-133.94 13495.84,-120.06 13458.24,-109.1"/>
+<polygon fill="black" stroke="black" points="13459,-105.67 13448.42,-106.23 13457.04,-112.39 13459,-105.67"/>
+</g>
+<!-- testReleaseRuntimeOnlyDependenciesMetadata -->
+<g id="node203" class="node">
+<title>testReleaseRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="14841.19" cy="-162" rx="202.26" ry="18"/>
+<text text-anchor="middle" x="14841.19" y="-158.3" font-family="arial" font-size="14.00">testReleaseRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- testReleaseRuntimeOnlyDependenciesMetadata&#45;&gt;testReleaseRuntimeOnly -->
+<g id="edge187" class="edge link&#45;class">
+<title>testReleaseRuntimeOnlyDependenciesMetadata&#45;&gt;testReleaseRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14764.22,-145.29C14707.3,-133.67 14630.17,-117.93 14573.62,-106.39"/>
+<polygon fill="black" stroke="black" points="14574.16,-102.93 14563.66,-104.36 14572.76,-109.79 14574.16,-102.93"/>
+</g>
+<!-- testRuntimeOnlyDependenciesMetadata -->
+<g id="node204" class="node">
+<title>testRuntimeOnlyDependenciesMetadata</title>
+<ellipse fill="none" stroke="black" cx="14111.19" cy="-162" rx="169.77" ry="18"/>
+<text text-anchor="middle" x="14111.19" y="-158.3" font-family="arial" font-size="14.00">testRuntimeOnlyDependenciesMetadata</text>
+</g>
+<!-- testRuntimeOnlyDependenciesMetadata&#45;&gt;testRuntimeOnly -->
+<g id="edge188" class="edge link&#45;class">
+<title>testRuntimeOnlyDependenciesMetadata&#45;&gt;testRuntimeOnly</title>
+<path fill="none" stroke="black" d="M14070.43,-144.41C14044.86,-134 14011.84,-120.56 13985.31,-109.77"/>
+<polygon fill="black" stroke="black" points="13986.44,-106.45 13975.86,-105.92 13983.8,-112.93 13986.44,-106.45"/>
+</g>
+</g>
+</svg>
