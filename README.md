@@ -2,6 +2,14 @@
 
 Visualize gradle configurations relation in a graph
 
+- [Gradle Configuration Visualizer](#gradle-configuration-visualizer)
+  - [Getting started](#getting-started)
+  - [Graph task options](#graph-task-options)
+  - [Examples](#examples)
+    - [Show me parent Configurations of `implementation` on app module](#show-me-parent-configurations-of-implementation-on-app-module)
+    - [Show me all Configurations who extend `implementation` on app module](#show-me-all-configurations-who-extend-implementation-on-app-module)
+    - [Show me all Configurations who extend `implementation` on app module and tell me if it can be resolved](#show-me-all-configurations-who-extend-implementation-on-app-module-and-tell-me-if-it-can-be-resolved)
+    - [Just dump all configurations on app module](#just-dump-all-configurations-on-app-module)
 ## Getting started
 
 add this to your gradle project plugin block
@@ -29,7 +37,7 @@ example output of gradle configurations in an Android module::
 --show-resolved     Show symbol on the node wether the configuration can be resolved or not
 --target            Specific config dependency you want to check
 ```
-
+## Examples
 ### Show me parent Configurations of `implementation` on app module
 
 ```
