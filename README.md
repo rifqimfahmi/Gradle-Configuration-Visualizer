@@ -27,8 +27,9 @@ run `visualizeGradleConfig` task to generate entire module configuration graph v
 ./gradlew app:visualizeGradleConfig
 ```
 
-example output of gradle configurations in an Android module::
+example output of gradle configurations in an Android module:
 ![all config](./screenshots/allConfigurations.svg)
+visit [this link](https://raw.githubusercontent.com/rifqimfahmi/Gradle-Configuration-Visualizer/main/screenshots/allConfigurations.svg) to enlarge the image.
 
 ## Graph task options
 
